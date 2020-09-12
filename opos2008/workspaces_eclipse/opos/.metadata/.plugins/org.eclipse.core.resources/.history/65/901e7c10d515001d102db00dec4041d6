@@ -1,0 +1,21 @@
+import java.util.PriorityQueue;
+import java.util.Vector;
+
+
+public class Node {
+	
+	public PriorityQueue<Integer> operands;
+
+	public PriorityQueue<Integer> getOperands() {
+		return operands;
+	}
+
+	public void setOperands(PriorityQueue<Integer> operands) {
+		this.operands = operands;
+	}
+	
+	
+	
+	
+
+}

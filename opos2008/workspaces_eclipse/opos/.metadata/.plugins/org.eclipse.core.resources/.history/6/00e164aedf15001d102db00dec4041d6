@@ -1,0 +1,70 @@
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.PriorityQueue;
+import java.util.Vector;
+
+
+public class Node {
+	
+	private PriorityQueue<Integer> operands;
+	
+	private ArrayList<Node> fills;
+	
+	//Conté les operacions que s'han fet per arribar a aquest node des de el node arrel
+	private Vector<Operacio> operacions; 
+
+	public PriorityQueue<Integer> getOperands() {
+		return operands;
+	}
+
+	public void setOperands(PriorityQueue<Integer> operands) {
+		this.operands = operands;
+	}
+	
+	public Node() {
+		// TODO Auto-generated constructor stub
+		this.setOperands(new PriorityQueue<Integer>());
+	}
+	
+	//El primer element sempre conté el resultat parcial del node 
+	public int obtenirResultatParcialNode() {
+		return this.getOperands().peek().intValue();
+	}
+	
+	public void mostrarResultat(){
+		for (Iterator it = this.getOperands().iterator(); it.hasNext(); ){
+			System.out.println(((Operacio) it.next()).toString());
+			//TODO
+		}
+	}
+	
+	public void calcularFills()	{
+		int nOperands = this.getOperands().size();
+		
+		PriorityQueue<Integer> copia = new PriorityQueue<Integer>();
+		
+		//Obtenir una copia
+		for (Iterator<Integer> it = this.getOperands().iterator(); it.hasNext();) {
+			copia.add(it.next());
+		}
+		
+		for (Iterator<Integer> it = this.getOperands().iterator(); it.hasNext();) {
+			Integer operand = it.next();
+			copia.poll();
+			for (Iterator<Integer> it1 = copia.iterator(); it1.hasNext();) {
+				//Suma
+				int suma = operand.intValue()+ (it1.next()).intValue();
+				Node fill = new Node();
+				fill.getOperands().add(new Integer(suma));
+				fill.getOperands().addAll(c);
+				resolver.setSolucioABuscar(new Integer(args[6]).intValue());
+				fills.add(fill);
+			}
+			
+		}
+		
+	}
+	
+	
+
+}

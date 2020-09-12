@@ -1,0 +1,55 @@
+
+public class Operacio {
+	
+	public static final int SUMA=1;
+	
+	public static final int RESTA=2;
+	
+	public static final int MULTIPLICACIO=3;
+	
+	public static final int DIVISIO=4;
+	
+	private int operand1;
+	
+	private int operand2;
+	
+	private int operacio;
+	
+	public Operacio() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	boolean operacioValida(){
+		if (this.getOperacio()==this.DIVISIO) {
+			if (this.getOperand2()%this.getOperand2()!=0) {
+				return false;
+			}	
+		}
+		return true;
+	}
+
+	public int getOperand1() {
+		return operand1;
+	}
+
+	public void setOperand1(int operand1) {
+		this.operand1 = operand1;
+	}
+
+	public int getOperand2() {
+		return operand2;
+	}
+
+	public void setOperand2(int operand2) {
+		this.operand2 = operand2;
+	}
+
+	public int getOperacio() {
+		return operacio;
+	}
+
+	public void setOperacio(int operacio) {
+		this.operacio = operacio;
+	}
+
+}

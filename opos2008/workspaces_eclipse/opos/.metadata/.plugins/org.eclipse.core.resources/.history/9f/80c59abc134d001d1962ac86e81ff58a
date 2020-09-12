@@ -1,0 +1,34 @@
+
+
+//Estructures de dades
+
+struct distancia {
+	int dist;
+	int nodeAnterior;
+};
+
+int main(int argc, char **argv) {
+
+	//Iniciar el graf
+	//Paràmetres:
+	//argv[1]= nº de nodes
+	//Per cada node la seva llista d'adjacències (pesos als veins) parella: vei distancia
+	//argv[2]=nº de node inicial
+	//argv[3]= nº de veins del primer node
+	//argv[4] vegades:
+	// argv[5] nº node vei 1
+	// argv[6] pes node vei 2
+	// argv[7] nº node vei 2
+	// argv[8] pes node vei 2
+	// ...
+	
+	int nodeinicial,nnodes;
+	
+	nnodes=atoi(argv[1]);
+	nodeinicial=atoi(argv[2]);
+	
+	
+	
+}
+
+

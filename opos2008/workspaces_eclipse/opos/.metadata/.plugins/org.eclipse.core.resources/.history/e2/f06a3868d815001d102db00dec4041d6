@@ -1,0 +1,104 @@
+import java.util.Hashtable;
+
+public class XifresResolver {
+
+	private int solucioABuscar;
+
+	private Node millorSolucioTrobada;
+
+	private Hashtable<Integer, Node> nodesJaExplorats;
+
+	public int getSolucioABuscar() {
+		return solucioABuscar;
+	}
+
+	public void setSolucioABuscar(int solucioABuscar) {
+		this.solucioABuscar = solucioABuscar;
+	}
+
+	public Node getMillorSolucioTrobada() {
+		return millorSolucioTrobada;
+	}
+
+	public void setMillorSolucioTrobada(Node millorSolucioTrobada) {
+		this.millorSolucioTrobada = millorSolucioTrobada;
+	}
+
+	public XifresResolver() {
+		// TODO Auto-generated constructor stub
+	}
+
+	/*
+	 * @return retorna el següent node candidat o null si no hi han més
+	 * candidats
+	 */
+	public Node obtenirSeguentNodeCandidat(Node nodeActual) {
+
+		return new Node();
+
+	}
+	
+	
+
+	boolean resoldreXifres(Node nodeActual) {
+		/*
+		 * MENTRE QuedenCandidats AND NO Encertat FER Seleccionar I Esborrar
+		 * Candidat SI Acceptable LLAVORS Anotar Candidat SI NO Solucio Completa
+		 * LLAVORS Backtracking Pas Seguent {Crida Recursiva} SI NO Encertat
+		 * LLAVORS Desanotar Candidat FSI ALTRAMENT Encertat:= Cert FSI FSI
+		 * FMENTRE
+		 */
+
+		// Menstrestant quedin candidats i no s'ha trobat la solució
+
+		// Selecciona un candidat
+		nodeActual.getOperands()
+		Node candidat = this.obtenirSeguentNodeCandidat(nodeActual);
+
+		if (nodeActual.obtenirResultatParcialNode()==this.getSolucioABuscar()) {
+			this
+			return true;
+		}
+			
+		// Restricció
+
+		return true;
+	}
+
+	public static void main(String[] args) {
+		
+		XifresResolver resolver = new XifresResolver();
+		
+		// args Cada argument conté una xifra i l'argument final és la solució a
+		// buscar
+		if (args.length != 7) {
+			System.out.println("Nombre d'arguments incorrecte");
+		}
+
+		// Iniciar el conjunt de candidats
+		// El càlcul de candidats no és obvi en aquest cas i s'aniran calculen a
+		// mesura que es necessitin
+		
+		//Node inicial. 6 operands
+		Node nodeinicial = new Node();
+		
+		for (int i=0;i<6;i++) {
+			nodeinicial.getOperands().add((new Integer(args[i])));
+		}
+		resolver.setSolucioABuscar(new Integer(args[6]).intValue());
+		
+		//Iniciar la resolució del problema
+		
+		if (resolver.resoldreXifres(nodeinicial)) {
+			//Mostrar resultat
+			System.out.println("S'ha trobat una solució");
+			resolver.millorSolucioTrobada.mostrarResultat();
+		}
+		else {
+			//Mostrar millor resultat trobat
+			System.out.println("No s'ha trobat una solució exacte");
+			resolver.millorSolucioTrobada.mostrarResultat();
+		}
+		
+	}
+}

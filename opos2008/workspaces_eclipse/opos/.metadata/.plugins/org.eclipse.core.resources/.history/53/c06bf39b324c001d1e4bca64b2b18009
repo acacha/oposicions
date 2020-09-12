@@ -1,0 +1,220 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+
+#ifndef TRUE
+ #define TRUE 1
+ #define FALSE 0
+#endif
+
+typedef int boolean;
+
+typedef enum {LLIURE=0, VISITAT=1, PARET=-1,CAP=2,INICI=3,FI=4} vQuadre;
+
+typedef struct quadre QUADRE;
+
+struct quadre{
+ int posicio; // Les posicions van de la 0 (1,1) a la 80 (9,9) passant per 7 (1,9) i 8 (2,1)
+ vQuadre valor; // Els valors són 0 si no hi ha cap valor o de 1-9.
+};
+
+void mostrarSolucio(QUADRE tauler[], int files, int columnes);
+
+void buscarsortida (int pos, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes);
+
+boolean esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint);
+int main(int argc, char **argv) {
+	
+    //Paràmetres
+	// argv[1] --> files laberint
+	// argv[2] --> columnes laberint
+	// argv[3] --> columnes laberint
+	// argv[4] --> fila inicial
+	// argv[5] --> columna inicial
+	// argv[6] --> fila final
+	// argv[7] --> columna final	
+	//Per cada paret dos valors: fila i columna
+	
+	QUADRE *laberint;
+	int i,k,j, nparets, nquadres, nfiles,ncolumnes,filinici,colinici,filfinal,colfinal;
+	
+	if (argc<8) {
+		printf("S'ha d'especificar com a mínim 7 paràmetres: %s files columnes filainici colinici filfinal colfinal nparets\n",argv[0]);
+		exit(1);
+	}
+	
+	nparets= atoi (argv[7]);
+	nfiles=atoi(argv[1]);
+	ncolumnes=atoi(argv[2]);
+	nquadres=nfiles*ncolumnes;
+	filinici=atoi(argv[3]);
+	colinici=atoi(argv[4]);
+	filfinal=atoi(argv[5]);
+	colfinal=atoi(argv[6]);
+	
+	laberint = (QUADRE*) malloc(sizeof(QUADRE)*nquadres);
+	
+	if (argc!=(8+nparets*2)) {
+		printf("S'han d'especificar 2 valors/paràmetres per paret (fila i columna)\n");
+		exit(0);		
+	}
+	
+	//iniciar el laberint:
+	for (k = 0; k < nquadres; ++k) {
+		laberint[k].posicio=k;
+		laberint[k].valor=0;
+	}
+	
+	//Colocar les parets
+	int fil,col,pos;
+	for (i = 0; i < nparets; ++i) {
+		fil= atoi(argv[8+2*i]);
+		col= atoi(argv[9+2*i]);
+		pos= fil*ncolumnes + col;
+		laberint[pos].valor=PARET;
+	}
+	
+	//Inici
+	laberint[filinici*ncolumnes + colinici].valor=INICI;
+	laberint[filfinal*ncolumnes + colfinal].valor=FI;
+	
+	mostrarSolucio(laberint, nfiles,ncolumnes);
+	
+	buscarsortida(filinici*ncolumnes + colinici);
+	
+	exit(0);
+}
+
+void buscarsortida (int pos, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes) {
+	
+	int posFinal,i,fila,columna;
+	posFinal=filfinal*columnes + colfinal;
+	
+	mostrarSolucio(laberint, nfiles,ncolumnes);
+	
+	if (posFinal==pos) {
+		//Solució
+		exit(0);
+	}
+	
+	fila=pos/ncolumnes;
+	columna=pos%ncolumnes;
+	
+	for (i=0;i<4;i++) {
+		switch (i) {
+			case 0: //DRETA
+				if (esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint)){
+					laberint[pos]=VISITAT;
+					laberint[pos+1]=CAP;
+					buscarsortida (int pos+1, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes);
+					laberint[pos+1]=LLIURE;
+				}	
+				break;
+			case 0: //ABAIX
+				if (esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint)){
+					laberint[pos]=VISITAT;
+					laberint[pos+ncolumnes]=CAP;
+					buscarsortida (int pos+ncolumnes, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes);
+					laberint[pos+ncolumnes]=LLIURE;
+				}			
+				break;
+			case 2: //ESQUERRA
+				if (esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint)){
+					laberint[pos]=VISITAT;
+					laberint[pos-1]=CAP;
+					buscarsortida (int pos-1, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes);
+					laberint[pos-1]=LLIURE;
+				}			
+				break;
+			case 3://ADALT
+				if (esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint)){
+					laberint[pos]=VISITAT;
+					laberint[pos-ncolumnes]=CAP;
+					buscarsortida (int pos-ncolumnes, int filfinal,int colfinal,QUADRE *laberint,int nfiles,int ncolumnes);
+					laberint[pos-ncolumnes]=LLIURE;
+				}						
+				break;
+			default:
+				break;
+		}
+		//Cap valor és vàlid
+		laberint[pos]=LLIURE;
+	}
+}
+
+boolean esMovimentValid(int fila,int columna,int moviment,int nfiles,int ncolumnes, QUADRE *laberint){
+	
+	switch (moviment) {
+		case 0: //DRETA
+			//PARED LATERAL
+			if (columna==ncolumnes-1)
+				return FALSE;
+			if (laberint[(fila*ncolumnes)+columna+1].valor==LLIURE ||
+					laberint[(fila*ncolumnes)+columna+1].valor==FI) {
+				return TRUE;
+			}	
+			break;
+		case 0: //ABAIX
+			//PARED LATERAL
+			if (fila==nfiles-1)
+				return FALSE;
+			if (laberint[((fila+1)*ncolumnes)+columna].valor==LLIURE ||
+					laberint[((fila+1)*ncolumnes)+columna].valor==FI) {
+				return TRUE;
+			}	
+			break;
+		case 2: //ESQUERRA
+			//PARED LATERAL
+			if (columna==0)
+				return FALSE;
+			if (laberint[(fila*ncolumnes)+columna-1].valor==LLIURE ||
+					laberint[(fila*ncolumnes)+columna-1].valor==FI) {
+				return TRUE;
+			}	
+			break;
+		case 3://ADALT
+			//PARED LATERAL
+			if (fila==0)
+				return FALSE;
+			if (laberint[((fila-1)*ncolumnes)+columna].valor==LLIURE ||
+					laberint[((fila-1)*ncolumnes)+columna].valor==FI) {
+				return TRUE;
+			}						
+			break;
+		default:
+			break;
+	}
+	return FALSE;
+}
+
+void mostrarSolucio(QUADRE laberint[], int files, int columnes){
+	int i,j,posicio;
+	for (i = 0; i < files; ++i) {
+		for (j = 0; j < columnes; ++j) {
+			posicio=i*columnes+j;
+			//Si és pared pintar en negreta i #
+			
+			 if (laberint[posicio].valor==PARET) {
+				 printf("\033[1m#\033[0m");
+			 }			 
+			 if (laberint[posicio].valor==LLIURE) {
+				 printf("0");
+			 }			 
+			 if (laberint[posicio].valor==VISITAT) {
+			 	printf("*");
+			 }			 
+			 if (laberint[posicio].valor==CAP) {
+				 printf("\033[30m\033[1m\033[5m*\033[30m\033[1m\033[5m");
+			 }
+			 if (laberint[posicio].valor==INICI) {
+			 	 printf("I");
+			 }
+			 if (laberint[posicio].valor==FI) {
+			 	 printf("F");
+			 }
+		}
+		printf("\n");
+	}
+	printf("\n");
+	printf("\n");
+}

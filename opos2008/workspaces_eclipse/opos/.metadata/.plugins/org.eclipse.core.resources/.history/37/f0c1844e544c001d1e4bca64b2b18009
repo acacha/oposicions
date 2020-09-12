@@ -1,0 +1,320 @@
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+
+#ifndef TRUE
+ #define TRUE 1
+ #define FALSE 0
+#endif
+
+typedef int boolean;
+
+//ArbreBinari
+
+#ifndef SUMA
+ #define SUMA -1
+ #define RESTA -2
+ #define MULTIPLICACIO -3
+ #define DIVISIO -4
+#endif
+
+typedef int tipusDada;
+
+/*
+ * 0 < tipusDada < 1000
+ * Operacions:
+ * SUMA -1
+ * RESTA -2
+ * MULTIPLICACIO -3
+ * DIVISIO -4
+ */
+
+typedef struct arbre ARBRE;
+
+struct arbre {
+	tipusDada valor;
+	int acumulat;
+	ARBRE *esquerre;
+	ARBRE *dreta;
+};
+
+void mostrarResultat(ARBRE *resultat);
+
+int calcularResultat(ARBRE *resultat);
+
+char obtenirOperador(int valor);
+
+int main(int argc, char **argv) {
+    
+	/*Exemple senzill per a comprovar les operacions
+	
+	ARBRE resultat1;
+	ARBRE resultat2;
+	ARBRE resultat3;
+	ARBRE resultat4;
+	ARBRE resultat5;
+	
+	resultat1.valor=3;
+	resultat1.esquerre=NULL;
+	resultat1.dreta=NULL;
+	resultat1.acumulat=0;
+	
+	resultat2.valor=3;
+	resultat2.esquerre=NULL;
+	resultat2.dreta=NULL;
+	resultat2.acumulat=0;
+	
+	resultat3.valor=-1;
+	resultat3.esquerre=&resultat1;
+	resultat3.dreta=&resultat2;
+	resultat3.acumulat=0;
+	
+	resultat4.valor=3;
+	resultat4.esquerre=NULL;
+	resultat4.dreta=NULL;
+	resultat4.acumulat=0;
+	
+	resultat5.valor=-2;
+	resultat5.esquerre=&resultat3;
+	resultat5.dreta=&resultat4;
+	resultat5.acumulat=0;
+		*/
+	
+	ARBRE resultat;
+	int valorBuscat,nvalors,i;
+	int *valors;
+	
+	if (argc<4) {
+		printf("Cal passar com a mínim 4 paràmetres: %s valorBuscat nvalors valor1 valor2 ...\n",argv[0]);
+	}
+	
+	valorBuscat=atoi(argv[1]);
+	nvalors=atoi(argv[2]);
+	
+	if (argc!=(3+nvalors)) {
+		printf("Número de pàrametres incoherent...\n");
+	}
+	
+	valors = (int*) malloc(sizeof(int)*nvalors);
+	
+	//Inicialitzem valors
+	for (i = 0; i < nvalors; ++i) {
+		valors[i]=atoi(argv[3+i]);
+	}
+	
+	ARBRE primernode;
+	
+	primernode.acumulat=0;
+	primernode.valor=valors[0];
+	primernode.esquerre=NULL;
+	primernode.dreta=NULL;
+	
+	valors[0]=-1;
+	buscarResultat(&primernode,valorBuscat,nvalors,valors);
+	
+	free(valors);
+	exit(0);
+}
+
+void buscarResultat(ARBRE *resultat, int valorBuscat,int nvalors,int valors[]) {
+	
+	int i,j,valoractual,resultat;
+	
+	if (resultat!=NULL)
+		valoractual=resultat->valor;
+	else
+		valoractual=0;
+	
+	//Condició final
+	resultat=calcularResultat(resultat);
+	if (resultat==valorBuscat) {
+		//Trobada solució
+		mostrarResultat(resultat);
+		printf(" = %d\n",resultat);
+		//Si no volem mostrar més solucions:
+		//exit(0);
+	}
+	
+	for (int i = 0; i < nvalors; ++i) {
+		if (valors[i]!=NULL) {
+			int valor;
+			valor=valors[i];
+			for (j=-1,j>-6;j--) {
+				switch (j) {
+					case SUMA:
+						//Totes les sumes són vàlides
+						ARBRE tmp_resultat;
+						ARBRE new_resultat;
+						tmp_resultat.valor=valor;
+						tmp_resultat.esquerre=NULL;
+						tmp_resultat.dreta=NULL;
+						new_resultat.valor=SUMA;
+						new_resultat.esquerre=resultat;						
+						new_resultat.dreta=&tmp_resultat;
+						valors[i]=-1;
+						buscarResultat(&new_resultat,valorBuscat,nvalors,valors);
+						//Si arriba aqui és torna enrere
+						valors[i]=valor;
+						break;
+					case RESTA:
+						if (valor<valoractual)	{
+							ARBRE tmp_resultat;
+							ARBRE new_resultat;
+							tmp_resultat.valor=valor;
+							tmp_resultat.esquerre=NULL;
+							tmp_resultat.dreta=NULL;
+							new_resultat.valor=RESTA;
+							new_resultat.esquerre=resultat;						
+							new_resultat.dreta=&tmp_resultat;
+							valors[i]=-1;
+							buscarResultat(&new_resultat,valorBuscat,nvalors,valors);
+							//Si arriba aqui és torna enrere
+							valors[i]=valor;
+						}
+						break;
+					case MULTIPLICACIO:
+						//Totes les multiplicacions són vàlides
+						ARBRE tmp_resultat;
+						ARBRE new_resultat;
+						tmp_resultat.valor=valor;
+						tmp_resultat.esquerre=NULL;
+						tmp_resultat.dreta=NULL;
+						new_resultat.valor=MULTIPLICACIO;
+						new_resultat.esquerre=resultat;						
+						new_resultat.dreta=&tmp_resultat;
+						valors[i]=-1;
+						buscarResultat(&new_resultat,valorBuscat,nvalors,valors);
+						//Si arriba aqui és torna enrere
+						valors[i]=valor;
+						break;
+					case DIVISIO:
+						if (valor%valoractual==0)	{
+							ARBRE tmp_resultat;
+							ARBRE new_resultat;
+							tmp_resultat.valor=valor;
+							tmp_resultat.esquerre=NULL;
+							tmp_resultat.dreta=NULL;
+							new_resultat.valor=MULTIPLICACIO;
+							new_resultat.esquerre=resultat;						
+							new_resultat.dreta=&tmp_resultat;
+							valors[i]=-1;
+							buscarResultat(&new_resultat,valorBuscat,nvalors,valors);
+							//Si arriba aqui és torna enrere
+							valors[i]=valor;
+						}
+						break;
+					case -5:
+						//No utilitzar el valor actual
+						ARBRE new_resultat;
+						if (resultat->esquerre==NULL && resultat->dreta==NULL) {
+							//FULLA
+							new_resultat.valor=valors[i];
+							new_resultat.acumulat=valors[i];
+							new_resultat.esquerre=NULL;
+							new_resultat.dreta=NULL;
+						}
+						else {
+							ARBRE node_dret;
+							node_dret.valor=valors[i];
+							node_dret.acumulat=valors[i];
+							node_dret.esquerre=NULL;
+							node_dret.dreta=NULL;
+														
+							new_resultat.valor=resultat->valor:
+							new_resultat.acumulat=resultat->acumulat:
+							new_resultat.esquerre=resultat->esquerre:
+							new_resultat.dreta=resultat->esquerre:
+						}
+							
+						
+						buscarResultat(&new_resultat,valorBuscat,nvalors,valors);
+						valors[i]=valor;
+					default:
+						break;
+				}
+			}
+		}
+	}
+	
+}
+
+int calcularResultat(ARBRE *resultat) {
+	if (resultat==NULL) {
+		return 0;
+	}
+	//Recorregut postordre de l'arbre
+	int esquerre,dreta;
+	if (resultat->esquerre!=NULL)
+		esquerre= calcularResultat(resultat->esquerre);
+	if (resultat->dreta!=NULL)
+		dreta= calcularResultat(resultat->dreta);
+	//Operació
+	switch (resultat->valor) {
+		case SUMA:
+			resultat->acumulat=esquerre+dreta;
+			return esquerre+dreta;
+			break;
+		case RESTA:
+			resultat->acumulat=esquerre-dreta;
+			return esquerre-dreta;
+			break;
+		case MULTIPLICACIO:
+			resultat->acumulat=esquerre*dreta;
+			return esquerre*dreta;		
+			break;
+		case DIVISIO:
+			resultat->acumulat=esquerre/dreta;
+			return esquerre/dreta;	
+			break;
+		default:
+			//Estem en un node valor
+			resultat->acumulat=resultat->valor;
+			return resultat->acumulat;
+			break;
+	}
+}
+
+void mostrarResultat(ARBRE *resultat) {
+	if (resultat==NULL) {
+		return;
+	}
+	//RECORREGUT INORDRE de l'arbre 
+	if (resultat->esquerre!=NULL) {
+		printf("(");
+		mostrarResultat(resultat->esquerre);
+	}
+	//Operació
+	if (resultat->esquerre==NULL && resultat->dreta==NULL) {
+		//FULLA --> valor
+		printf("%d ",resultat->valor);
+	}
+	else { //operació
+		printf("%c ",obtenirOperador(resultat->valor));
+	}
+	
+	if (resultat->dreta!=NULL) {
+		mostrarResultat(resultat->dreta);
+		printf(")");
+	}	
+}
+
+char obtenirOperador(int valor) {
+	switch (valor) {
+		case SUMA:
+			return '+';
+			break;
+		case RESTA:
+			return '-';		
+			break;
+		case MULTIPLICACIO:
+			return '*';		
+			break;
+		case DIVISIO:
+			return '/';	
+			break;
+		default:
+			return 'e';
+			break;
+	}
+}
+

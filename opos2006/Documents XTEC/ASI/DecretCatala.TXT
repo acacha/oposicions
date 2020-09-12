@@ -1,0 +1,2384 @@
+UD1. Introducció als sistemes de telecomunicació. Telemàtica.
+UD2.  Protocols i arquitectures de xarxes de comunicacions. Estàndards.
+UD3
+UD4.
+UD5. 
+UD6. Interconnexió de xarxes locals.
+UD7. Xarxes d'àrea Extensa. InternetDECRET
+175/1997, de 22 de juliol, pel qual s'estableix el currículum del cicle formatiu de grau superior d'administració de sistemes informàtics (DOGC núm. 2447 de 4 d'agost de 1997).
+
+El Reial decret 1660/1994, de 22 de juliol, ha establert el títol de tècnic superior en administració de sistemes informàtics i els corresponents ensenyament mínims, en consonància amb el Reial decret 676/1993, de 7 de maig, el qual fixa les directrius generals sobre els títols de formació professional i els seus ensenyaments mínims.
+
+De conformitat amb l'article 4 de la Llei orgànica 1/1990, de 3 d'octubre, d'ordenació general del sistema educatiu, correspon a les administracions educatives competents establir el currículum del cicle formatiu corresponent.
+
+D'acord amb el Decret 332/1994, de 4 de novembre, pel qual s'estableix l'ordenació general dels ensenyaments de formació professional específica a Catalunya, correspon al Govern de la Generalitat de Catalunya l'establiment del currículum dels ensenyaments de formació professional.
+
+El currículum dels cicles formatius de formació professional específica s'estableix tenint present les necessitats generals de qualificació de cada àmbit professional detectades a Catalunya i les diverses mesures que permeten adequacions del currículum a les necessitats específiques de l'àmbit socioeconòmic dels centres docents.
+
+L'autonomia pedagògica i organitzativa dels centres i el treball en equip del professorat permeten desenvolupar actuacions flexibles i possibiliten concrecions particulars del currículum en cada centre docent. El currículum establert en aquest Decret ha de ser desplegat en les programacions elaborades per l'equip docent, les quals han de potenciar les capacitats clau de l'alumnat i han de respondre al requisit d'integració dels continguts del cicle formatiu.
+
+En virtut d'això, a proposta del conseller d'Ensenyament, amb l'informe del Consell Escolar de Catalunya, d'acord amb el dictamen de la Comissió Jurídica Assessora i amb la deliberació prèvia del Govern,
+
+Decreto:
+
+Article 1
+
+Aquest Decret estableix el currículum per a l'ensenyament de formació professional vinculat al títol de tècnic superior en administració de sistemes informàtics regulat pel Reial decret 1660/1994, de 22 de juliol, pel qual s'aproven els ensenyaments mínims.
+
+Article 2
+
+2.1 La denominació, nivell i durada del cicle formatiu són els que s'estableixen a l'apartat 1 de l'annex d'aquest Decret.
+
+2.2 El perfil professional és el que s'indica a l'apartat 2 de l'annex.
+
+2.3 Els objectius generals del cicle formatiu són els que s'estableixen a l'apartat 3.1 de l'annex.
+
+2.4 Els continguts del currículum s'estructuren en els crèdits que s'estableixen a l'apartat 3.2 de l'annex.
+
+2.5 Els objectius terminals són els criteris que serveixen de referència per a l'avaluació.
+
+2.6 Les hores a disposició del centre s'estableixen a l'apartat 3.3 de l'annex.
+
+Article 3
+
+La relació dels crèdits en què s'estructuren els mòduls professionals de l'ensenyament corresponent al títol de tècnic superior en administració de sistemes informàtics s'estableix a l'apartat 3.4 de l'annex.
+
+Article 4
+
+Les matèries del batxillerat que s'han hagut de cursar per accedir al cicle formatiu es detallen a l'apartat 3.5 de l'annex.
+
+Article 5
+
+Les especialitats exigides al professorat que imparteix els crèdits corresponents a aquest cicle formatiu són les que s'expressen a l'apartat 4 de l'annex.
+
+Article 6
+
+6.1 Els mòduls susceptibles de convalidació per estudis de formació professional ocupacional o de correspondència amb la pràctica laboral són els que s'especifiquen, respectivament, en els apartats 5.1 i 5.2 de l'annex.
+
+6.2 Els estudis universitaris als quals dóna accés aquest títol són els indicats a l'apartat 5.3 de l'annex.
+
+Disposicions addicionals
+
+Primera.- El conseller d'Ensenyament podrà desplegar el currículum a què es refereix aquest Decret tant en la modalitat d'educació presencial com en la d'educació a distància, el podrà adequar a les característiques dels alumnes amb necessitats educatives especials i el podrà adaptar a les característiques singulars de col·lectius d'alumnat.
+
+Segona.- El conseller d'Ensenyament podrà autoritzar la realització d'experimentacions sobre aquest currículum d'acord amb el que disposa el capítol 6 del Decret 332/1994, de 4 de novembre, pel qual s'estableix l'ordenació general dels ensenyaments de formació professional específica a Catalunya.
+
+Disposició final
+
+Aquest Decret entrarà en vigor l'endemà de la seva publicació al DOGC.
+
+Barcelona, 22 de juliol de 1997
+
+Jordi Pujol
+President de la Generalitat de Catalunya
+
+Josep Xavier Hernández i Moreno
+Conseller d'Ensenyament
+
+Annex
+
+Índex
+
+1. Identificació del títol.
+
+1.1 Denominació.
+1.2 Nivell.
+1.3 Durada del cicle formatiu.
+
+2. Perfil professional.
+
+2.1 Competència general.
+2.2 Competències professionals.
+2.3 Capacitats clau.
+2.4 Camp professional.
+
+3. Currículum.
+
+3.1 Objectius generals del cicle formatiu.
+3.2 Crèdits.
+3.3 Hores a disposició del centre.
+3.4 Relació dels crèdits en què s'estructuren els mòduls professionals.
+3.5 Matèries del batxillerat que s'han hagut de cursar per accedir al cicle formatiu.
+
+4. Especialitats del professorat que té atribució docent en els crèdits corresponents a aquest cicle formatiu.
+
+5. Convalidacions, correspondències i accés a estudis universitaris.
+
+5.1 Mòduls professionals que poden ser convalidats amb la formació professional ocupacional.
+5.2 Mòduls professionals que poden correspondre's amb la pràctica laboral.
+5.3 Accés a estudis universitaris.
+
+1. Identificació del títol
+
+1.1 Denominació: administració de sistemes informàtics.
+1.2 Nivell: formació professional de grau superior.
+1.3 Durada del cicle formatiu: 2000 hores.
+1.3.1 Formació en centre educatiu: 1650 hores (crèdits de l'1 al 8 i el 10).
+1.3.2 Formació en centres de treball: 350 hores (crèdit 9).
+
+2. Perfil professional.
+
+2.1 Competència general.
+
+És competència general d'aquest tècnic implantar, explotar i mantenir en requeriments de baix i mig nivell els sistemes informàtics en què es basa la gestió i administració de l'empresa, prestant suport directe o de primera línia als usuaris finals, i aplicant i portant a terme els requisits legals vigents en el sector.
+
+2.2 Competències professionals.
+
+Les competències i realitzacions més rellevants que ha de manifestar el professional són:
+
+a) Implantar i administrar sistemes informàtics en entorns monousuari i multiusuari:
+
+1. Gestionar l'execució o renovació de la instal·lació dels ordinadors i perifèrics atenent els serveis requerits pels usuaris i aprovats per la direcció.
+
+2. Realitzar les adaptacions necessàries en la configuració física del sistema d'acord amb els paràmetres de funcionament establerts.
+
+3. Generar el programari de base d'acord amb les necessitats i requeriments de l'empresa.
+
+4. Organitzar i administrar la utilització dels recursos del sistema garantint la seva disponibilitat als usuaris.
+
+5. Establir procediments per mantenir la informació amb la integritat, disponibilitat i seguretat requerida.
+
+6. Analitzar les prestacions del sistema, una vegada implantades les aplicacions, a fi d'aportar millores en la seva explotació.
+
+7. Mantenir l'operativitat del sistema comprovant el funcionament amb la periodicitat establerta.
+
+b) Implantar i administrar xarxes locals i gestionar la connexió del sistema informàtic a xarxes extenses:
+
+1. Determinar la topologia de xarxa local més adequada d'acord amb les necessitats de l'usuari, espais i ubicació.
+
+2. Gestionar i supervisar l'execució de la instal·lació de cablejat i unitats de connexió verificant amb el pressupost, els terminis de realització i els requeriments sol·licitats.
+
+3. Integrar servidors i llocs de treball a la xarxa per compartir la informació i els perifèrics atenent a les demandes de l'usuari.
+
+4. Administrar els recursos de la xarxa garantint la seva disponibilitat als usuaris.
+
+5. Gestionar i supervisar la connexió als serveis de comunicació de dades públics i privats que donin resposta a les necessitats de l'empresa.
+
+6. Realitzar operacions periòdiques de manteniment a fi d'assegurar el correcte funcionament del sistema de comunicacions.
+
+c) Implantar i facilitar la utilització de paquets informàtics de propòsit general i aplicacions específiques:
+
+1. Instal·lar aplicacions de propòsit general i específic verificant les prestacions funcionals requerides per l'usuari.
+
+2. Preparar guies d'usuari final per evitar una explotació inadequada del programari d'aplicació.
+
+3. Preparar i impartir, a usuaris, cursos d'entrenament en el programari d'aplicació.
+
+4. Prestar assistència als usuaris resolent els problemes que es presentin durant l'explotació de les aplicacions.
+
+5. Avaluar paquets de programari d'ús múltiple i específic que aportin millores al procés de dades de l'empresa.
+
+d) Proposar i coordinar canvis per millorar l'explotació del sistema i de les aplicacions:
+
+1. Formular tècnicament els canvis i millores necessaris en el sistema o aplicacions per proporcionar criteris de decisió a la persona autoritzada.
+
+2. Realitzar, al seu nivell, els canvis proposats en el sistema o aplicacions d'acord amb les prestacions requerides.
+
+3. Realitzar proves funcionals i d'usuari prèvies a la implantació dels canvis desenvolupats en el sistema o aplicacions.
+
+4. Elaborar i mantenir la documentació i guies d'usuari descriptives dels canvis i millores introduïts en el sistema o aplicacions segons les normes i procediments establerts.
+
+2.3 Capacitats clau.
+
+Són les capacitats, majorment de tipus individual, més associades a conductes observables en l'individu i són, en conseqüència, transversals -en el sentit que afecten molts llocs de treball- i transferibles a noves situacions.
+
+a) Capacitat de resolució de problemes:
+
+És la disposició i habilitat per a enfrontar-se i donar resposta a una situació determinada mitjançant l'organització o l'aplicació d'una estratègia o seqüència operativa (identificar, diagnosticar, formular solucions i avaluar), definida o no, per tal de trobar-hi la solució.
+
+Aquesta capacitat es manifesta en:
+
+La supervisió de les contingències de tipus físic que es poden presentar a l'hora de dur a terme la instal·lació del maquinari i del programari en entorns monousuari, multiusuari i xarxa.
+
+La inexistència o falsedat de respostes a l'hora de consultar els manuals i els serveis tècnics.
+
+Les contingències sorgides en la instal·lació o configuració del maquinari o programari, o en el funcionament del propi sistema informàtic.
+
+Les incidències sorgides amb els usuaris a l'hora d'administrar els recursos compartits del sistema informàtic, i de prestar assistència durant l'explotació de les aplicacions.
+
+La connexió amb sistemes informàtics en xarxes extenses.
+
+La interpretació de la documentació existent o utilització d'una metodologia arcaica en el moment d'efectuar canvis en aplicacions que porten temps en l'organització.
+
+b) Capacitat d'organització del treball:
+
+És la disposició i habilitat per a crear les condicions adequades d'utilització dels recursos humans o materials existents, per tal de dur a terme les tasques amb el màxim d'eficàcia i eficiència.
+
+Aquesta capacitat es manifesta en:
+
+La planificació ordenada de les accions que intervenen en els processos d'instal·lació, configuració i prova del maquinari i programari en entorns monousuari, multiusuari i xarxa.
+
+La distribució correcta dels recursos del sistema informàtic per a tots els departaments de l'organització.
+
+L'assegurament de la integritat, disponibilitat i seguretat de la informació.
+
+L'optimació de l'explotació del sistema informàtic.
+
+La preparació de cursos d'entrenament als usuaris sobre el programari de les aplicacions que ha d'utilitzar.
+
+La realització dels canvis en el sistema o aplicacions.
+
+c) Capacitat de responsabilitat en el treball:
+
+És la disposició per a implicar-se en la feina, considerant-la l'expressió de la competència personal i professional, i vetllant pel bon funcionament dels recursos humans o materials relacionats amb el treball.
+
+Aquesta capacitat es manifesta en:
+
+La instal·lació, configuració i prova del maquinari en entorns monousuari i multiusuari.
+
+La instal·lació, configuració i prova del programari en entorns monousuari i multiusuari.
+
+La coordinació de la posada en funcionament de xarxes d'àrea local.
+
+El manteniment operatiu del sistema informàtic.
+
+La prestació d'assistència als usuaris durant l'explotació de les aplicacions.
+
+d) Capacitat de treball en equip:
+
+És la disposició i habilitat per a col·laborar de manera coordinada en la tasca realitzada conjuntament per un equip de persones per tal d'assolir un objectiu proposat.
+
+Aquesta capacitat es manifesta en:
+
+La coordinació amb els serveis d'instal·lació o manteniment del maquinari i programari, en el moment d'efectuar la instal·lació o reparació.
+
+La coordinació amb altres programadors, a l'hora de dissenyar i efectuar canvis en les aplicacions.
+
+La col·laboració amb les persones del grup funcional on estigui integrat.
+
+e) Capacitat d'autonomia:
+
+És la capacitat per a realitzar una tasca de forma independent, és a dir, executant-la de principi a fi sense necessitat de rebre cap ajut o suport.
+Aquesta capacitat de treballar de forma autònoma no vol dir que el professional, en algunes tasques concretes, no hagi de ser assessorat.
+
+Aquesta capacitat es manifesta en:
+
+L'execució de la instal·lació, configuració i prova de maquinari en entorns monousuari i multiusuari.
+
+L'execució de la instal·lació, configuració i prova del programari en entorns monousuari, multiusuari i xarxa.
+
+L'organització, control i optimació dels serveis del sistema informàtic.
+
+La supervisió del lliurament i acceptació del material informàtic.
+
+L'establiment de procediments per garantir la seguretat i protecció del sistema i la informació.
+
+El control del manteniment operatiu o preventiu realitzat als equips o instal·lacions.
+
+L'elaboració de guies i manuals que facilitin l'explotació del sistema i aplicacions.
+
+La prestació d'assistència als usuaris durant l'explotació de les aplicacions.
+
+L'elaboració d'informes tècnics sobre les prestacions de nous equips i programes per poder prendre decisions.
+
+Ha de ser assessorat:
+
+Per part dels serveis tècnics per les instal·lacions de maquinari en sistemes informàtics de tipus alt ("mainframes").
+Per part de tècnics de nivell superior en l'organització i control dels serveis en sistemes informàtics de tipus alt, en l'estudi de la topologia de xarxa local més adient i en la comprensió de l'anàlisi dels canvis que cal efectuar en les aplicacions.
+
+f) Capacitat de relació interpersonal:
+
+És la disposició i habilitat per a comunicar-se amb els altres amb un tracte adient, amb atenció i empatia.
+
+Aquesta capacitat es manifesta en:
+
+La comunicació amb els serveis tècnics i amb les empreses subministradores per realitzar consultes sobre el funcionament del maquinari o programari, o sobre nous productes que poden interessar a l'organització.
+
+La relació amb els administradors de les xarxes d'àrea extensa a l'hora d'establir-hi connexions.
+
+L'atenció de les necessitats dels usuaris a l'hora d'administrar els recursos del sistema informàtic, de prestar assistència a la seva explotació, i d'esbrinar i avaluar les noves necessitats de l'organització.
+
+La presentació dels informes tècnics sobre els canvis i millores necessaris en el sistema i aplicacions.
+
+La comunicació i relació amb els tècnics informàtics, amb el personal que estigui sota el seu comandament i amb els membres del grup funcional on estigui integrat.
+
+g) Capacitat d'iniciativa: 
+
+És la disposició i habilitat per a prendre decisions sobre propostes o accions. Donat cas que vagin en la línia de millorar el procés, producte o servei, per canvi o modificació, s'està definint la capacitat d'innovació.
+
+Aquesta capacitat es manifesta en:
+
+L'administració dels recursos del sistema informàtic.
+
+La preparació de guies d'usuari final i cursos d'entrenament que permetin una correcta explotació del sistema i de les aplicacions.
+
+La detecció de noves necessitats de l'organització.
+
+El disseny i realització de canvis i proves en les aplicacions existents.
+
+La proposta de solucions alternatives en situacions de possible emergència.
+
+2.4 Camp professional.
+
+2.4.1 Àmbit professional i de treball.
+
+Aquesta figura desenvoluparà el seu treball en:
+
+Empreses establertes en diferents sectors de l'activitat econòmica, en el departament d'informàtica o de processament de dades, departament tècnic.
+
+Empreses de serveis informàtics, en el sector de serveis a les empreses.
+
+2.4.2 Àmbit funcional i tecnològic.
+
+Aquesta figura professional s'ubica fonamentalment en les funcions i subfuncions de servei tècnic: instal·lació, manteniment, explotació i suport a l'usuari.
+
+Principals ocupacions i llocs de treball:
+
+A títol d'exemple i especialment amb finalitat d'orientació professional, s'enumeren a continuació un conjunt d'ocupacions o llocs de treball que podrien ser desenvolupats adquirint la competència professional definida en el perfil del títol:
+
+Tècnic en manteniment de sistemes informàtics en entorns monousuari i multiusuari.
+Cap d'explotació de sistemes informàtics en petites empreses.
+Administrador de xarxes d'àrea local.
+Tècnic en informació i assessorament en sistemes i aplicacions informàtiques.
+
+3. Currículum.
+
+3.1 Objectius generals del cicle formatiu.
+
+Analitzar les necessitats i requeriments funcionals de l'organització i l'oferta d'aplicacions que ofereix el mercat, identificant les necessitats de l'usuari, de l'entorn físic i els productes del mercat, detectant les carències de l'explotació i necessitats del maquinari i programari per implantar nous paquets, valorant la possible configuració del sistema, els canvis i el programari que cal introduir per tal de definir la definitiva arquitectura del sistema informàtic.
+
+Planificar els procediments d'instal·lació, connexió i configuració del maquinari i programari, identificant les necessitats d'usuari, els recursos disponibles, determinant les possibilitats d'ampliació i connexió a altres sistemes, els requeriments d'instal·lació i els elements que cal incorporar o canviar, esquematitzant els diagrames, organitzant el pla de proves funcionals, per tal de preparar la instal·lació i configuració de sistemes informàtics en àmbits monousuari, multiusuari i de xarxa.
+
+Planificar els recursos i l'optimació de l'explotació, identificant els recursos del sistema i el suport d'emmagatzematge, interpretant els requeriments de l'explotació i dels treballs que cal executar, organitzant els volums i sistemes d'arxius, i els procediments que mantenen la integritat de les dades, controlen l'accés als recursos del sistema, per tal d'administrar l'entorn de treball en sistemes informàtics monousuari, multiusuari i de xarxa.
+
+Planificar l'organització dels servidors i dels llocs de treball, identificant els recursos disponibles al sistema, determinant les necessitats de connexió, l'accés de dades i els medis i equips, establint els permisos d'accés i d'ús de la informació i disponibilitat de recursos del sistema, organitzant els procediments d'explotació dels recursos compartits i de connexió a xarxes d'àrea externa, per tal d'administrar la connexió a xarxes d'àrea extensa.
+
+Programar la configuració lògica del sistema i els procediments que assegurin la integritat, la disponibilitat i la seguretat del sistema i de la informació, identificant els requisits de l'entorn de programació o prova i els nous requeriments, especificant els valors de les variables del sistema i de l'usuari, aplicant les normes d'accés al sistema, recursos i informació, per tal de preparar l'entorn de realització i verificació de programes.
+
+Programar canvis en el sistema i en les utilitats desenvolupades, amb les interfícies de programació que ofereix el sistema, identificant les característiques del sistema, interpretant els nous requeriments, determinant les estructures de control i les estructures de dades internes i externes, codificant els mòduls segons la sintaxi del llenguatge, integrant i enllaçant programes i rutines, per tal de millorar l'explotació del sistema.
+
+Operar amb el sistema operatiu monousuari, multiusuari i de xarxa i amb les aplicacions de propòsit general i específic, interpretant les característiques tecnicofuncionals del sistema informàtic, identificant les característiques dels equips i els paràmetres d'operativitat, seguretat i coexistència amb altres productes, aplicant els processos d'instal·lació i desenvolupant els canvis per suportar nous perifèrics, per tal d'instal·lar i configurar el sistema informàtic i les aplicacions proposades.
+
+Realitzar les tasques operatives i preventives del sistema i l'assistència a l'usuari, interpretant informació tècnica, les condicions d'explotació i l'entorn de treball requerit per l'usuari, establint l'operativitat del sistema, preparant cursos d'entrenament en el programari, redactant la guia d'usuari, resolent els requeriments de les aplicacions i dels usuaris, per tal de mantenir l'operativitat del sistema i la seva utilització per part dels usuaris.
+
+Verificar la instal·lació, connexió, configuració i funcionament del maquinari i programari, interpretant els manuals tècnics, els diagrames i esquemes, identificant els requeriments sol·licitats, el funcionament del programari i el pla de proves funcionals, examinant les anomalies i l'adequació dels equips i de les aplicacions al sistema o requeriments de l'usuari, diagnosticant les causes i la via de solució, per tal de supervisar el sistema informàtic.
+
+Integrar els procediments que s'han de realitzar per implantar i administrar sistemes operatius i sistemes gestors de bases de dades relacionals, analitzant la interrelació i concurrència de les diferents fases que intervenen en aquests processos, determinant, segons els requeriments del sistema i de l'usuari, els canvis que es poden introduir al sistema i al programari, gestionant els recursos del sistema en àmbits monousuari, multiusuari o xarxa, elaborant la guia d'usuari i els plans de prova, per tal de donar resposta a un procés globalitzador relacionat amb l'administració de sistemes informàtics.
+
+Planificar el procés d'inserció, valorant-ne els aspectes organitzatius i econòmics, i identificant els drets i les obligacions que es deriven de les relacions laborals, les capacitats i les actituds requerides, determinant les vies d'inserció possibles i els mitjans adients en cada cas, per tal d'integrar-se satisfactòriament en el món laboral.
+
+Dirigir un grup de treball de manera eficient, analitzant i avaluant els requeriments de cada lloc de treball, les necessitats de producció i el rendiment del personal, a fi d'optimar l'actuació dels recursos humans.
+
+Sensibilitzar-se sobre els efectes que les condicions de treball poden produir en la salut personal, col·lectiva i ambiental, amb la finalitat de millorar les condicions de realització del treball utilitzant les mesures correctives i de protecció.
+
+Incorporar-se al món productiu, adaptant-se a l'estructura pròpia de l'organització de forma responsable i participativa, afrontant les tasques encomanades amb progressiva autonomia i amb iniciativa, valorant les aptituds i els interessos necessaris en el conjunt de tasques administratives realitzades, per tal d'integrar-se en un centre de treball.
+
+3.2 Crèdits.
+
+Crèdit 1: sistemes informàtics monousuari i multiusuari.
+
+a) Durada: 210 hores.
+
+b) Objectius terminals.
+
+Identificar les parts i els dispositius físics i lògics d'un sistema informàtic a partir dels manuals i de les pròpies instruccions del sistema.
+
+Determinar les accions i els paràmetres requerits per a la instal·lació i l'operativa del maquinari i programari en entorns monousuari i multiusuari, segons les instruccions dels manuals.
+
+Comprovar i verificar el pla d'instal·lació i configuració del maquinari, els diagrames de connexió, segons les característiques de funcionament dels equips, les necessitats d'usuari i el pla de requeriments establert.
+
+Especificar els elements i els components del sistema que s'han d'afegir o modificar per adaptar la configuració del sistema als requeriments establerts, segons la documentació tècnica disponible.
+
+Establir els procediments i els mitjans que garanteixin la seguretat del sistema i de la informació, en la configuració del maquinari i instal·lació del programari base.
+
+Establir el procés d'instal·lació i generació del programari base, segons els requeriments proposats i la composició actual del sistema.
+
+Instal·lar el maquinari i el programari base en un entorn monousuari i multiusuari, segons el pla establert.
+
+Operar, sobre un sistema operatiu monousuari o multiusuari, les funcions d'usuari referents a connexió i desconnexió, gestió de l'espai d'emmagatzematge, gestió de processos, utilització de perifèrics i comunicació amb altres usuaris, amb precisió i destresa.
+
+Dissenyar procediments d'usuari per automatitzar les funcions bàsiques al sistema informàtic i minimitzar el temps de realització.
+
+Relacionar els valors de variables del sistema que afecten la memòria, el processador i els perifèrics amb els requeriments per als processos de programació o de verificació de programes.
+
+Definir i assignar valors a variables d'usuari i del sistema, d'acord amb l'entorn de treball i amb els requeriments de l'explotació del sistema.
+
+Definir l'espai d'emmagatzematge, l'esquema de seguretat i confidencialitat de la informació, adequada als usuaris i a la informació que cal guardar.
+
+Organitzar les formes d'arxiu del sistema, segons la disponibilitat d'informació requerida per l'usuari i d'acord amb el sistema de codificació i catalogació d'arxius.
+
+Planificar els procediments de salvaguarda i recuperació del sistema operatiu i de la informació emmagatzemada amb l'ús de les utilitats existents en el sistema.
+
+Establir els procediments d'arrencada i parada del servidor i els drets d'accés i utilització dels recursos del sistema per a cada usuari, segons les normes establertes per l'organització.
+
+Seleccionar les utilitats adequades i l'ordre d'aplicació per realitzar i automatitzar les funcions bàsiques d'administrador del sistema.
+
+Seleccionar els procediments i les utilitats adequades per obtenir diferents mesures de l'explotació dels recursos del sistema.
+
+Diferenciar les causes i les formes de resolució de les incidències aparegudes en la instal·lació i administració dels equips i sistemes operatius, segons la informació dels manuals i els missatges d'equips i sistemes.
+
+Planificar la distribució de càrrega del sistema i dels recursos en funció de les necessitats d'utilització.
+
+Instal·lar el programari per a la prevenció d'errades que afectin a la integritat de les dades i a la lògica dels processos, segons les instruccions del manual.
+
+Verificar sistemàticament amb l'ús del programari de diagnosi, el funcionament correcte del sistema i aplicar els procediments que restableixin l'operativitat.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. La informació i els sistemes informàtics:
+
+La informació i tipus de dades.
+El tractament de la informació: fases i tipus.
+Classificació dels ordinadors, evolució i tendències.
+Els components físics dels sistemes informàtics: unitat central de procés, memòria, dispositius d'entrada o sortida, suports i perifèrics.
+Els components lògics dels sistemes informàtics: sistemes de numeració, codificació de la informació, programa.
+La normativa legal vigent.
+
+2. El maquinari:
+
+Els equips: prestacions, informació tècnica.
+Instal·lació: requeriments físics, requeriments d'utilització, configuració.
+Mesures de seguretat davant canvis de maquinari.
+
+3. El sistema operatiu:
+
+Funcions i característiques.
+Sistemes d'explotació: monousuari, multiusuari, monotasca, multitasca, multiprogramació, temps compartit, temps diferit, temps real, multiprocés.
+Programes de control: gestió del maquinari, gestió de dades i arxius, gestió de treballs.
+Programes de procés: programes d'utilitat i programes de servei.
+
+4. Utilització de sistemes operatius monousuaris i multiusuaris específics:
+
+Comandaments: tipus, sintaxi, comodins.
+Seguretat: accés i gestió d'usuari.
+Directoris: estructura en arbre, camins absolut i relatiu, operacions de funcionament.
+Arxius: sintaxi, permisos, operacions d'usuari.
+Editors: creació i manipulació d'arxius de text.
+Exploració del sistema: ordres bàsiques d'usuari.
+Comunicació entre usuaris: ordres bàsiques.
+Dispositius: consola, ports sèrie i paral·lels, dispositius "null".
+Redireccionament.
+Filtres.
+Shell: tipus.
+Guions en els diferents shells: característiques, ordres específics, pas de paràmetres, símbols, variables d'àmbit, creació de menús i procediments automàtics bàsics d'usuari.
+Impressores del sistema: ordres bàsiques d'usuari, processos de treball.
+
+5. Administrador de sistemes operatius: 
+
+Funcions de l'administrador de sistema.
+Comptes d'usuari: administració.
+Sistema d'impressió: administració.
+Sistema d'arxius: organització i administració.
+Seguretat de la informació: còpies, recuperació.
+Sistema de comunicacions: administració.
+Utilitats d'administració de sistema.
+Requeriments de funcionament del sistema.
+
+6. Administració de sistemes operatius monousuaris i multiusuaris específics:
+
+Instal·lació del maquinari: fases.
+Instal·lació del programari base: fases, gestió de particions.
+Arrencada del sistema: fases.
+Gestió d'usuaris: comandaments de sistema, utilitats del sistema.
+Gestió d'impressió: comandaments de sistema, utilitats del sistema.
+Gestió del maquinari: comandaments de sistema, utilitats del sistema.
+Gestió de comunicacions amb altres sistemes: comandaments de sistema, utilitats del sistema.
+Gestió de còpies de seguretat i recuperació: comandaments de sistema, utilitats del sistema.
+Sistemes de fitxers: muntatge i desmuntatge.
+Utilitats.
+
+d) Continguts de procediments.
+
+1. Instal·lació de maquinari:
+
+Identificació de les característiques de l'indret on s'instal·la.
+Obtenció d'informació sobre els equips i els processos d'instal·lació.
+Comprovació dels equips.
+Operativa segons els processos d'instal·lació.
+Comprovació del funcionament de la instal·lació.
+
+2. Instal·lació de sistemes operatius monousuari i multiusuari:
+
+Identificació de les característiques de l'ordinador on s'instal·la.
+Detecció de la configuració del sistema existent, si fa al cas.
+Determinació de les còpies de seguretat que cal realitzar segons la informació existent.
+Obtenció d'informació sobre el procés d'instal·lació.
+Operativa segons les demandes del sistema i les necessitats de la instal·lació.
+Comprovació del funcionament de la instal·lació.
+
+3. Desinstal·lació de sistemes operatius monousuari i multiusuari:
+
+Obtenció d'informació del procés de desinstal·lació.
+Determinació de la partició on hi ha el sistema que cal desinstal·lar.
+Selecció de les còpies de seguretat de la informació que interessa.
+Operativa segons les demandes del sistema i les necessitats de la desinstal·lació.
+Comprovació de la correcta desinstal·lació.
+
+4. Sessions de treball en sistemes operatius monousuari i multiusuari:
+
+Identificació del tipus d'operació o tasques que cal desenvolupar.
+Anàlisi dels elements del maquinari involucrats en l'operació.
+Consulta i interpretació del manual d'usuari.
+Comprovació que el sistema operatiu està en funcionament.
+Selecció de les ordres del sistema.
+Determinació de les ordres de sortida o abandonament del programa emulador.
+
+5. Administració de sistemes monousuaris i multiusuaris específics:
+
+Determinació dels requeriments d'accés, manipulació i obtenció d'informació.
+Organització dels comptes d'usuari, dels sistemes d'impressió, dels sistemes d'arxius i dels sistemes de comunicacions.
+Determinació de les còpies de seguretat que cal realitzar periòdicament.
+Recuperació de la informació salvaguardada, si fa al cas.
+Automatització de les tasques rutinàries.
+Control de processos d'execució.
+Obtenció de les mesures d'explotació dels recursos del sistema.
+Valoració de l'operativitat del sistema.
+Proposta de millores en la gestió del sistema.
+Resolució de problemes en el sistema.
+
+6. Resolució de problemes en el sistema:
+
+Identificació dels punts o components del sistema que fallen.
+Interpretació de la documentació tècnica.
+Selecció del procediment, mitjans i les condicions del sistema per a la diagnosi.
+Establiment de mecanismes de seguretat de la informació i del sistema que opera.
+Detecció dels errors o fallades.
+Valoració de la transcendència del problema.
+Proposta de les solucions per restaurar el funcionament del sistema.
+Proposta de mesures preventives.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions en la instal·lació, configuració i posada a punt del maquinari i programari de base i en la utilització inadequada, per part dels usuaris, dels recursos compartits.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Correcció sistemàtica dels errors a l'hora d'efectuar la instal·lació, configuració, posada a punt i manteniment del maquinari i programari de base.
+
+3. Optimació del treball:
+
+Eficàcia a l'hora d'utilitzar els recursos del sistema informàtic per part de l'organització de manera que s'asseguri la integritat, disponibilitat i seguretat de la informació.
+
+4. Ordre i mètode de treball:
+
+Seqüència ordenada de les accions que constitueixen la instal·lació, configuració i prova del maquinari i programari de base.
+
+5. Compromís amb les obligacions associades al treball:
+
+Realització de les operacions sempre segons les normatives i reglamentacions vigents per a cada tipus d'equip.
+Seguiment de les normes de funcionament de l'aula i de l'equipament que fixi el propi centre educatiu.
+
+6. Execució independent del treball:
+
+Autosuficiència en la utilització del sistema informàtic i en el control i execució de la instal·lació, configuració i prova del maquinari i programari de base.
+Rigor en organitzar, controlar els serveis del sistema informàtic i en establir els procediments de seguretat i protecció del sistema i de la informació.
+
+7. Intercanvi d'idees, opinions i experiències:
+
+Buscar consens entre diferents punts de vista a l'hora d'efectuar consultes i ser assistit per experts amb relació al maquinari i programari base.
+Reconeixement de les opinions de l'altre en l'execució de la instal·lació i manteniment de maquinari i programari base.
+
+8. Interès per les relacions humanes:
+
+Tolerància amb els usuaris a l'hora d'administrar els recursos del sistema informàtic.
+Cordialitat amb les persones que comparteixen els recursos.
+
+9. Comunicació empàtica:
+
+Argumentació d'opinions amb els usuaris a l'hora d'administrar els recursos del sistema informàtic.
+
+10. Creativitat:
+
+Suscitació de recursos per administrar el sistema informàtic i per establir procediments que assegurin la integritat, disponibilitat i seguretat del sistema i la informació.
+
+11. Adaptació a noves situacions:
+
+Resposta a noves situacions en el sistema informàtic i en l'organització de l'empresa.
+
+12. Respecte per la salut, el medi ambient i la seguretat laboral:
+
+Observació de les normes de seguretat per prevenir les situacions anormals que puguin afectar la salut pròpia i dels altres.
+
+13. Progrés i promoció dins de la professió:
+
+Constància i esforç per aprendre i actualitzar-se en l'administració del sistema.
+
+14. Qualitat del treball:
+
+Diligència en l'administració del sistema.
+
+Crèdit 2: gestió de xarxes d'àrea local.
+
+a) Durada: 240 hores.
+
+b) Objectius terminals.
+
+Interpretar les característiques tecnicofuncionals de cada element de la xarxa, a partir del seu funcionament i de la documentació tècnica corresponent.
+
+Identificar els recursos compatibles que cal compartir en una xarxa, les tècniques que utilitza el sistema operatiu per a la seva gestió i la influència dels procediments d'operació sobre el sistema.
+
+Diferenciar les característiques fonamentals dels sistemes operatius de xarxa més utilitzats actualment, i també les tendències, segons les informacions tècniques a l'abast.
+
+Interpretar els procediments que garanteixen la seguretat, la integritat i la confidencialitat de la informació d'usuari en un sistema de xarxa.
+
+Diferenciar la composició física d'un sistema de xarxa, els medis físics de transmissió, els equips, els estàndards de funcionament i el mode de connexió, a partir de la documentació tècnica.
+
+Determinar a partir de l'anàlisi de necessitats, la topologia de xarxa local que més s'ajusti als requeriments d'usuari, als espais i a la ubicació definits prèviament.
+
+Elaborar diagrames generals i detallats per a la instal·lació del cablejat, estacions de treball i unitats de connexió de la xarxa. 
+Establir les característiques rellevants de configuració del maquinari i programari i els requeriments d'instal·lació d'un sistema operatiu de xarxa segons les necessitats d'usuari plantejades.
+
+Determinar en la instal·lació d'una xarxa, les mesures de seguretat que s'han d'establir per garantir la integritat, confidencialitat i disponibilitat de la informació existent.
+
+Instal·lar el maquinari i el programari base en un entorn en xarxa i en un mitjà de transmissió ja instal·lat, segons les especificacions i el pla establert, amb l'ús de la documentació del programari i maquinari.
+
+Verificar la instal·lació del maquinari i del programari base i la interacció de servidors i llocs de treball, segons els requeriments i protocols definits.
+
+Crear volums, sistemes d'arxius, servidors de fitxers, d'impressió i de comunicacions, en cada estació de treball, segons els requeriments proposats i la composició del sistema.
+
+Dissenyar procediments d'usuari per automatitzar les funcions bàsiques a la xarxa i minimitzar els temps de realització.
+
+Dissenyar procediments per garantir la seguretat, integritat i confidencialitat de la informació en una xarxa.
+
+Organitzar permisos d'accés i d'ús de la informació i disponibilitat de recursos de la xarxa per a tots els usuaris.
+
+Instal·lar el programari per a la prevenció d'errades que afectin a la integritat de les dades i a la lògica dels processos, segons les instruccions dels manuals.
+
+Dissenyar procediments que facilitin l'explotació dels recursos compartits de la xarxa i automatitzin les tasques d'administració de la xarxa.
+
+Relacionar les necessitats de comunicació, accés de dades i documents d'una organització amb els serveis de comunicació de dades públiques i privades existents i el cost que representa.
+
+Discriminar els recursos, les prestacions i les característiques que s'han de considerar per obtenir la connexió de la xarxa a altres xarxes externes i altres sistemes, segons els requeriments establerts.
+
+Identificar per mitjà del programa de diagnosi, les causes de funcionament anòmal del sistema i les actuacions que se'n derivin.
+
+Definir els criteris i les mesures de caràcter preventiu que s'han d'aplicar per mantenir operatius els equips i el sistema de comunicació.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Telemàtica:
+
+La telemàtica: origen, evolució i aplicacions actuals.
+Mitjans físics de transmissió: via cable, inalàmbrica i microones.
+Tipus de transmissió: analògic-digital; símplex, semidúplex, fulldúplex; sèrie-paral·lel; síncrona-asíncrona.
+Tractament d'errors: paritat, ACK/NAK, XON/XOFF.
+Mòdems: elements, velocitat de transmissió, velocitat de modulació, tècniques de modulació, fases de connexió.
+Normativa V: compatibilitat Hayes, protocols, transmissió de dades.
+Multiplexors: tipus.
+Concentradors: tipus.
+
+2. Arquitectura de xarxes d'àrea local:
+
+Elements físics: cables, targetes, connectors, funcions.
+Topologies: característiques i tipus.
+Protocols: característiques i tipus.
+Arquitectura OSI: característiques, terminologia, nivells del model.
+Arquitectures estàndards: ETHERNET, TOKEN RING, ARCNET.
+Arquitectures de comunicacions: característiques, tipus, funcions.
+
+3. Sistema operatiu de xarxa d'àrea local:
+
+Xarxes d'àrea local: recursos, funcions, característiques i tendències actuals.
+Compte d'usuari: grups d'usuaris, directoris d'usuari, atributs. Permisos: jerarquia, responsable de grup, responsable d'usuari.
+Servidor de fitxers: característiques.
+Servidor d'impressió: característiques.
+Servidor de comunicacions: característiques.
+Normativa legal vigent.
+
+4. Utilització de sistemes operatius de xarxa específics:
+
+Components bàsics: tendències actuals.
+Àmbit d'usuari: personalització.
+Directoris: estructura en arbre, camins absolut i relatiu, permisos, operacions mitjançant el sistema operatiu de base o utilitats específiques.
+Arxius: permisos, operacions mitjançant el sistema operatiu de base o utilitats específiques.
+Impressió: operacions mitjançant el sistema operatiu de base o utilitats específiques.
+Comunicació entre usuaris mitjançant el sistema operatiu de base o utilitats específiques.
+Guions: característiques, ordres específiques, pas de paràmetres, símbols, variables d'àmbit, creació de menús i procediments automàtics bàsics.
+
+5. Administrador de sistemes operatius de xarxa d'àrea local:
+
+Funcions de l'administrador de la xarxa.
+Comptes d'usuari: administració.
+Sistema d'impressió: administració.
+Sistema d'arxius: organització i administració.
+Seguretat de la informació: còpies, recuperació.
+Sistemes de comunicacions: administració.
+Utilitats d'administració de la xarxa.
+Requeriments de funcionament de la xarxa.
+
+6. Interconnexió de xarxes:
+
+Requeriments.
+Prestacions.
+Tipus d'interconnexió: LAN-LAN, LAN-WAN, LAN-MAN.
+Utilitats d'interconnexió: repetidors, ponts, altres.
+
+7. Serveis de transport de dades:
+
+Accés a les xarxes públiques: X.25, IBERPAC.
+Integració de xarxes: RDSI.
+Altres xarxes públiques: autopistes de la informació, INTERNET, altres.
+
+8. Administració de sistemes operatius de xarxes específiques:
+
+Instal·lació del maquinari: fases.
+Instal·lació del programari base: fases.
+Arrencada de servidors: fases.
+Gestió d'usuaris: comandaments i utilitats.
+Gestió d'impressió: comandaments i utilitats.
+Gestió del maquinari: comandaments i utilitats.
+Gestió de comunicacions amb altres sistemes: comandaments i utilitats.
+Gestió de còpies de seguretat i recuperació: comandaments i utilitats.
+Gestió de consola: comandaments i utilitats.
+
+d) Continguts de procediments.
+
+1. Instal·lació física de la xarxa:
+
+Identificació de les característiques de l'indret on s'instal·la.
+Obtenció d'informació sobre els equips i els processos d'instal·lació.
+Verificació dels equips.
+Operativa segons el procés d'instal·lació.
+Comprovació del funcionament de la instal·lació.
+
+2. Instal·lació i configuració de sistemes operatius de xarxa:
+
+Identificació de les característiques de l'ordinador on s'instal·la
+Detecció de l'existència d'una partició per a instal·lar el sistema operatiu de xarxa.
+Realització de les còpies de seguretat de la informació existent, si fa al cas.
+Operativa segons les demandes del sistema i les necessitats de la instal·lació.
+Comprovació del funcionament de la instal·lació.
+
+3. Desinstal·lació dels sistemes operatius de xarxa:
+
+Obtenció d'informació del procés de desinstal·lació.
+Selecció de les còpies de seguretat de la informació que interessa.
+Operativa segons les demandes del sistema.
+
+4. Sessions de treball en sistemes operatius monousuari i multiusuari:
+
+Identificació del tipus d'operació o tasques que cal desenvolupar.
+Anàlisi dels elements del maquinari involucrats en l'operació.
+Consulta i interpretació del manual d'usuari.
+Comprovació que el sistema operatiu està en funcionament.
+Selecció i introducció de les ordres del sistema.
+Determinació de les ordres de sortida.
+
+5. Administració d'un sistema en xarxa:
+
+Determinació dels requeriments d'accés, manipulació i obtenció d'informació.
+Organització dels comptes d'usuari, dels sistemes d'impressió, dels sistemes d'arxius i dels sistemes de comunicacions.
+Determinació de les còpies de seguretat que cal realitzar periòdicament.
+Recuperació de la informació salvaguardada, si fa al cas.
+Automatització de les tasques rutinàries.
+Control de processos d'execució.
+Obtenció de les mesures d'explotació dels recursos del sistema.
+Valoració de l'operativitat del sistema en xarxa.
+Proposta de millores en la gestió del sistema en xarxa.
+Resolució de problemes en el sistema en xarxa.
+
+6. Resolució de problemes en un sistema en xarxa:
+
+Identificació dels punts o components del sistema que fallen.
+Interpretació de la documentació tècnica.
+Selecció del procediment, mitjans i les condicions del sistema per a la diagnosi.
+Establir mecanismes de seguretat de la informació i del sistema que opera.
+Detecció dels errors o fallades.
+Valoració de la transcendència del problema.
+Proposta de les solucions per restaurar el funcionament del sistema. 
+Proposta de mesures preventives.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions raonades en els processos d'instal·lació, configuració, posada a punt i administració de recursos compartits en un sistema de xarxa, i en l'aplicació de correccions a utilitzacions d'usuari inadequades.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Correcció sistemàtica dels errors a l'hora d'efectuar la instal·lació, configuració i posada a punt del maquinari i programari base del sistema de xarxa i en els processos de manteniment i administració de la xarxa.
+
+3. Optimació del treball:
+
+Eficàcia a l'hora d'instal·lar i configurar el maquinari i d'utilitzar els recursos de la xarxa i de les comunicacions externes.
+Qualitat de treball que asseguri la integritat, disponibilitat i seguretat de la informació.
+
+4. Ordre i mètode de treball:
+
+Ordenació racional de les operacions en els processos d'instal·lació, configuració i prova del maquinari i programari base de la xarxa, dels recursos disponibles i dels requeriments dels usuaris.
+
+5. Compromís amb les obligacions associades al treball:
+
+Realització de les operacions sempre segons les normatives i reglamentacions vigents per a cada tipus d'equip.
+Conservació i manteniment de l'operativitat del sistema de la xarxa.
+Gestió racional del temps disponible per executar les funciones d'administració.
+Seguiment de les normes de funcionament de l'aula i de l'equipament que fixi el propi centre educatiu.
+
+6. Execució independent del treball:
+
+Autosuficiència per executar o controlar la instal·lació, configuració i prova del maquinari i del sistema operatiu de xarxa.
+Rigor en organitzar, controlar i optimar els serveis de la xarxa a l'hora d'establir procediments per la seguretat i protecció de la xarxa i la informació.
+Autoavaluació dels mètodes de treball, o resultats obtinguts, i el temps emprat.
+
+7. Confiança en si mateix:
+
+Seguretat per seleccionar de forma raonada la topologia de xarxa més adequada als requeriments establerts.
+
+8. Relació interpersonal quant al treball d'equip:
+
+Intercanvi d'idees i experiències anteriors en els diferents processos de treball proposats.
+Cordialitat i tolerància amb els components de grup, tant amb les idees com amb els processos de treball, i amb els usuaris en l'administració dels recursos de la xarxa.
+Cooperació en atendre les demandes d'usuari i resoldre els problemes d'ús dels recursos compartits.
+Respecte per les opinions dels companys quant a procés i mètodes de treball en l'administració del sistema o comunicacions.
+
+9. Creativitat:
+
+Suscitació de recursos per administrar la xarxa i per establir els procediments que assegurin la integritat, disponibilitat i seguretat de la xarxa i de la informació.
+
+10. Adaptació a noves situacions:
+
+Reorganització de les operacions que s'han de fer individualment o en grup davant d'imprevistos o dificultats.
+Recerca de les formes d'administrar les comunicacions externes, segons el producte i les demandes internes.
+
+11. Respecte per la salut, el medi ambient i la seguretat laboral:
+
+Observació de les normes de seguretat per prevenir les situacions anormals que puguin afectar la salut pròpia i dels altres.
+
+12. Valoració de resultats:
+
+Autoavaluació sistemàtica de les tasques realitzades, de les modificacions introduïdes i dels resultats obtinguts en els processos d'instal·lació i configuració del maquinari i programari base del sistema de xarxa.
+
+13. Progrés i promoció dins de la professió:
+
+Constància i esforç per aprendre i actualitzar-se en l'administració de la xarxa i en els sistemes de comunicació externa.me
+
+Crèdit 3: implantació d'aplicacions informàtiques de gestió.
+
+a) Durada: 210 hores.
+
+b) Objectius terminals.
+
+Especificar els processos interactius i per lots del sistema, les característiques, el consum de recursos, els avantatges i inconvenients i les mesures d'integritat de la informació.
+
+Determinar les característiques bàsiques de la configuració del maquinari i del programari que s'han de tenir en compte en la instal·lació d'una aplicació.
+
+Identificar en diferents sistemes operatius, les funcions d'interconnexió i vinculació d'aplicacions, l'àmbit d'utilització i la manera d'operar d'aquestes.
+
+Dissenyar un procediment d'instal·lació, configuració i implantació d'una aplicació, prenent en consideració la situació actual del maquinari, programari existent, dades del sistema, i mesures de seguretat de la informació i del sistema.
+
+Operar, en sistemes operatius monousuari, multiusuari i de xarxa, els procediments d'instal·lació i configuració d'una aplicació i les utilitats d'instal·lació d'aplicacions que proporciona el programari base, amb l'ús de la documentació tècnica.
+
+Determinar els plans de proves i els jocs de dades que cal organitzar per verificar la instal·lació de l'aplicació en una configuració determinada.
+
+Relacionar l'estructura organitzativa d'una empresa tipus, les àrees funcionals, les relacions i els fluxos d'informació que es creen, amb el programari de gestió existent al mercat i l'àmbit de cobertura operativa.
+
+Analitzar les millores tècniques i funcionals que el tractament de dades aporta a l'usuari, a partir de l'ús d'un determinat programari estàndard o de gestió existent en el mercat.
+
+Diferenciar i operar en les aplicacions estàndards, les funcions i les característiques generals i també els procediments d'integració i intercanvi d'informació, creació de formats, gràfics i documents i actualització de dades.
+
+Utilitzar amb seguretat i eficàcia, el programari i les proves de prestacions i de rendiment de les aplicacions estàndards i específiques més usuals.
+
+Relacionar les necessitats de l'usuari quant a processos i formes de presentació de la informació amb els programaris estàndards i de gestió existents al mercat i que són d'àmplia aplicació.
+
+Definir les compatibilitats del sistema instal·lat amb les ampliacions, modificacions o instal·lacions de programaris estàndards o específics proposats per l'usuari.
+
+Diferenciar els criteris tècnics i de qualitat que s'han de tenir presents en la valoració del programari estàndards i específic existent en el mercat, segons la funció i les necessitats d'usuari.
+
+Valorar les característiques i les condicions tècniques del programari estàndard o de gestió que s'ajusti a les necessitats de l'organització i a les característiques de l'explotació, segons els criteris tècnics i de qualitat establerts.
+
+Elaborar de forma clara i concisa, les guies d'usuari que facilitin l'explotació eficaç del programari i dels entorns de treball, segons els paràmetres i procediments requerits per l'aplicació.
+
+Programar per una determinada aplicació, el contingut de la formació que cal impartir a l'usuari, la metodologia de treball i les activitats i exemples significatius que cal desenvolupar.
+
+Resoldre els problemes que planteja l'usuari en l'explotació d'una aplicació, segons les indicacions de manuals, guies d'usuari i serveis de manteniment de l'aplicació.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. L'empresa i el seu entorn:
+
+L'empresa: elements interns i externs.
+Tipologia d'empresa: forma jurídica, titularitat, sector i grandària.
+Organització de l'empresa: principis, formes, organigrames.
+Departaments i àrees funcionals: tipus, funcions, informació i documents, relació interdepartamental.
+Fluxos d'informació: processos, documents.
+
+2. Informatització de la gestió de l'empresa:
+
+Tractaments per lots i en temps real. Entorn de treball.
+Recursos d'informació: fitxers i bases de dades.
+Gestió a l'empresa: compres, emmagatzematge, vendes, recursos humans, recursos financers.
+Administració: comptabilització, control de costos.
+
+3. Aplicacions informàtiques de propòsit general:
+
+Processador de text: objectiu, característiques, edició, formats, salvaguarda, recuperació, impressió.
+Diccionaris ortogràfics i de sinònims. Mailings.
+Full de càlcul: objectius, característiques, formats, funcions, gràfics suportats, salvaguarda, recuperació, impressió.
+Bases de dades: objectius, característiques, creació, actualització, consulta, filtratges, ordenació, indexació, salvaguarda, recuperació, impressió, vistes, etiquetes, informes.
+Gràfics: objectius, característiques, creació, actualització, salvaguarda, recuperació, impressió.
+
+4. Aplicacions informàtiques de propòsit específic:
+
+Gestió de magatzem: objectius, característiques, operativitat.
+Gestió de facturació: objectius, característiques, operativitat.
+Gestió comercial: objectius, característiques, operativitat.
+Gestió de nòmines: objectius, característiques, operativitat.
+Gestió de personal: objectius, característiques, operativitat.
+Gestió de comptabilitat: objectius, característiques, operativitat.
+
+5. Prestacions de les aplicacions informàtiques de gestió:
+
+Documentació tècnica.
+Plataformes d'entorn de treball.
+Compatibilitat amb altres aplicacions: format de les dades, importació, exportació.
+Interfície gràfica.
+Funcions de l'aplicació.
+Prova de l'aplicació. Jocs de dades.
+Facilitat d'utilització.
+Cost econòmic.
+Criteris d'avaluació de la qualitat: ergonomia, formats, ajudes.
+Servei postcompra: formació inicial, manuals, actualitzacions, ajuda en línia.
+
+6. Formació de l'usuari:
+
+Guia d'usuari: contingut general, procediments de configuració d'entorn, explotació del programari i intercanvi d'informació.
+Curs de formació: materials, mètodes, activitats.
+Assistència a l'usuari: problemàtiques, estratègies de relació i comunicació.
+
+d) Continguts de procediments.
+
+1. Instal·lació d'una aplicació estàndard o específica:
+
+Interpretació de les instruccions i de la informació de la documentació d'instal·lació.
+Identificació de les utilitats d'instal·lació que proporciona el programari base.
+Interpretació dels requeriments per a la instal·lació de l'aplicació.
+Anàlisi de l'arquitectura de la instal·lació, mòduls i funcions.
+Obtenció d'informació de la situació actual del maquinari i del programari existent en el sistema.
+Determinació de les mesures de seguretat de la informació i del sistema que s'han d'aplicar.
+Operativa d'instal·lació amb el programari base.
+Elaboració de jocs de dades.
+Comprovació del funcionament de la instal·lació.
+
+2. Anàlisi del programari d'aplicacions estàndards i específiques:
+
+Identificació de les aplicacions de propòsit general i específic existents en el mercat.
+Obtenció d'informació sobre les aplicacions.
+Determinació dels criteris tècnics per fer l'anàlisi.
+Descomposició dels elements estructurals i del sistema.
+Interpretació de configuració necessària i de la compatibilitat.
+Valoració de la qualitat del programari.
+
+3. Verificació d'aplicacions instal·lades:
+
+Identificació de les necessitats d'usuari.
+Determinació del pla de proves necessari.
+Elaboració del joc de dades.
+Comprovació de l'adequació a les necessitats d'usuari.
+
+4. Actualització d'aplicacions informàtiques:
+
+Consulta de la informació tècnica.
+Interpretació del procés d'actualització que indica el producte.
+Realització de les còpies de seguretat de la informació existent en el sistema.
+Adaptació de l'aplicació.
+Comprovació del funcionament de l'aplicació.
+Modificació dels informes d'utilització i explotació.
+Comunicació als usuaris implicats de l'actualització de l'aplicació.
+Lliurament als usuaris de la documentació actualitzada.
+
+5. Producció d'informes tècnics sobre aplicacions:
+
+Concreció de la finalitat de l'informe.
+Recollida d'informació sobre la qualitat del producte i de les condicions de l'explotació.
+Organització de la informació que cal incloure.
+Preparació del guió, esquema i disposició.
+Redacció i elaboració de conclusions.
+Revisió i correcció.
+
+6. Producció de la guia d'usuari i manuals d'explotació d'aplicacions:
+
+Interpretació de la informació subministrada pel manual d'usuari de l'aplicació.
+Interpretar les condicions de l'explotació.
+Identificació dels processos i funcions que s'han d'incloure al document o guia.
+Selecció de l'estructura de la guia d'usuari.
+Determinació del format, ordre i esquema de presentació.
+Obtenció d'informació de les característiques i del funcionament.
+Definició del lèxic.
+Redacció de la guia d'utilització de les funcions.
+Elaboració d'un qüestionari que reculli informació precisa sobre problemes d'entrada, procés i presentació de dades de l'aplicació.
+Revisió i edició.
+
+7. Planificació de cursos d'entrenament en el programari d'aplicació:
+
+Identificació de les funcions bàsiques d'usuari de l'aplicació.
+Concreció dels objectius que es volen aconseguir.
+Determinació dels coneixements previs dels usuaris a qui va destinat el curs.
+Concreció del contingut de formació, estratègies metodològiques.
+Definició d'activitats i exemples que cal desenvolupar en les sessions formatives.
+Temporalització del curs.
+Preparació de documentació d'ajuda i suport a la formació.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions davant les contingències que es poden presentar en instal·lar aplicacions informàtiques de gestió i davant la inexistència de respostes en consultar els manuals i els serveis tècnics. 
+Argumentació i justificació de les decisions en elaborar informes sobre l'adopció o adaptació d'aplicacions informàtiques.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Correcció sistemàtica dels errors que es presenten en instal·lar i operar les aplicacions informàtiques de propòsit general i específic.
+
+3. Optimació del treball:
+
+Eficiència a l'hora d'utilitzar les aplicacions informàtiques de propòsit general i específic.
+
+4. Ordre i mètode de treball:
+
+Seqüència i ordre en les accions d'instal·lar, configurar i provar les aplicacions informàtiques.
+Distribució del treball i del temps en preparar i impartir cursos d'entrenament per als usuaris.
+
+5. Execució independent del treball:
+
+Autosuficiència a l'hora de controlar o executar la instal·lació, configuració i prova d'aplicacions informàtiques, i a l'hora de preparar i impartir cursos d'entrenament, i prestar assistència sobre la utilització del programari.
+Rigor en elaborar informes tècnics sobre les prestacions d'aplicacions informàtiques.
+
+6. Interès per les relacions humanes:
+
+Cordialitat amb els usuaris a l'hora d'impartir cursos d'entrenament i prestar assistència sobre el funcionament del programari general i específic.
+Argumentació dels procediments que ha de seguir l'usuari en l'explotació d'una aplicació concreta.
+
+7. Mentalitat emprenedora en les tasques i accions:
+
+Recerca de noves actuacions per cobrir necessitats de l'organització o usuari.
+
+8. Creativitat:
+
+Motivació per preparar guies d'usuari final i cursos d'entrenament que permetin una correcta explotació de les aplicacions. 
+
+9. Obertura a l'àmbit professional i la seva evolució:
+
+Interès pels avenços tecnològics en el programari general i específic.
+
+10. Adaptació a noves situacions:
+
+Resposta a noves situacions que plantegin les aplicacions informàtiques i adaptacions del programari instal·lat.
+
+11. Progrés i promoció dins de la professió:
+
+Constància i esforç per aprendre i actualitzar-se en el programari general i específic.
+
+12. Valoració de resultats:
+
+Argumentació d'opinions en els informes tècnics sobre canvis i millores necessàries en el programari general i específic.
+Judici en avaluar les prestacions d'aplicacions informàtiques de gestió.
+
+13. Motivar:
+
+Encoratjament als altres en la utilització de les aplicacions informàtiques.
+
+Crèdit 4: fonaments de programació.
+
+a) Durada: 240 hores.
+
+b) Objectius terminals.
+
+Identificar els recursos del sistema informàtic necessaris per a la realització de programes.
+
+Definir les estructures de dades estàtiques i dinàmiques necessàries per a la resolució de problemes en un llenguatge estructurat.
+
+Dissenyar algorismes per a les operacions bàsiques d'altes, de baixes, de consultes i de modificacions en arxius.
+
+Utilitzar la programació estructurada i modular per al disseny d'algorismes i l'elaboració de programes.
+
+Codificar programes amb l'aplicació de tècniques recursives que optimin la programació, segons la documentació tècnica.
+
+Especificar, en l'elaboració de programes, les condicions d'entrada, de sortida i d'error amb el corresponent tractament.
+
+Desenvolupar els codis font en llenguatges de programació estructurada i modular, a partir dels algorismes dissenyats, i d'acord amb la sintaxi.
+
+Obtenir els codis objecte a partir dels codis font.
+
+Obtenir els codis executables a partir dels codis objecte, amb la utilització de llibreries, utilitats i altres recursos.
+
+Comprovar que els recursos del sistema, del processador, de la memòria i dels perifèrics permeten la integració i l'enllaç de programes.
+
+Depurar els mòduls de programació desenvolupats en un llenguatge de programació estructurada i modular, segons els criteris d'eficàcia i eficiència.
+
+Controlar la qualitat del programa desenvolupat en un llenguatge de programació estructurada i modular, a partir de les especificacions establertes en el disseny i de les prestacions esperades per l'usuari.
+
+Verificar el funcionament de cada mòdul d'una aplicació, les integracions i els enllaços.
+
+Comprovar que l'accés i el tractament de les dades estan d'acord amb les directrius de l'administrador de dades del sistema i de les especificacions establertes en el disseny.
+
+Comprovar que els formats d'entrada i de sortida del programa, i la funcionalitat de les dades s'ajusten als paràmetres definits.
+
+Elaborar la guia d'usuari i la documentació completa de les fases de disseny, codificació, traducció, enllaç, depuració i verificació de programes elaborats amb programació estructurada i modular, de manera ordenada i clara.
+
+Determinar les causes i la manera de resoldre les incidències aparegudes en les fases de codificació, traducció, enllaç i depuració de programes en llenguatge de programació estructurada, a partir del manual de referència.
+
+Adaptar programes en llenguatge estructurat segons els nous requeriments establerts en el disseny.
+
+Determinar les implicacions que produeixen les noves modificacions sobre les dades i els mòduls, amb l'ús de matrius de referències creuades entre mòduls i dades.
+
+Comprovar l'eficiència i l'eficàcia de les prestacions i dels rendiments del programa elaborat en llenguatge de programació estructurada, en els processos d'adaptació i de disseny de programes.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Programa:
+
+Instrucció i seqüència d'instruccions.
+Tipus de programes: de gestió, científics, de disseny, d'ensenyament, simuladors.
+Característiques dels programes: llegibilitat, portabilitat, eficàcia, modularitat, estructuració.
+Fases bàsiques de desenvolupament d'un programa: anàlisi, algorismes, codificació en un llenguatge d'alt nivell, traductors, muntadors, verificació i documentació.
+Control de qualitat d'una aplicació informàtica: factors, índex, mètriques de qualitat.
+
+2. Estructures de dades:
+
+Dades simples: numèriques, alfanumèriques, lògiques, punter. Operadors: prioritats.
+Dades compostes internes estàtiques: cadenes, taules, registres.
+Dades compostes internes dinàmiques: piles, cues, llistes, arbres.
+Dades compostes externes, fitxers: camps, registres, tipus de fitxers, operacions. Tipus d'organització: seqüencial, relativa, seqüencial-indexada. Tipus d'accés: seqüencial i directe per valor i posició. Índex d'activitat i volatilitat. Sistema gestor de fitxers. Independència física de les dades.
+
+3. Programació estructurada:
+
+Definició i objectius.
+Constants i variables.
+Operacions simples: assignació, d'entrada, de sortida.
+Operacions compostes: seqüència, alternativa, repetitiva.
+Algorismes de tractament de cadenes: extracció, concatenació.
+Algorismes de tractament de taules: recorreguts total i parcial, inserció, recerca seqüencial, ordenació, recerca dicotòmica.
+Algorismes de tractament de piles: inserció i eliminació.
+Algorismes de tractament de cues: inserció i eliminació.
+Algorismes de tractament de llistes: recorregut, inserció, recerca i eliminació.
+Algorismes de tractament d'arbres: recorreguts preordre, inordre i postordre, recerca, inserció, eliminació.
+Algorismes de tractament de fitxers: creació, inserció, eliminació, consulta, modificació, còpia, fusió, ordenació, reorganització i partició.
+Aplicació dels algorismes de tractament d'arbres en la implementació de fitxers indexats.
+
+4. Programació modular:
+
+Definició i objectius.
+Anàlisi descendent: mòduls.
+Procediments i funcions.
+Pas d'arguments: per valor i per referència.
+
+5. Introducció a la programació recursiva:
+
+Recursivitat: directa i indirecta.
+
+6. Llenguatge C:
+
+Característiques i versions.
+Tipus de dades: organització interna, operadors.
+Instruccions d'entrada i de sortida: dispositius estàndards, impressora i fitxers.
+Instruccions de control.
+Funcions: pas d'arguments.
+Llibreries: tipus, aplicació, accés, creació i modificació.
+Traductors, muntadors, depuradors.
+
+7. Llenguatge C ampliat amb un gestor de fitxers:
+
+Utilització: accés seqüencial i directe per posició i valor.
+Utilitats externes.
+
+d) Continguts de procediments.
+
+1. Anàlisi del problema que cal resoldre:
+
+Recepció del problema.
+Valoració dels avantatges i dels inconvenients del seu procés manual.
+Determinació de les possibilitats de tractament informàtic.
+Selecció del tractament informàtic més adient.
+Documentació de les fases anteriors.
+
+2. Descomposició modular:
+
+Interpretació del tractament informàtic seleccionat en la fase d'anàlisi del problema que cal resoldre.
+Exploració dels blocs diferenciats o repetitius dins el tractament informàtic.
+Elaboració dels organigrames corresponents.
+Documentació de la fase.
+
+3. Disseny d'algorismes:
+
+Identificació de les dades d'entrada i de sortida i dels seus canals.
+Establiment d'una estratègia per determinar la seqüència d'accions.
+Determinació de la seqüència d'accions.
+Representació de la seqüència d'accions corresponents.
+
+4. Codificació d'algorismes:
+
+Elecció del llenguatge adient.
+Selecció de l'editor existent en el sistema informàtic.
+Traducció de la seqüència d'accions de l'algorisme.
+Verificació de la sintaxi del llenguatge seleccionat.
+
+5. Correcció d'errors de codificació:
+
+Selecció de l'editor existent en el sistema informàtic.
+Edició del fitxer font que s'ha de corregir.
+Rescriptura de les instruccions amb errors.
+
+6. Traducció d'un mòdul de programació:
+
+Elecció del fitxer font que s'ha de traduir.
+Selecció del programa traductor.
+Generació del fitxer objecte.
+Execució del procediment de correcció d'errors de codificació per als casos de no generació.
+Documentació del fitxer font traduït i dels paràmetres utilitzats.
+
+7. Muntatge d'un programa:
+
+Identificació dels fitxers objectes que cal muntar.
+Selecció del programa muntador.
+Determinació dels paràmetres d'execució.
+Generació del fitxer executable sobre els fitxers objectes.
+Execució del procediment de correcció d'errors de codificació per als casos de no generació.
+Documentació dels fitxers objectes muntats i dels paràmetres utilitzats.
+
+8. Verificació d'un programa:
+
+Determinació dels resultats esperats i dels criteris de valoració.
+Selecció de la bateria de proves.
+Execució del programa amb els paràmetres corresponents.
+Observació del funcionament del programa en totes les opcions i situacions possibles.
+Comparació dels resultats obtinguts amb els esperats.
+Detecció de les fases de desenvolupament de programes on hi ha error.
+Elaboració de la documentació de la bateria de proves, execució i resultats obtinguts.
+
+9. Desenvolupament de programes:
+
+Anàlisi del problema que cal resoldre.
+Descomposició modular.
+Disseny de l'algorisme per a cada mòdul.
+Codificació dels algorismes.
+Traducció dels mòduls.
+Muntatge del programa.
+Verificació del programa.
+Documentació del programa.
+
+10. Producció de la guia d'usuari i de documents adjunts al programa:
+
+Identificació dels elements i dels processos que s'han d'incloure al document o guia.
+Selecció de l'estructura de la guia d'usuari.
+Determinació del format, ordre i esquema de presentació.
+Obtenció de la informació, dades dels processos, resultats de les proves i de les representacions gràfiques.
+Estructuració de les dades.
+Redacció del text descriptiu del programa, dels canvis i de les proves.
+Redacció de la guia d'usuari.
+Revisió i edició.
+
+11. Adaptació de programes:
+
+Interpretació dels nous requeriments.
+Identificació de les dades i dels mòduls de programació afectats pels nous requeriments.
+Reconeixement de les implicacions sobre les dades i els mòduls.
+Determinació dels canvis que s'han d'introduir.
+Reajustament de les noves dades i mòduls.
+Comprovació del fet que les noves dades i mòduls no afecten l'eficàcia i eficiència de les prestacions, ni el rendiment del programa.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions a l'hora d'integrar i muntar programes i rutines, i d'introduir canvis als programes dissenyats amb metodologia que actualment ja no utilitza l'empresa.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Constància a l'hora de revisar i corregir els errors detectats en la provatura de programes en la fase de programació.
+
+3. Optimació del treball:
+
+Eficàcia per elaborar, adaptar i provar programes en llenguatges de programació estructurats.
+
+4. Ordre i mètode de treball:
+
+Seqüència i ordenació de les accions a l'hora de dissenyar els algorismes i d'efectuar canvis en els programes.
+Pulcritud i rigor a l'hora d'editar, traduir, muntar, executar i verificar programes en llenguatges estructurats.
+
+5. Responsabilitat en el treball:
+
+Cura d'elaborar programes que siguin clars i llegibles.
+
+6. Participació i cooperació en el treball d'equip:
+
+Col·laboració amb els altres programadors, si fa al cas, a l'hora de dissenyar i efectuar canvis en els programes.
+Interès per les opinions dels altres sobre el programa desenvolupat.
+
+7. Execució independent del treball:
+
+Autosuficiència per mantenir-se informat de les innovacions, tendències i tecnologies en llenguatges de programació de tercera generació.
+Rigor en la programació, l'adaptació i la provatura de programes en llenguatges estructurats.
+
+8. Confiança en si mateix:
+
+Seguretat a l'hora de programar, adaptar i provar programes en llenguatges de tercera generació.
+
+9. Comunicació empàtica:
+
+Interès pel missatge i per l'interlocutor a l'hora de rebre el problema que cal resoldre amb tractament informàtic, i en l'elaboració de la documentació.
+
+10. Creativitat:
+
+Curiositat per esbrinar els problemes que cal resoldre mitjançant la programació estructurada.
+
+11. Obertura a l'àmbit professional i la seva evolució:
+
+Interès pels avenços tecnològics en llenguatges estructurats.
+
+12. Adaptació a noves situacions:
+
+Resposta a noves situacions en la utilització de nous llenguatges estructurats.
+
+13. Progrés i promoció dins de la professió:
+
+Constància i esforç per aprendre la utilització de nous llenguatges estructurats.
+
+14. Valoració de resultats:
+
+Argumentació del resultat obtingut amb el programa elaborat en llenguatges estructurats. 
+Justificació de la decisió dels algorismes emprats en la resolució del problema.
+
+Crèdit 5: desenvolupament de funcions en el sistema informàtic.
+
+a) Durada: 180 hores.
+
+b) Objectius terminals.
+
+Dissenyar i codificar programes senzills que permetin millorar l'explotació del sistema i aplicacions, amb l'ús adequat de les interfícies de programació que ofereix el programari base del sistema.
+
+Diferenciar els problemes de concurrència de processos i de tasques en sistemes multiusuari i multitasca.
+
+Relacionar les principals llibreries, funcions, serveis i utilitats del sistema en ús amb les necessitats requerides per al desenvolupament del programa.
+
+Aplicar les tècniques de comunicació i sincronisme de processos en entorns multiusuari i multitasca.
+
+Emprar les llibreries del sistema i d'usuari, els traductors, els depuradors i els generadors de codi i pantalles.
+
+Detectar les carències i les dificultats d'explotació del sistema i de les aplicacions que es volen incorporar o millorar.
+
+Definir de forma clara i concisa, les funcions, les prestacions i els recursos que es poden canviar o millorar en el sistema o programes desenvolupats a partir de la configuració actual i de la informació del sistema.
+
+Valorar en incorporar un nou producte en el sistema, les prestacions i avantatges que aportaria al procés de dades, els serveis necessaris per la implantació i els costos de l'operació.
+
+Produir informes tècnics, amb un llenguatge precís i concís, sobre carències del sistema, i les solucions, canvis i millores que cal incorporar.
+
+Implantar programes de millora d'explotació en el sistema a partir dels canvis proposats, i amb l'ús de la informació tècnica corresponent.
+
+Establir procediments de prova que verifiquin el funcionament del sistema i dels programes desenvolupats, i preservin la configuració i operativitat del sistema o aplicació.
+
+Documentar de forma clara i concisa, els canvis introduïts en el sistema o programes desenvolupats amb relació a les estructures de control, dades i característiques del sistema.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Tècniques de programació sobre sistemes:
+
+Ordres del sistema suportades per llenguatges de programació.
+Crides al nucli del sistema: gestió de perifèrics, arrencada i aturada de processos, gestió de disc.
+Llibreries del sistema: de llenguatges de programació, d'entrada o sortida, matemàtiques, de suport de xarxa i especialitzades.
+Estat i control de processos.
+Planificació de processos: "daemon".
+Comunicació entre processos: missatges, semàfors, memòria compartida.
+
+2. Desenvolupament de projectes sobre sistemes operatius:
+
+Projectes informàtics: etapes, eines i tècniques de gestió de projectes.
+Informació i documentació del projecte: de les etapes, guies d'usuari, manuals.
+
+d) Continguts de procediments.
+
+1. Programació d'utilitats d'explotació en sistemes:
+
+Identificació del sistema, funcionament i interfícies de programació incorporades.
+Consulta i interpretació dels manuals de referència del sistema.
+Anàlisi de la millora que cal efectuar en el sistema.
+Classificació de les llibreries, funcions i serveis que ofereix el sistema.
+Disseny dels algorismes.
+Obtenció dels codis font objecte i executable.
+Verificació de la utilitat desenvolupada.
+Documentació de la utilitat desenvolupada.
+
+2. Implantació de millores d'explotació en sistemes:
+
+Identificació del sistema i del seu funcionament.
+Consulta i interpretació dels manuals de referència del sistema i de la documentació de la millora.
+Realització de les còpies de seguretat, si fa al cas.
+Operativa segons les demandes del sistema i del procés d'instal·lació de la millora.
+Comprovació del funcionament de la millora.
+
+3. Verificació d'utilitats d'explotació desenvolupades:
+
+Identificació de la configuració del sistema.
+Determinació dels mètodes de prova sistemàtica de la utilitat.
+Interpretació de les especificacions establertes.
+Observació de les mesures de seguretat del sistema i de la informació.
+Selecció dels plans de prova.
+Comprovació del funcionament dels programes i la seva repercussió en el sistema.
+Interpretació dels errors i de les fallades detectats en el programa.
+Comprovació de la funcionalitat del sistema.
+Proposta de canvis o millores en el programa.
+
+4. Valoració tècnica i econòmica del desenvolupament d'utilitats d'explotació:
+
+Interpretació dels requeriments de funcionament del sistema.
+Anàlisi de la necessitat de desenvolupar una utilitat.
+Especificació dels canvis que es poden introduir en el sistema informàtic.
+Comparació de les possibles solucions.
+Estimació dels costos de les alternatives.
+Emissió d'un informe tècnic.
+
+5. Producció d'informes tècnics i documents sobre canvis i millores d'explotació del sistema:
+
+Concreció de la finalitat de l'informe o document.
+Recollida d'informació sobre els canvis que cal efectuar o introduïts.
+Organització de la informació que cal incloure.
+Preparació del guió, esquema i disposició.
+Redacció i elaboració de conclusions.
+Revisió i correcció.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions a l'hora d'integrar i muntar rutines i llibreries per a millorar el funcionament del sistema.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Correcció sistemàtica dels errors detectats en la provatura de les rutines i llibreries desenvolupades.
+
+3. Optimació del treball:
+
+Eficàcia per elaborar, adaptar i provar rutines i llibreries que millorin el funcionament del sistema.
+
+4. Ordre i mètode de treball:
+
+Seqüència de les accions a l'hora d'efectuar canvis en les rutines i llibreries del sistema.
+
+5. Execució independent del treball:
+
+Rigor en la programació, adaptació i provatura de les rutines i llibreries desenvolupades.
+
+6. Mentalitat emprenedora en les tasques i accions:
+
+Motivació per emprendre tasques o accions noves per millorar el funcionament del sistema.
+
+7. Adaptació a noves situacions:
+
+Resposta davant de canvis en el sistema.
+
+8. Valoració de resultats:
+
+Argumentació d'opinions en els informes tècnics sobre carències del sistema, solucions, canvis i millores que cal introduir al sistema.
+Justificació dels resultats obtinguts en la utilització de les rutines i llibreries desenvolupades.
+
+Crèdit 6: sistemes gestors de bases de dades.
+
+a) Durada: 190 hores.
+
+b) Objectius terminals.
+
+Interpretar els objectius i les característiques tècniques, arquitectura i estructura interna i les funcionals dels models existents de sistemes gestors de bases de dades (SGBD), a partir de documentació específica.
+
+Identificar la sintaxi d'un llenguatge gràfic de representació del disseny conceptual de dades i de relacions.
+
+Diferenciar entre l'esquema extern, l'esquema conceptual i l'esquema intern d'una base de dades.
+
+Interpretar l'estructura d'un diccionari de dades, els aspectes que gestiona i la forma d'actualització, segons les prestacions del sistema o llenguatge.
+
+Deduir els avantatges operatius d'un sistema gestor de bases de dades sobre un sistema gestor de fitxers.
+
+Interpretar la documentació provinent de l'anàlisi de dades i del disseny lògic d'una base de dades.
+
+Sintetitzar dissenys conceptuals de dades amb l'ús del diagrama entitat-relació i elaborar la documentació relativa al model conceptual.
+
+Identificar les característiques dels sistemes gestors de bases de dades relacionals (SGBDR), les prestacions dels productes existents en l'actualitat i les tendències.
+
+Aplicar els processos de normalització en el model relacional i de traducció del model entitat-relació al model relacional.
+
+Diferenciar les característiques, l'objectiu i la forma de representació d'un disseny conceptual de dades i de relacions.
+
+Definir un disseny lògic en un model relacional de taules, claus i condicions d'integritat, a partir del disseny conceptual.
+
+Relacionar les operacions bàsiques de l'àlgebra i del càlcul relacionals amb els conceptes associats a la representació de la informació.
+
+Emprar els llenguatges de definició i de manipulació de dades sobre un SGBDR de manera interactiva i segons les regles sintàctiques.
+
+Identificar les funcions, la sintaxi i les ordres bàsiques del llenguatge SQL per a la definició, la consulta, l'actualització i l'exportació/importació de dades.
+
+Determinar les causes i maneres de resoldre les incidències aparegudes en l'operació del SGBDR segons la informació dels manuals i de l'administrador del SGBDR.
+
+Identificar les funcions de les variables d'entorn i configuració d'un SGBD, els fitxers d'auditoria i control de transaccions, i l'estructura del diccionari.
+
+Definir l'esquema de taules, vistes, permisos d'accés que garanteixin la integritat i confidencialitat de la informació adequada als usuaris.
+
+Definir els índexs que s'han de crear per millorar el rendiment del SGBD.
+
+Seleccionar del SGBDR, les utilitats adequades, l'ordre d'aplicació i les condicions idònies que responguin a les funcions d'administració d'un sistema gestor.
+
+Instal·lar un SGBD en qualsevol entorn, segons les característiques de l'entorn i amb l'ús del manual.
+
+Analitzar les causes i formes de resolució de les incidències aparegudes en la instal·lació i administració del SGBD segons la informació dels manuals i dels missatges del propi sistema.
+
+Dissenyar procediments de salvaguarda i recuperació de la informació emmagatzemada amb el SGBD i d'automatització de tasques d'administració del SGBD.
+
+Executar procediments d'importació-exportació de dades entre diferents SGBD segons la documentació tècnica.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Sistema gestor de base de dades (SGBD):
+
+Sistema gestor de bases de dades: objectius i evolució.
+Arquitectura ANSI/X3/SPARC: esquema intern, conceptual i extern, flux de dades i control.
+Independència física i lògica de les dades.
+Models: jeràrquic, xarxa i relacional, estructures de dades, operacions de manipulació, regles d'integritat del model.
+Usuaris: informàtics i no informàtics.
+Llenguatges: de definició i manipulació, i autosuficients i submergits.
+
+2. Model entitat-relació (CHEN):
+
+Entitat: atributs, clau i representació gràfica.
+Relació: atributs, grau, representació gràfica, obligatorietat de les entitats i diagrama d'ocurrències.
+Entitats fortes i dèbils.
+Model ampliat amb particions i subconjunts.
+
+3. Model relacional:
+
+Relació: domini, atribut, tupla, grau, cardinalitat, valors nuls, comparació amb fitxers, claus.
+Regles d'integritat: d'entitat i referencial.
+Traducció del model entitat-relació al model relacional.
+Àlgebra relacional: operacions de conjunt (unió, diferència i producte cartesià), operacions 1-àries (projecció i selecció), operacions addicionals (reunió, intersecció i divisió).
+Càlcul relacional orientat a tuples.
+Llenguatges relacionals: situació actual.
+
+4. Llenguatge de definició de dades SQL:
+
+Nivell conceptual: creació i eliminació de la base de dades; creació, expansió i eliminació de les taules; definició de camps.
+Nivell extern: creació i eliminació de vistes.
+Nivell intern: creació i eliminació d'índexs.
+
+5. Llenguatge de manipulació de dades SQL interactiu:
+
+Obertura i tancament de la base de dades.
+Operacions sobre tuples: consultar, inserir, eliminar, modificar, exportar i importar.
+Transaccions.
+Control d'accessos concurrents.
+
+6. Normalització:
+
+Dependència funcional. Dependència funcional plena.
+Primera forma normal.
+Segona forma normal. Dependència transitiva.
+Tercera forma normal.
+Forma normal de Boyce Codd.
+Dependències de valors múltiples.
+Quarta forma normal.
+
+7. Bases de dades distribuïdes:
+
+Necessitat. Processos locals i globals.
+Tipus: centralització, distribució, replicació, avantatges i inconvenients.
+Punts d'emmagatzematge i punts d'accés. Fragmentació.
+SGBD distribuïts: homogenis i heterogenis, autonòmics-confederals.
+Distribució i replicació de les dades entre els punts d'emmagatzematge: horitzontal, vertical i mixta.
+Transaccions: locals i globals.
+Arquitectura ANSI/X3/SPARC.
+Components d'un SGBD distribuït.
+Procés de transaccions.
+
+8. Administrador d'un SGBD relacional:
+
+Administrador: funcions i característiques.
+Arrencada del SGBD.
+Gestió del diccionari de dades.
+Gestió d'usuaris: permisos d'accés.
+Gestió de comunicacions amb altres SGBD.
+Seguretat de la informació: còpies, recuperació.
+Rendiment del SGBD: millores d'explotació.
+
+d) Continguts de procediments.
+
+1. Disseny del model entitat-relació d'una base de dades:
+
+Identificació de les fonts d'informació.
+Selecció i buidatge de les fonts d'informació.
+Ordenació de la informació.
+Interpretació de la informació que cal tractar i de les connexions que cal aplicar.
+Anàlisi de les possibles relacions i connexions.
+Presa de decisions del disseny.
+Definició de les entitats: nom, atributs, clau.
+Definició de les relacions: nom, atributs, grau.
+Representació gràfica.
+
+2. Conversió del model entitat-relació al model relacional:
+
+Generació de les taules degudes a les entitats.
+Ampliació de les taules a partir de les relacions de grau 1:1 i 1:N.
+Generació de les taules degudes a les relacions de grau N:M i similars.
+
+3. Sessions de treball amb un SQL interactiu sobre una base de dades en un SGBDR:
+
+Identificació de les operacions que cal realitzar.
+Introducció de l'ordre de posada en funcionament.
+Selecció de la base de dades que cal treballar.
+Determinació de les ordres que cal introduir.
+Execució de les operacions i les tasques proposades.
+Determinació de les ordres de tancament.
+
+4. Instal·lació i desinstal·lació d'un SGBDR:
+
+Identificació de les característiques de l'entorn.
+Obtenció d'informació dels processos d'instal·lació o desinstal·lació.
+Selecció de les còpies de seguretat de la informació que interessa.
+Operativa segons les demandes de l'entorn, del sistema gestor i de les necessitats d'instal·lació o desinstal·lació.
+Comprovació de procés.
+
+5. Administració d'un sistema gestor de bases de dades relacionals:
+
+Determinació dels usuaris amb accés al SGBDR.
+Determinació de les bases de dades que cal gestionar pel SGBDR.
+Determinació dels usuaris amb accés a les bases de dades.
+Automatització de tasques rutinàries.
+Control de transaccions.
+Resolució de problemes en el sistema gestor.
+
+6. Administració d'una base de dades en un SGBDR:
+
+Creació o manteniment de les taules, vistes i índexs.
+Determinació dels usuaris amb accés a les taules i vistes de la base de dades i tipus d'accés.
+Determinació de les còpies de seguretat que cal realitzar periòdicament.
+Recuperació de la informació salvaguardada, si fa al cas.
+Control de transaccions.
+Obtenció de mesures de rendiment de les bases de dades.
+Propostes de canvis en l'esquema físic per millorar el rendiment.
+Obtenció d'informació a partir del diccionari de dades.
+
+e) Continguts d'actituds.
+
+1. Execució sistemàtica del procés de resolució de problemes:
+
+Presa de decisions davant la creació o modificació de l'estructura de la base de dades en un SGBDR.
+
+2. Execució sistemàtica de la comprovació dels resultats:
+
+Correcció sistemàtica dels errors produïts en la utilització del llenguatge SQL interactiu i en la manipulació inadequada de les bases de dades per part de l'usuari.
+
+3. Optimació del treball:
+
+Eficàcia a l'hora d'utilitzar les operacions de consulta en un SGBDR.
+Eficiència en administrar un SGBDR de manera que s'asseguri la integritat, disponibilitat i seguretat de la informació.
+
+4. Ordre i mètode de treball:
+
+Seqüència i ordenació de les accions que constitueixen el disseny, creació i manteniment de les bases de dades en un SGBDR.
+Ordre en el treball interactiu en un SGBDR.
+
+5. Participació i cooperació en el treball d'equip:
+
+Col·laboració amb l'administrador del sistema operatiu multiusuari o xarxa on està instal·lat el SGBDR.
+Interès per les opinions dels altres davant la creació o modificació de l'estructura d'una base de dades.
+Coordinació amb el dissenyador de la base de dades a l'hora de crear o modificar l'estructura de la base de dades.
+
+6. Execució independent del treball:
+
+Autosuficiència a l'hora de dissenyar el model entitat-relació, a l'hora d'utilitzar de manera correcta les sentències del llenguatge SQL i a l'hora d'organitzar, controlar i optimar les bases de dades del SGBD.
+Rigor en establir procediments de seguretat i protecció de la informació.
+
+7. Confiança en si mateix:
+
+Constància i esforç per aprendre nous SGBD relacionals.
+
+8. Interès per les relacions humanes:
+
+Cordialitat amb els usuaris a l'hora d'administrar el SGBD en entorn multiusuari.
+Amabilitat amb els administradors d'altres SGBDR a l'hora d'establir connexions.
+
+9. Creativitat:
+
+Curiositat per esbrinar les entitats i les relacions necessàries pel disseny de bases de dades.
+Motivació en efectuar consultes complexes en un SGBD relacional.
+
+10. Adaptació a noves situacions:
+
+Resposta a noves situacions plantejades en el SGBDR i en l'organització o usuari.
+Constància i esforç per aprendre i actualitzar-se en l'administració del SGBDR.
+
+11. Qualitat del treball:
+
+Diligència en l'administració del SGBDR.
+
+12. Valoració dels resultats:
+
+Argumentació o justificació de la decisió en el disseny de les bases de dades.
+Autovaloració dels processos realitzats en el disseny d'una base de dades.
+
+Crèdit 7: relacions en l'àmbit de treball.
+
+a) Durada 60 hores.
+
+b) Objectius terminals.
+
+Organitzar la informació i els canals d'accés i d'ús en les relacions en l'àmbit de treball.
+
+Afrontar els conflictes que es produeixen en l'àmbit de treball amb la participació de les persones implicades.
+
+Prendre decisions, a partir dels objectius de l'empresa o del grup, tenint en compte els condicionaments tècnics i humans que hi concorren i les opinions personals.
+
+Liderar un equip de treball d'acord amb l'estil de direcció més adequat a les característiques situacionals.
+
+Valorar el comportament individual de les persones a partir dels sistemes de supervisió i control.
+
+Aplicar el procés d'integració de nous treballadors en l'equip de treball, en funció de la informació que se li dóna de l'empresa, la coneixença dels companys, el lloc de treball, les tasques que cal fer, els mètodes de treball i el funcionament de l'empresa.
+
+Conduir un procés de negociació en funció dels objectius essencials que s'han d'assolir i de l'aplicació de les tècniques de negociació.
+
+Conduir les reunions de treball en funció dels objectius que cal assolir i de l'aplicació de les tècniques de dinamització i funcionament de grups.
+
+Distingir les característiques de funcionament d'un grup de treball i els factors organitzatius i de comunicació.
+
+Potenciar els factors que afavoreixen la motivació en el treball a partir de les polítiques generals de l'empresa sobre recursos humans.
+
+Executar totes les fases que componen un programa o una actuació de formació, d'acord amb les necessitats detectades, els recursos i el pressupost.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Comunicació:
+
+Tipus de comunicació.
+Elements de la comunicació.
+Canals de comunicació.
+Barreres, interferències i distorsions en la comunicació.
+Comunicació en l'empresa.
+Control de la informació.
+
+2. Conflictes:
+
+Tipus.
+Causes.
+Fases de desenvolupament dels conflictes.
+Vies de solució.
+Participació del grup.
+
+3. Negociació:
+
+Concepte.
+Objectius d'una negociació.
+Fases que configuren el procés de negociació.
+Estils de negociació.
+Fases: preparació, discussió, intercanvi, tancament i acord.
+
+4. Presa de decisions:
+
+Tipus.
+Factors que influeixen en la decisió.
+Consultes prèvies.
+
+5. Liderat:
+
+Concepte.
+Teories del liderat.
+Estils de direcció.
+Supervisió del treball.
+Delegació eficaç.
+El quadre d'empresa.
+Integració de nous treballadors.
+
+6. Polítiques de l'empresa:
+
+Salarial.
+De valoració de llocs de treball.
+D'informació als treballadors.
+De promoció en el treball.
+De formació dels treballadors.
+
+7. Direcció de grups:
+
+Característiques dels grups formals i informals.
+Funcionament dels grups.
+Rols dels components.
+Dinamització i direcció de grups.
+
+8. Direcció de reunions:
+
+Tipus de reunions.
+Paper del moderador.
+Participació.
+Preparació i recursos de suport.
+Tècniques de treball.
+Avaluació de la reunió.
+
+9. Motivació:
+
+Concepte.
+Factors que afavoreixen la motivació.
+Teories de la motivació.
+
+10. Formació:
+
+Objectius.
+Continguts.
+Mitjans.
+Pressupost.
+Metodologia.
+Avaluació.
+
+d) Continguts de procediments.
+
+1. Producció de textos:
+
+Concreció de la finalitat de l'escrit.
+Recollida d'informació.
+Organització de la informació.
+Preparació del guió, esquema i disposició.
+Redacció.
+Revisió i correcció.
+
+2. Procés de comunicació:
+
+Percepció de l'interlocutor.
+Interpretació del missatge.
+Selecció de l'estratègia de relació i de l'estil de comunicació.
+Emissió de la comunicació, missatge o informació.
+
+3. Resolució de conflictes:
+
+Verificació de l'existència de conflictes.
+Interpretació de la causa que origina el conflicte.
+Anàlisi de les alternatives de resolució de conflictes.
+Presa de la decisió.
+
+4. Negociació:
+
+Diagnòstic de la situació.
+Fixació d'objectius.
+Presentació de les propostes.
+Tancament de la negociació.
+
+5. Presa de decisions:
+
+Anàlisi de les circumstàncies concurrents.
+Recerca de solucions possibles.
+Selecció d'una alternativa.
+
+6. Conducció de grups de treball:
+
+Interpretació de les dinàmiques internes i externes del grup.
+Determinació dels objectius dels grups.
+Tria de l'estil de liderat.
+Identificació de les pautes de conducta que han d'adoptar els participants.
+Dinamització i control de grups.
+
+7. Direcció de reunions:
+
+Fixació d'objectius.
+Organització del material tècnic i de suport.
+Estimulació de la participació.
+Manteniment de la discussió sense sortir-se del tema.
+Síntesi de les idees, temes o acords.
+
+8. Motivació:
+
+Anàlisi de l'actitud humana davant la feina.
+Identificació de les expectatives laborals.
+Selecció dels incentius segons les actituds constatades, les expectatives detectades i les possibilitats d'organització.
+Aplicació dels incentius.
+Revisió dels efectes de les mesures motivacionals.
+
+9. Formació:
+
+Identificació de les necessitats de formació.
+Formulació dels objectius.
+Descripció dels continguts.
+Selecció dels mitjans i de la metodologia.
+Càlcul del cost de la formació.
+Impartició de la formació.
+Avaluació de l'activitat formativa.
+
+e) Continguts d'actituds.
+
+1. Obertura a l'àmbit professional:
+
+Reconeixement de l'existència dels valors culturals de l'empresa i de la seva influència en el comportament humà.
+
+2. Compromís amb les obligacions associades al treball:
+
+Responsabilitat en l'acció d'integrar nous treballadors al centre de treball.
+Rigorositat en l'aplicació del pla de comunicació interna establert.
+
+3. Direcció de recursos humans:
+
+Aplicació dels mecanismes necessaris per tal de realitzar una delegació eficaç.
+
+4. Interès per les relacions humanes:
+
+Cordialitat a l'hora d'establir relacions amb els altres.
+Respecte per les persones i la seva llibertat individual dins d'un grup social.
+Interès pels altres.
+
+5. Comunicació empàtica:
+
+Cura en l'elaboració i la transmissió de missatges per tal de facilitar-ne la comprensibilitat.
+Interès per la retroalimentació del procés de comunicació.
+Reconeixement de la diversitat dels altres per tal d'acceptar l'existència de barreres comunicatives.
+Capacitat d'escoltar.
+
+6. Tractament de conflictes:
+
+Objectivitat per determinar la responsabilitat de totes les parts que intervenen en un conflicte.
+Imparcialitat a l'hora d'escoltar els motius de cada una de les parts.
+Habilitat per a escollir l'alternativa de resolució més adient.
+
+7. Reflexió i decisió per a escollir un estil de direcció:
+
+Reflexió individual per a triar l'estil de decisió o de direcció més adequat a la situació.
+Argumentació i cura en la forma de comunicar la decisió als subordinats.
+Manteniment del principi ètic en l'aplicació de les decisions preses.
+
+8. Participació i cooperació en el treball en equip:
+
+Col·laboració amb els altres membres de l'organització sempre que calgui.
+Reconeixement que la participació i la cooperació són necessàries per a la consecució dels objectius de l'empresa.
+Desenvolupament de l'esperit crític.
+Acceptació de les opinions i judicis d'altres persones per tal de poder millorar la qualitat de qualsevol aspecte laboral.
+Creació, entre els col·laboradors, de la necessitat i conveniència del treball en equip.
+Foment de l'ús de reunions participatives.
+
+Crèdit 8: formació i orientació laboral.
+
+a) Durada 60 hores.
+
+b) Objectius terminals.
+
+Identificar les situacions de risc derivades del treball en funció de les causes que les generen, de la classificació dels diversos grups de risc i dels danys que provoquen en la persona i en la col·lectivitat.
+
+Identificar els mitjans de prevenció i protecció que cal emprar en les situacions de risc, en funció de la naturalesa de la situació i de l'abast, personal o ambiental, d'actuació del risc.
+
+Aplicar les mesures d'intervenció en cas d'accident segons la prioritat d'actuació que escaigui i d'acord amb la urgència que el cas requereixi amb relació a les lesions produïdes.
+
+Reconèixer els drets, els deures i els procediments que es deriven de les relacions laborals.
+
+Identificar les condicions de treball del sector corresponent que figuren en el conveni col·lectiu.
+
+Diferenciar les modalitats de contractació més utilitzades en el sector actualment, segons el tipus i la finalitat del treball.
+
+Especificar les prestacions del règim general de la Seguretat social, en funció de les condicions exigides per a tenir-hi dret, el temps de durada i les quantitats econòmiques, si fa al cas.
+
+Relacionar els requeriments del lloc de treball amb les actituds i capacitats personals.
+
+Diferenciar els requisits i les característiques de la inserció laboral en funció de la modalitat de treballador autònom, empresa social, assalariat o funcionari.
+
+Diferenciar els tipus de mercat, les relacions entre oferta i demanda, i el procés de determinació dels preus.
+
+Relacionar els efectes de les relacions econòmiques internacionals en l'activitat de l'empresa.
+
+Identificar les àrees funcionals d'una empresa-tipus del sector i les relacions que s'estableixen entre elles a partir de diferents models organitzatius.
+
+Indicar la situació econòmica i financera d'una empresa a partir de les dades bàsiques i les possibilitats de finançament.
+
+c) Continguts de fets, conceptes i sistemes conceptuals.
+
+1. Salut laboral:
+
+Seguretat, higiene i salut en el treball.
+Salut i medi ambient.
+Factors de risc en el treball: físics, químics, esforços, organitzatius i comuns.
+Tècniques de prevenció i protecció.
+Actuació en cas d'accident.
+
+2. Legislació i relacions laborals:
+
+Administració i Jurisdicció laboral.
+Drets i deures laborals.
+Modalitats del contracte de treball.
+Modificació, extinció i infraccions.
+Representació.
+Convenis col·lectius.
+Conflictes col·lectius.
+Prestacions de la Seguretat social.
+
+3. Orientació i inserció sociolaboral:
+
+Interessos i capacitats.
+Ofertes de treball.
+Treball d'assalariat en una empresa o a l'administració.
+Autoocupació: autònom o empresa social.
+Itineraris formatius i de professionalització.
+
+4. Principis d'economia:
+
+Economia i agents econòmics bàsics.
+El mercat: tipus.
+Oferta, demanda i preu.
+Comerç internacional i balança de pagaments.
+
+5. Economia i organització de l'empresa:
+
+Estructures empresarials. Sistemes i models organitzatius.
+Patrimoni empresarial.
+Comptes anuals: balanç, compte de resultats i memòria.
+Dades financeres de disponibilitat, de solvència i de finançament.
+Finançament intern i finançament extern.
+
+d) Continguts de procediments.
+
+1. Anàlisi del risc en l'àmbit de treball:
+
+Identificació de les situacions de risc.
+Determinació de l'àmbit d'actuació del risc.
+Recerca d'informació i dades.
+Delimitació dels elements implicats.
+Observació i mesura del risc.
+Identificació de la normativa aplicable.
+Proposició d'actuacions preventives i de protecció.
+
+2. Aplicació de primers auxilis:
+
+Prioritat d'actuacions.
+Preparació de l'accidentat.
+Aplicació de la tècnica específica.
+
+3. Consulta de la normativa laboral:
+
+Identificació de l'element de la consulta.
+Localització de la font corresponent.
+Interpretació amb relació al supòsit.
+Aplicació de la normativa.
+
+4. Inserció laboral:
+
+Anàlisi de les capacitats laborals i dels interessos personals.
+Localització d'ofertes de treball.
+Interpretació de les ofertes de treball.
+Anàlisi de l'adequació personal al lloc de treball.
+Participació en el procés de selecció.
+
+5. Anàlisi de les dades macroeconòmiques i financeres:
+
+Determinació de les dades o fets que s'han d'analitzar.
+Càlcul de les dades.
+Interpretació i valoració de resultats.
+
+e) Continguts d'actituds.
+
+1. Obertura a l'àmbit professional i la seva evolució:
+
+Interès pels aspectes econòmics, laborals, socials i del medi ambient en l'aplicació de normes laborals adients, en les propostes de condicions de treball i en la identificació i la comparació de fets econòmics.
+
+2. Adaptació a noves situacions:
+
+Resposta activa pel que fa a la utilització de la normativa laboral i a l'aplicació de les tècniques i els elements preventius més recents derivats dels canvis tecnològics i organitzatius.
+
+3. Intercanvi d'idees, opinions i experiències:
+
+Esperit crític en la valoració i interpretació de les dades i els fets socioeconòmics, en la determinació de condicions laborals, en la detecció i anàlisi de risc, i en els debats sobre normes jurídiques i situacions laborals.
+
+4. Interès per les relacions humanes:
+
+Respecte envers els altres en el procés de selecció i en l'obtenció de dades socioeconòmiques.
+
+5. Valoració de resultats:
+
+Argumentació i interrogació dels resultats obtinguts i del procediment emprat en la detecció del risc i les conseqüències corresponents, en l'anàlisi de les situacions laborals, en la recerca d'ofertes de treball i en l'actuació en cas d'accident.
+
+6. Respecte per la salut, el medi ambient i la seguretat laboral:
+
+Aplicació correcta de les normes de seguretat i mesures de prevenció i protecció del medi ambient i la salut.
+
+7. Igualtat davant les diferències socioculturals:
+
+Tracte d'igualtat i no discriminatori en la determinació de les condicions laborals, en la identificació i aplicació dels contractes de treball, en la verificació del compliment de la normativa, en la identificació de capacitats i interessos personals i en l'adequació personal al lloc de treball.
+
+8. Progrés i promoció dins de la professió:
+
+Disciplina i correcció en la realització del treball.
+
+9. Qualitat del treball:
+
+Cura en la presentació i estructuració dels escrits (contractes, cartes, currícula, proves de selecció i informes socioeconòmics).
+
+10. Mentalitat emprenedora i creativa:
+
+Aportació de solucions originals i innovadores en les discussions de les situacions laborals conflictives, en les propostes d'actuació preventives, en l'aplicació dels convenis, en l'anàlisi de les possibilitats d'ocupació i en la prioritat d'actuació en cas d'accident.
+
+11. Compromís amb les obligacions associades al treball:
+
+Valoració i compliment de les normes laborals.
+Participació en activitats col·lectives.
+Puntualitat en la realització d'activitats i en el lliurament del treball.
+
+Crèdit 9: formació en centres de treball.
+
+a) Durada 350 hores.
+
+b) Objectius terminals.
+
+Adaptar-se a les funcions pròpies dels serveis informàtics de qualsevol tipus d'organització tant del sector públic com privat, de manera responsable i participativa.
+
+Afrontar les tasques de tècnic en administració de sistemes informàtics en empreses de serveis informàtics, en empreses de qualsevol sector de l'activitat econòmica i en organitzacions o institucions, amb progressiva autonomia, organització i iniciativa en el treball.
+
+Valorar les tasques que desenvolupi en els serveis informàtics, a partir dels seus interessos i aptituds i de l'experiència acumulada en la formació en el centre de treball.
+
+c) Tipus d'activitats formatives de referència proposades (possibles tasques que es poden fer a l'empresa).
+
+1. Activitats formatives de referència relacionades amb la instal·lació i configuració de sistemes informàtics.
+
+1.1 Anàlisi de les necessitats de l'organització:
+
+Participa en les entrevistes amb els futurs usuaris del sistema per conèixer les necessitats i els recursos disponibles a l'organització.
+Coopera en l'avaluació de la informació obtinguda i en la recerca de solucions i la seva redacció amb l'ús de la terminologia informàtica adoptada a l'organització.
+Col·labora en la presentació de les possibles solucions a l'organització.
+
+1.2 Instal·lació i configuració del maquinari:
+
+Participa en l'avaluació inicial del maquinari que cal instal·lar.
+Prepara l'entorn de treball per la instal·lació del maquinari.
+Analitza els manuals d'instal·lació corresponents i interpreta els processos de treball.
+Col·labora en la instal·lació del maquinari.
+Coopera en la configuració dels maquinaris instal·lats.
+Participa en l'avaluació del correcte funcionament del maquinari instal·lat i actua en conseqüència.
+Elabora la documentació de la instal·lació, incloent-hi els diagrames de connexió i la configuració dels diferents dispositius implicats.
+
+1.3 Instal·lació i configuració del programari base en entorn monousuari, multiusuari i xarxa:
+
+Analitza el maquinari sobre el que s'instal·larà o configurarà el programari base, el programari base existent, si fa al cas, i els manuals del programari base que cal instal·lar o configurar.
+Col·labora en la instal·lació del programari base.
+Coopera en la configuració del programari base instal·lat.
+Avalua el correcte funcionament del sistema i actua en conseqüència.
+Elabora la documentació de la instal·lació o configuració del programari base.
+
+2. Activitats formatives de referència relacionades amb la implantació d'aplicacions informàtiques de propòsit general o específic.
+
+2.1 Instal·lació i configuració d'aplicacions informàtiques:
+
+Interpreta els processos de treball en el manual d'instal·lació de l'aplicació informàtica.
+Analitza el sistema informàtic on instal·lar l'aplicació i les necessitats d'explotació de la nova aplicació.
+Participa en la decisió sobre la viabilitat de la implantació.
+Coopera en la instal·lació i configuració de l'aplicació.
+Col·labora en l'avaluació del correcte funcionament del sistema amb les aplicacions ja existents i la instal·lada de nou, participa en la presa de decisions.
+Elabora la documentació de la instal·lació o configuració de l'aplicació.
+
+2.2 Explotació d'aplicacions informàtiques:
+
+Interpreta la informació subministrada pel manual d'utilització de l'aplicació.
+Prepara jocs de proves, en un entorn de prova, per aprendre el funcionament de l'aplicació.
+Executa l'aplicació sobre els jocs de proves.
+Avalua els resultats obtinguts i actua en conseqüència.
+Elabora informes clars i precisos sobre les característiques de l'aplicació.
+Elabora guies d'explotació que continguin els elements necessaris per la utilització per part dels usuaris.
+Participa en la preparació i imparteix cursos d'entrenament als usuaris en l'explotació de l'aplicació.
+
+2.3 Avaluació de programari de propòsit general o específic existent en el mercat de possible utilització per l'empresa:
+
+Analitza els processos de dades de l'organització susceptibles de tractament informàtic.
+Obté informació de les possibles aplicacions informàtiques existents en el mercat per als processos esmentats.
+Analitza i valora els aspectes tècnics i de qualitat d'una aplicació informàtica.
+Elabora informes clars i precisos sobre la possible adquisició.
+
+3. Activitats formatives de referència relacionades amb l'administració del sistema informàtic:
+
+Interpreta els requeriments d'explotació del sistema.
+Participa en la configuració del sistema pel correcte funcionament.
+Crea procediments per a mecanitzar o automatitzar l'execució de tasques rutinàries.
+Col·labora en la gestió dels recursos segons els treballs que cal executar.
+Controla els processos en execució.
+Executa els procediments d'arrencada i aturada del sistema.
+Col·labora en la creació de procediments que permetin la connexió d'usuaris al sistema en entorns de treball personalitzats.
+Participa en la gestió d'accés al sistema i recursos per part dels usuaris.
+Col·labora en la gestió i supervisió de la connexió a serveis de comunicació de dades públics i privats que donin resposta a les necessitats de l'empresa.
+Participa en l'organització i manteniment dels sistemes d'arxius.
+Executa els procediments de còpies de seguretat i de restauració.
+Col·labora en l'aplicació de procediments pel manteniment de la integritat de les dades emmagatzemades en diferents suports.
+Elabora informes clars i precisos sobre les característiques del sistema i de la seva explotació.
+Elabora guies d'explotació que continguin els elements necessaris per la utilització del sistema per part dels usuaris.
+Prepara i imparteix cursos d'entrenament als usuaris en l'explotació del sistema.
+Col·labora en la verificació de l'operativitat del sistema en la periodicitat establerta.
+
+4. Activitats formatives de referència relacionades amb el desenvolupament o adaptació d'utilitats per millorar i complementar les prestacions del sistema operatiu.
+
+4.1 Anàlisi de la utilitat:
+
+Participa en les diferents fases d'anàlisi (prèvia, funcional i orgànica) pel desenvolupament o adaptació de la utilitat.
+
+4.2 Programació de la utilitat:
+
+Interpreta la documentació provinent de l'anàlisi.
+Prepara l'entorn de treball.
+Busca els programes fonts que cal adaptar, si fa al cas.
+Codifica els algorismes segons la sintaxi del llenguatge que cal emprar i la programació estructurada i modular, per obtenir els programes fonts.
+Obté els programes objectes amb la utilització dels programes traductors adients, actuant en conseqüència en funció dels resultats.
+Obté el programa executable a partir dels programes objectes amb la utilització del programa muntador i les llibreries corresponents.
+
+4.3 Verificació de la utilitat:
+
+Coopera en la preparació de l'entorn de prova per la utilitat.
+Executa la utilitat.
+Coopera en l'avaluació dels resultats obtinguts, actuant en conseqüència.
+
+4.4 Elaboració de la documentació:
+
+Elabora l'informe sobre la programació de la utilitat i obté la informació vinculada amb el procés.
+
+4.5 Demostració de la utilitat:
+
+Col·labora amb l'administrador en l'execució de les diferents opcions de la utilitat.
+Coopera en l'avaluació dels resultats obtinguts i participa en la presa de decisions.
+
+4.6 Elaboració de la guia d'administrador:
+
+Analitza la informació generada en les diferents fases de desenvolupament de la utilitat.
+Comprova el funcionament de la utilitat.
+Redacta les característiques i instruccions de funcionament de la utilitat.
+
+d) Cada centre docent en determina els continguts i s'hi apliquen els criteris generals d'avaluació següents:
+
+Analitza l'àmbit de treball, identificant les relacions laborals i el marc organitzatiu i de funcionament de l'organització.
+
+S'adapta a les característiques organitzatives i a les diferents situacions pròpies del centre de treball.
+
+Actua amb responsabilitat en les tasques i funcions assignades segons les normes fixades per l'organització.
+
+Treballa quan se li requereix en equip coresponsabilitzant-se, cooperant, respectant i valorant el treball dels altres.
+
+Adopta una actitud participativa, s'interessa per aprendre i té iniciativa en relació amb les tasques encomanades.
+
+Té una visió, de conjunt i coordinada, de l'objectiu de l'organització i de les àrees funcionals i dels sistemes de relació i coordinació entre àrees.
+
+Obté la informació i els mitjans necessaris per a realitzar la seva activitat, utilitzant els canals existents.
+
+Manté una comunicació apropiada al seu àmbit professional; usuaris, serveis tècnics del sistema i direcció del departament.
+
+Busca el moment, el lloc i els canals més adequats per plantejar una comunicació.
+
+Manté una actitud receptiva a les consideracions i suggeriments que li formulin.
+
+Utilitza la terminologia informàtica i de gestió de l'organització en els documents, els informes i la formulació de propostes.
+
+Executa les tasques ajustant-se progressivament als nivells particulars de l'organització.
+
+Comprova els processos de treball, les adaptacions, el disseny de programes o adaptacions, i resol els errors d'accés o funcionament detectats.
+
+Identifica les característiques particulars del maquinari i del programari que troba en el seu entorn de treball, i s'ajusta a les normes tècniques i de procediment establertes per l'organització.
+
+Identifica aquelles condicions de l'organització més relacionades amb la professió que puguin ser objecte de millora.
+
+Identifica aquelles tasques i àmbits d'activitat que s'adeqüen millor a les seves aptituds i interessos professionals.
+
+Identifica els aspectes positius i negatius de l'àmbit de treball: condicions de seguretat personal i mediambiental, riscos i relacions personals, entre d'altres.
+
+Crèdit 10: síntesi.
+
+a) Durada: 90 hores.
+
+b) Finalitat.
+
+El crèdit de síntesi ha de permetre culminar la integració dels continguts impartits al llarg del cicle, globalitzant i interrelacionant, i si escau completant, aquells continguts susceptibles de mostrar, al final del cicle formatiu, el grau d'assoliment dels objectius generals del cicle.
+
+c) Objectius terminals.
+
+Integrar els procediments que s'han de realitzar per implantar i administrar sistemes operatius; monousuari, multiusuari i en xarxa, i sistemes gestors de bases de dades relacionals.
+
+Analitzar la interrelació i concurrència de les diferents fases que intervenen en els processos d'administració de sistemes informàtics.
+
+Determinar segons els requeriments del sistema i de l'usuari, els canvis que es poden introduir al sistema i al programari en un àmbit monousuari, multiusuari o xarxa.
+
+Gestionar els recursos del sistema en un àmbit monousuari, multiusuari o xarxa amb criteris d'eficàcia i eficiència.
+
+Elaborar els informes, la guia d'usuari i els plans de prova relacionats amb els processos d'adaptació o modificació de les funcions del sistema i de les aplicacions de propòsit general o específic.
+
+d) El centre docent en determina els continguts.
+
+3.3 Hores a disposició del centre.
+
+Dins de la durada establerta per a aquest cicle formatiu, els centres docents disposaran de 170 hores lectives per completar el currículum establert i adequar-lo al seu àmbit socioeconòmic.
+Els centres docents distribuiran lliurement les hores bé en un o més dels crèdits previstos per a aquest cicle, bé programant més crèdits.
+En cap cas aquestes hores no incrementaran la durada del crèdit de formació en centres de treball.
+
+3.4 Relació dels crèdits en què s'estructuren els mòduls professionals.
+
+Mòdul 1: sistemes informàtics monousuari i multiusuari.
+Crèdit 1: sistemes informàtics monousuari i multiusuari.
+
+Mòdul 2: xarxes d'àrea local.
+Crèdit 2: gestió de xarxes d'àrea local.
+
+Mòdul 3: implantació d'aplicacions informàtiques de gestió.
+Crèdit 3: implantació d'aplicacions informàtiques de gestió.
+
+Mòdul 4: fonaments de programació.
+Crèdit 4: fonaments de programació.
+
+Mòdul 5: desenvolupament de funcions en el sistema informàtic.
+Crèdit 5: desenvolupament de funcions en el sistema informàtic.
+
+Mòdul 6: sistemes gestors de bases de dades.
+Crèdit 6: sistemes gestors de bases de dades.
+
+Mòdul 7: relacions en l'àmbit de treball.
+Crèdit 7: relacions en l'àmbit de treball.
+
+Mòdul 8: formació i orientació laboral.
+Crèdit 8: formació i orientació laboral.
+
+Mòdul 9: formació en centres de treball.
+Crèdit 9: formació en centres de treball.
+
+3.5 Matèries del batxillerat que s'han hagut de cursar per a accedir al cicle formatiu:
+
+Matemàtiques II, de qualsevol modalitat de batxillerat.
+
+4. Especialitats del professorat que té atribució docent en els crèdits del cicle formatiu de grau superior d'administració de sistemes informàtics:
+
+a) El professorat de l'especialitat de sistemes i aplicacions informàtiques del cos de professors tècnics de formació professional té atribució docent per als crèdits:
+
+Crèdit 1: sistemes informàtics monousuari i multiusuari.
+Crèdit 3: implantació d'aplicacions informàtiques de gestió.
+
+b) El professorat de l'especialitat d'informàtica del cos de professors d'ensenyament secundari té atribució docent per als crèdits:
+
+Crèdit 2: gestió de xarxes d'àrea local.
+Crèdit 4: fonaments de programació.
+Crèdit 5: desenvolupament de funcions en el sistema informàtic.
+Crèdit 6: sistemes gestors de bases de dades.
+
+c) El professorat de l'especialitat de formació i orientació laboral del cos de professors d'ensenyament secundari té atribució docent per als crèdits:
+
+Crèdit 7: relacions en l'àmbit de treball.
+Crèdit 8: formació i orientació laboral.
+
+d) El professorat de les especialitats citades als apartats a), b) i c) té atribució docent per al crèdit:
+
+Crèdit 10: síntesi.
+
+5. Convalidacions, correspondències i accés a estudis universitaris.
+
+5.1 Mòduls professionals que poden convalidar-se amb la formació professional ocupacional:
+
+Sistemes informàtics monousuari i multiusuari.
+Xarxes d'àrea local.
+Implantació d'aplicacions informàtiques de gestió.
+Sistemes gestors de bases de dades.
+
+5.2 Mòduls professionals que poden correspondre's amb la pràctica laboral:
+
+Sistemes informàtics monousuari i multiusuari.
+Xarxes d'àrea local.
+Implantació d'aplicacions informàtiques de gestió.
+Sistemes gestors de bases de dades.
+Formació i orientació laboral.
+Formació en centres de treball.
+
+5.3 Accés a estudis universitaris.
+
+Diplomat en Biblioteconomia i Documentació.
+Diplomat en Ciències Empresarials.
+Diplomat en Estadística.
+Diplomat en Gestió i Administració Pública.
+Diplomat en Informàtica.
+Enginyer tècnic en Informàtica de Gestió.
+Enginyer tècnic en Informàtica de Sistemes.
+
+??
+
+
+
+ 
+
+ 
+
+
+
+
+1
+
+
+

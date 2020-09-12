@@ -1,0 +1,9 @@
+
+public class Operand {
+	
+	private int operand;
+	
+	private String operacions;
+	
+
+}

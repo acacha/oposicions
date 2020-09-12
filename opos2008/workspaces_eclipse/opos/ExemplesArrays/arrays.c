@@ -1,0 +1,200 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <process.h>
+
+#########################################################
+
+int addNumbers(int fiveNumbers[]); /* declare function */
+
+struct matriu {
+ int value[10][20];
+}
+
+int main() {
+  int array[5];
+  int i;
+
+  printf("Enter 5 integers separated by spaces: ");
+
+  for(i=0 ; i<5 ; i++) {
+    scanf("%d", &array[i]);
+  }
+
+  printf("\nTheir sum is: %d\n", addNumbers(array));
+  return 0;
+}
+
+
+int multiplicar (struct matriu mat) {
+ for(int i=0; i<10; i++) {
+  for (int j=0; i<20; j++) {
+	  mat[i][j] = i*j;
+  }
+ }
+}
+
+void multiplicar2(int *matriu[][], int 1d, int 2d) {
+ for(int i=0; i<1d; i++) {
+  for(int j=0; j<2d; j++) {
+	  matriu[i][j] = i*j;
+  }
+ }
+}
+
+#########################################################
+
+
+/* SUBRUTINA DE LECTURA DE MATRIUS */
+void lectura(int f,int c,float *p) {
+ float num=0;
+ int i,j=0;
+ for(i=0;i<f;i++) {
+  for(j=0;j<c;j++) {
+   // Lectura de cada element y colocació a la memòria
+   printf("\n ELEMENT%d%d=>",i+1,j+1);
+   scanf("%f",&num);
+   *p=num;
+   if((i!=f) && (j!=c)) {
+    p++;
+   }
+  }
+ }
+}
+
+/* SUBRUTINA QUE VISUALITZA UNA MAQTRIU */
+void visualitza(int f,int c,float *p)
+{
+int i=0;
+int j=0;
+for (i=0;i<f;i++)
+ {
+ for(j=0;j<c;j++)
+  {
+  printf("\t%5.2f",*p);
+  if((i!=f) && (j!=c))
+   {
+   p++;
+   }
+  }
+  printf("\n");
+ }
+}
+
+/* PROGRAMA PRINCIPAL*/
+
+/* CRIDES DEL PROGRMA PRINCIPAL */
+void lectura(int f,int c,float *p);
+void visualitza(int f,int c,float *p);
+
+int main(void)
+{
+/* INICIALITZACIO DE LES VARIABLES */
+float *p1, *p2,*p3;
+int i,j,k,f1,c1,f2,c2=0;
+float acumu=0;
+
+/*MISSATGES PER PANTALLA */
+printf("AQUEST PROGRMA CALCULA EL PRODUCTE DE DUES MATRIUS\n");
+printf("VES CONTESTANT ELS MISSATGES QUE APAREIXEN PER LA PANTALLA\n");
+ 
+
+/* LECTURA DEL TAMANY DE LES MATRIUS */
+printf("\n Nø DE FILES DE LA PRIMERA MATRIU: ");
+scanf("%i",&f1);
+printf("\n Nø DE COLUMNES DE LA PRIMERA MATRIU: ");
+scanf("%i",&c1);
+printf("\n Nø DE FILES DE LA SEGONA MATRIU: ");
+scanf("%i",&f2);
+printf("\n Nø DE COLUMNES DE LA SEGONA MATRIU: ");
+scanf("%i",&c2);
+
+/* COMPROVEM QUE ES POGUI MULTIPLICAR LES MATRIUS */
+if(c1!=f2)
+ {
+  printf("\nEL Nø DE COLUMNES DE LA PRIMERA ES DIFERENT AL Nø DE FILES DE LA SEGONA MATRIU");
+  printf("\nEL PRODUCTE D'AQUESTES MATRIUS NO ES POT REALITZAR\n");
+  exit(1);
+  }
+/* COMPROVEM QUE LES MATRIUS NO SIGUIN MASSA GRANS */
+if((c1*f1)>16||(c2*f2)>16)
+ {
+ printf("\nEL Nø DE VALORS A INTRODUIR SERA MOLT GRAN, NO ES UN PROGRMA DISSENYAT PER A");
+ printf("\nAQUEST TIPUS DE MATIRUS TAN GRANS\n");
+ exit(1);
+ }
+
+/* ASSIGNACIO DINAMICA DE MEMORIA */
+if ((p1 = (float *) malloc(((f1*c1)+(f2*c2)+(f1*c2))*sizeof(float))) == NULL)
+ {
+ printf("MEMEORIA INSUFICIENT\n");
+ exit(1);
+ }
+ 
+
+/* LLEGIM LES MATRIUS */
+printf("\nINTRODUIEX ELS VALORS DE LA PRIMERA MATRIU:\n");
+printf("*******************************************\n");
+lectura(f1,c1,p1);
+printf("\nINTRODUIEX ELS VALORS DE LA SEGONA MATRIU:\n");
+printf("******************************************\n");
+p2=p1+(c1*f1);
+lectura(f2,c2,p2);
+
+/*ESCRIVIM LES MATRIUS ENTRADES  */
+printf("\nLA PRIMERA MATRIU ES: \n\n");
+visualitza(f1,c1,p1);
+printf("\nLA SEGONA MATRIU ES: \n\n");
+visualitza(f2,c2,p2);
+p3=p2+(c2*f2);
+
+/* MULTIPLIQUEM LES MATRIUS LLEGIDES */
+for (i=0;i<f1;i++)
+ {
+ for(j=0;j<c2;j++)
+  {
+  for(k=0;k<c1;k++)
+   {
+   acumu=acumu+(*p1*(*p2));
+   p1++;
+   p2=p2+c2;
+   }
+  *p3=acumu;
+  p3++;
+  p1=p1-c1;
+  p2=p2-c2-(f2-1)*c2+1;
+  acumu=0;
+  }
+ p1=p1+c1;
+ p2=p2-c2;
+ }
+
+/* ESCRIVIM  LA MATRIU RESPOSTA */
+printf("\nEL PRODUCTE DE LES MATRIUS ANTERIORS ES: \n\n");
+p3=p3-(f1*c2);
+visualitza(f1,c2,p3);
+
+/* ALLIBEREM LA MEMORIA ASSIGNADA */
+free(p1);
+
+return 0;
+} 
+
+
+
+
+
+
+
+
+
+
+
+int addNumbers(int fiveNumbers[]) { /* define function */
+  int sum = 0;
+  int i;
+
+  for(i=0 ; i<5 ; i++) {
+    sum+=fiveNumbers[i];            /* work out the total */
+  }
+  return sum;                       /* return the total   */
+}

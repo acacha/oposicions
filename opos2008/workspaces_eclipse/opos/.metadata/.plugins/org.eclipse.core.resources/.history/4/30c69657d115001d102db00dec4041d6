@@ -1,0 +1,54 @@
+
+public class XifresResolver {
+	
+	private int solucioABuscar;
+	
+	private int millorSolucioTrobada;
+	
+
+	public XifresResolver() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	boolean resoldreXifres(int k) {
+		/*
+		 * MENTRE QuedenCandidats AND NO Encertat FER
+	     *      Seleccionar I Esborrar Candidat
+	     *      SI Acceptable LLAVORS
+	     *          Anotar Candidat
+	     *          SI NO Solucio Completa LLAVORS
+	     *               Backtracking Pas Seguent {Crida Recursiva}
+	     *               SI NO Encertat LLAVORS
+	     *                    Desanotar Candidat
+	     *               FSI
+	     *           ALTRAMENT
+	     *               Encertat:= Cert
+	     *          FSI
+	     *     FSI
+	     *  FMENTRE
+	     */
+		
+		//Menstrestant quedin candidats i no s'ha trobat la solució
+		
+		//Selecciona un candidat
+		//Restricció
+		
+		
+		
+		
+		return true;
+	}
+	
+	public static void main(String[] args) {
+		//args Cada argument conté una xifra i l'argument final és la solució a buscar
+		if (args.length!=7){
+			System.out.println("Nombre d'arguments incorrecte");
+		}
+		
+		
+		//Iniciar el conjunt de candidats
+		
+		
+			
+	}
+}

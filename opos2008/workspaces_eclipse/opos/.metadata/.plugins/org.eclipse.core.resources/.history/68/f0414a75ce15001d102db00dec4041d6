@@ -1,0 +1,15 @@
+
+public class XifresResolver {
+
+	public XifresResolver() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public static void main(String[] args) {
+		//args Cada argument conté una xifra i l'argument final és la solució a buscar
+		if (args.length!=7){
+			
+		}
+			
+	}
+}

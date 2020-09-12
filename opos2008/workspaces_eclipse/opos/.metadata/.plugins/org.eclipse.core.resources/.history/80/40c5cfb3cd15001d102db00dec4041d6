@@ -1,0 +1,42 @@
+
+public class Operacio {
+	
+	public static final int SUMA=1;
+	
+	public static int RESTA=1;
+	
+	public static int MULTIPLICACIO=1;
+	
+	public static int DIVISIO=1;
+	
+	private int operand1;
+	
+	private int operand2;
+	
+	private int operacio;
+
+	public int getOperand1() {
+		return operand1;
+	}
+
+	public void setOperand1(int operand1) {
+		this.operand1 = operand1;
+	}
+
+	public int getOperand2() {
+		return operand2;
+	}
+
+	public void setOperand2(int operand2) {
+		this.operand2 = operand2;
+	}
+
+	public int getOperacio() {
+		return operacio;
+	}
+
+	public void setOperacio(int operacio) {
+		this.operacio = operacio;
+	}
+
+}

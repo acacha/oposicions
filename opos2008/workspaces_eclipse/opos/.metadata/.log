@@ -1,0 +1,1499 @@
+!SESSION 2008-04-27 17:42:54.224 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-04-27 17:44:00.975
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-27 17:44:16.793
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-27 17:44:16.793
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-27 17:44:16.794
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-27 17:44:16.794
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-27 17:44:16.794
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-04-27 17:44:16.813
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-04-27 17:44:16.814
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		ActionHandler(RetargetAction(cut)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2008-04-27 20:28:04.777
+!MESSAGE Unable to find Action Set: org.eclipse.jdt.ui.DLTKActionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-27 20:28:15.904
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-27 20:28:15.904
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowClassVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6)),sourcePriority=4210688)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowGlobalVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@19c0bd6),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@19c0bd6)),sourcePriority=4210688)
+
+!ENTRY org.eclipse.ui 4 0 2008-04-27 20:43:14.461
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.selectionChanged(RunOnServerActionDelegate.java:726)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:38)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:59)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.run(LaunchShortcutAction.java:61)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:546)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:490)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:402)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1101)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3319)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2971)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+!SESSION 2008-04-28 09:12:20.244 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-04-28 09:12:30.829
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-04-28 09:12:46.424
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-28 09:13:04.432
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-28 09:13:04.432
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-28 09:13:04.434
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-28 09:13:04.434
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-28 09:13:04.434
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-04-28 09:13:04.450
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-04-28 09:13:04.450
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		ActionHandler(RetargetAction(cut)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2008-04-28 11:35:27.886
+!MESSAGE Unable to find Action Set: org.eclipse.jdt.ui.DLTKActionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-28 11:35:46.532
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-28 11:35:46.533
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowGlobalVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@1d840cd),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd)),sourcePriority=4210688)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowClassVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@1d840cd),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d840cd)),sourcePriority=4210688)
+
+!ENTRY org.eclipse.cdt.launch 4 150 2008-04-28 13:19:14.306
+!MESSAGE Failed to set program arguments, environment or working directory.
+!STACK 0
+org.eclipse.cdt.debug.core.cdi.CDIException: Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY[]
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RuntimeOptions.setWorkingDirectory(RuntimeOptions.java:108)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.setRuntimeOptions(LocalCDILaunchDelegate.java:419)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:141)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:105)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:65)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2008-04-28 13:19:14.307
+!MESSAGE Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY
+!STACK 0
+org.eclipse.cdt.debug.core.cdi.CDIException: Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY[]
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RuntimeOptions.setWorkingDirectory(RuntimeOptions.java:108)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.setRuntimeOptions(LocalCDILaunchDelegate.java:419)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:141)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:105)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:65)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2008-04-29 11:17:00.485 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-04-29 11:17:12.395
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-04-29 11:17:44.240
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-29 11:17:58.081
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-29 11:17:58.081
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-29 11:17:58.082
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-29 11:17:58.082
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-29 11:17:58.083
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-04-29 11:17:58.498
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-04-29 11:17:58.498
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		ActionHandler(RetargetAction(cut)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 0 2008-04-29 14:35:01.825
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.wst.server.ui.internal.actions.RunOnServerActionDelegate.selectionChanged(RunOnServerActionDelegate.java:726)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:38)
+	at org.eclipse.wst.server.ui.internal.ServerLaunchShortcut.launch(ServerLaunchShortcut.java:59)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchShortcutExtension.launch(LaunchShortcutExtension.java:419)
+	at org.eclipse.debug.internal.ui.actions.LaunchShortcutAction.run(LaunchShortcutAction.java:61)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:498)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:546)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:490)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:402)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1101)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3319)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2971)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+
+!ENTRY org.eclipse.ui 4 4 2008-04-29 14:38:17.281
+!MESSAGE Unable to find Action Set: org.eclipse.jdt.ui.DLTKActionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-29 14:38:26.577
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-29 14:38:26.577
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowClassVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@1eb904d),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d)),sourcePriority=4210688)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowGlobalVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@1eb904d),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d)),sourcePriority=4210688)
+!SESSION 2008-04-30 09:20:54.085 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-04-30 09:21:54.388
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-04-30 09:23:02.779
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-30 09:23:50.838
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-30 09:23:50.838
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-30 09:23:50.839
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-30 09:23:50.839
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-30 09:23:50.839
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-04-30 09:23:50.947
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-04-30 09:23:50.947
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		ActionHandler(RetargetAction(cut)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2008-04-30 09:27:47.859
+!MESSAGE Unable to find Action Set: org.eclipse.jdt.ui.DLTKActionSet
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-04-30 09:28:16.254
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-04-30 09:28:16.254
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowClassVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@913dc1),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1)),sourcePriority=4210688)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.dltk.debug.ui.VariableViewActions/org.eclipse.dltk.debug.ui.variableViewActions.ShowStatic,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.dltk.debug.ui.actions.ToggleShowGlobalVariablesActionDelegate),
+	expression=AndExpression(LegacyViewContributionExpression(org.eclipse.debug.ui.VariableView,org.eclipse.ui.internal.WorkbenchWindow@913dc1),WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@913dc1)),sourcePriority=4210688)
+!SESSION 2008-05-05 12:05:19.384 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-05-05 12:05:31.510
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-05-05 12:05:43.696
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-05-05 12:06:02.351
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-05 12:06:02.352
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-05 12:06:02.352
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-05 12:06:02.352
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-05 12:06:02.352
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@62610b),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-05-05 12:06:05.576
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-05-05 12:06:05.576
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		ActionHandler(RetargetAction(cut)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2008-05-11 08:44:06.265 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-05-11 08:44:45.765
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-05-11 08:45:03.271
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-11 08:45:03.271
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-11 08:45:03.271
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-11 08:45:03.271
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-11 08:45:03.271
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1eb904d),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-05-11 08:45:04.169
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-05-11 08:45:04.169
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction@bd630e)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2008-05-24 09:19:08.581 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/sergi/docs/OPOS/workspace
+
+!ENTRY org.eclipse.emf.ecore 2 0 2008-05-24 09:19:23.289
+!MESSAGE Both 'org.eclipse.uml2.uml' and 'com.omondo.uml.core' register an extension parser for 'uml'
+
+!ENTRY org.eclipse.ui.workbench 2 0 2008-05-24 09:19:36.963
+!MESSAGE A handler conflict occurred.  This may disable some commands.
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-24 09:19:36.964
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action4,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForWiki),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-24 09:19:36.964
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action5,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScript),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-24 09:19:36.964
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action2,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForBlogger),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+!SUBENTRY 1 org.eclipse.ui.workbench 2 0 2008-05-24 09:19:36.964
+!MESSAGE Conflict for 'AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6':
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+HandlerActivation(commandId=AUTOGEN:::org.eclipse.eclipsemonkey.emFileContextMenu/org.eclipse.eclipsemonkey.action6,
+	handler=ActionDelegateHandlerProxy(null,org.eclipse.eclipsemonkey.actions.PublishScriptForEmail),
+	expression=WorkbenchWindowExpression(org.eclipse.ui.internal.WorkbenchWindow@1d6fbb3),sourcePriority=16384)
+
+!ENTRY org.eclipse.jface 2 0 2008-05-24 09:19:37.001
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2008-05-24 09:19:37.001
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		LegacyHandlerWrapper(ActionHandler(action=org.eclipse.jdt.internal.ui.javaeditor.ClipboardOperationAction@4d080d)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.topcased.modeler.deleteModelObject,Delete From Model,
+		Allows the user to delete the selected graph element and its associated model element in a Topcased editor.,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2008-07-05 09:59:40.977 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86 -data /home/sergi/workspaces/opos
+
+!ENTRY org.eclipse.ui 4 0 2008-07-05 10:00:00.341
+!MESSAGE Unable to create editor ID org.eclipse.jdt.ui.CompilationUnitEditor: No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:598)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:426)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:592)
+	at org.eclipse.ui.internal.EditorAreaHelper.setVisibleEditor(EditorAreaHelper.java:263)
+	at org.eclipse.ui.internal.EditorManager.setVisibleEditor(EditorManager.java:1405)
+	at org.eclipse.ui.internal.EditorManager$5.runWithException(EditorManager.java:939)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:801)
+	at org.eclipse.ui.internal.Workbench$25.runWithException(Workbench.java:1342)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2309)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+!SUBENTRY 1 org.eclipse.ui 4 0 2008-07-05 10:00:00.341
+!MESSAGE No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+
+!ENTRY org.eclipse.ui 4 0 2008-07-05 10:00:00.679
+!MESSAGE Unable to create editor ID org.eclipse.jdt.ui.CompilationUnitEditor: No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+!STACK 1
+org.eclipse.ui.PartInitException: No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+	at org.eclipse.ui.internal.EditorReference.createPartHelper(EditorReference.java:598)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:426)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:592)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:299)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:179)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:268)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:400)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1256)
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1224)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1397)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1348)
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1338)
+	at org.eclipse.ui.internal.WorkbenchPage.access$16(WorkbenchPage.java:1329)
+	at org.eclipse.ui.internal.WorkbenchPage$15.runWithException(WorkbenchPage.java:3172)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:801)
+	at org.eclipse.ui.internal.Workbench$25.runWithException(Workbench.java:1342)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2309)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+!SUBENTRY 1 org.eclipse.ui 4 0 2008-07-05 10:00:00.680
+!MESSAGE No editor descriptor for id org.eclipse.jdt.ui.CompilationUnitEditor
+
+!ENTRY org.eclipse.ui.workbench 4 2 2008-07-05 10:00:00.880
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 0
+org.eclipse.core.runtime.AssertionFailedException: null argument:
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:84)
+	at org.eclipse.core.runtime.Assert.isNotNull(Assert.java:72)
+	at org.eclipse.ui.internal.EditorSite.<init>(EditorSite.java:46)
+	at org.eclipse.ui.internal.EditorReference.createPart(EditorReference.java:463)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:592)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:299)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:179)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:268)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:400)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1256)
+	at org.eclipse.ui.internal.PartStack.handleDeferredEvents(PartStack.java:1224)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.PartSashContainer.handleDeferredEvents(PartSashContainer.java:1397)
+	at org.eclipse.ui.internal.LayoutPart.deferUpdates(LayoutPart.java:400)
+	at org.eclipse.ui.internal.WorkbenchPage.handleDeferredEvents(WorkbenchPage.java:1348)
+	at org.eclipse.ui.internal.WorkbenchPage.deferUpdates(WorkbenchPage.java:1338)
+	at org.eclipse.ui.internal.WorkbenchPage.access$16(WorkbenchPage.java:1329)
+	at org.eclipse.ui.internal.WorkbenchPage$15.runWithException(WorkbenchPage.java:3172)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:801)
+	at org.eclipse.ui.internal.Workbench$25.runWithException(Workbench.java:1342)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3296)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2974)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2309)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 11:32:02.589
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2008-07-05 11:35:02.744
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2008-07-05 11:35:02.745
+!MESSAGE /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 11:36:17.218
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 11:43:31.559
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.ui 4 120 2008-07-05 11:43:31.623
+!MESSAGE Error logged from Debug UI: 
+!STACK 0
+java.io.IOException
+	at org.eclipse.debug.internal.core.StreamsProxy.write(StreamsProxy.java:111)
+	at org.eclipse.debug.internal.ui.views.console.ProcessConsole$InputReadJob.run(ProcessConsole.java:685)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 15:41:10.660
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 15:41:18.807
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+!SESSION 2008-07-05 15:45:05.136 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-05 15:45:41.020
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-05 15:45:41.043
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-05 15:45:41.045
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-05 15:45:41.046
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-05 15:45:41.047
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 15:58:31.967
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2008-07-05 16:09:16.750
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2008-07-05 16:09:16.750
+!MESSAGE /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2008-07-05 16:09:46.004
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2008-07-05 16:09:46.005
+!MESSAGE /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/SaltCavall/Debug/SaltCavall not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.runLocalApplication(LocalCDILaunchDelegate.java:78)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:64)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 16:10:09.574
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 16:10:30.249
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 16:26:43.087
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 16:29:01.365
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 17:03:01.305
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.cdt.launch 4 104 2008-07-05 17:56:45.808
+!MESSAGE Program file does not exist
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:128)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:107)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:67)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 104 2008-07-05 17:56:45.809
+!MESSAGE /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+!STACK 0
+java.io.FileNotFoundException: /home/sergi/workspaces/opos/ExemplesArrays/Debug/ExemplesArrays not found
+	at org.eclipse.cdt.launch.AbstractCLaunchDelegate.verifyProgramPath(AbstractCLaunchDelegate.java:376)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:128)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:107)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:67)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 17:57:24.697
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-05 17:57:25.004
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.cdt.launch 4 150 2008-07-05 18:09:00.606
+!MESSAGE Failed to set program arguments, environment or working directory.
+!STACK 0
+org.eclipse.cdt.debug.core.cdi.CDIException: Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY[]
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RuntimeOptions.setWorkingDirectory(RuntimeOptions.java:108)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.setRuntimeOptions(LocalCDILaunchDelegate.java:425)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:143)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:107)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:67)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.cdt.launch 4 150 2008-07-05 18:09:00.607
+!MESSAGE Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY
+!STACK 0
+org.eclipse.cdt.debug.core.cdi.CDIException: Unable to set working directory: mi_cmd_env_cd: Usage DIRECTORY[]
+	at org.eclipse.cdt.debug.mi.core.cdi.model.RuntimeOptions.setWorkingDirectory(RuntimeOptions.java:108)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.setRuntimeOptions(LocalCDILaunchDelegate.java:425)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchLocalDebugSession(LocalCDILaunchDelegate.java:143)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launchDebugger(LocalCDILaunchDelegate.java:107)
+	at org.eclipse.cdt.launch.internal.LocalCDILaunchDelegate.launch(LocalCDILaunchDelegate.java:67)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:759)
+	at org.eclipse.debug.internal.core.LaunchConfiguration.launch(LaunchConfiguration.java:608)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin.buildAndLaunch(DebugUIPlugin.java:899)
+	at org.eclipse.debug.internal.ui.DebugUIPlugin$7.run(DebugUIPlugin.java:1102)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2008-07-07 08:57:39.786 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-07 09:07:32.450
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-07 09:07:32.462
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-07 09:07:32.490
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-07 09:07:33.140
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-07 09:07:33.141
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 09:37:44.880
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 09:37:44.900
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.jface 4 0 2008-07-07 09:37:53.804
+!MESSAGE Undefined context while filtering dialog/window contexts
+!STACK 0
+org.eclipse.core.commands.common.NotDefinedException: Cannot get the parent identifier from an undefined context. org.eclipse.debug.ui.BreakpointView
+	at org.eclipse.core.commands.contexts.Context.getParentId(Context.java:201)
+	at org.eclipse.jface.bindings.BindingManager.createFilteredContextTreeFor(BindingManager.java:825)
+	at org.eclipse.jface.bindings.BindingManager.recomputeBindings(BindingManager.java:1720)
+	at org.eclipse.jface.bindings.BindingManager.contextManagerChanged(BindingManager.java:689)
+	at org.eclipse.core.commands.contexts.ContextManager.fireContextManagerChanged(ContextManager.java:152)
+	at org.eclipse.core.commands.contexts.ContextManager.addActiveContext(ContextManager.java:96)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.updateContext(ContextAuthority.java:765)
+	at org.eclipse.ui.internal.contexts.ContextAuthority.activateContext(ContextAuthority.java:179)
+	at org.eclipse.ui.internal.contexts.ContextService.activateContext(ContextService.java:88)
+	at org.eclipse.ui.internal.contexts.SlaveContextService.doActivateContext(SlaveContextService.java:279)
+	at org.eclipse.ui.internal.contexts.SlaveContextService.activateContext(SlaveContextService.java:164)
+	at org.eclipse.ui.internal.contexts.SlaveContextService.activateContext(SlaveContextService.java:133)
+	at org.eclipse.ui.internal.contexts.SlaveContextService.doActivateContext(SlaveContextService.java:279)
+	at org.eclipse.ui.internal.contexts.SlaveContextService.activateContext(SlaveContextService.java:122)
+	at org.eclipse.debug.internal.ui.views.breakpoints.BreakpointsView.partActivated(BreakpointsView.java:768)
+	at org.eclipse.ui.internal.PartListenerList$1.run(PartListenerList.java:72)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:857)
+	at org.eclipse.ui.internal.PartListenerList.fireEvent(PartListenerList.java:57)
+	at org.eclipse.ui.internal.PartListenerList.firePartActivated(PartListenerList.java:70)
+	at org.eclipse.ui.internal.PartService.firePartActivated(PartService.java:73)
+	at org.eclipse.ui.internal.PartService.setActivePart(PartService.java:171)
+	at org.eclipse.ui.internal.WorkbenchPagePartList.fireActivePartChanged(WorkbenchPagePartList.java:56)
+	at org.eclipse.ui.internal.PartList.setActivePart(PartList.java:126)
+	at org.eclipse.ui.internal.WorkbenchPage.setActivePart(WorkbenchPage.java:3402)
+	at org.eclipse.ui.internal.WorkbenchPage.requestActivation(WorkbenchPage.java:2946)
+	at org.eclipse.ui.internal.PartPane.requestActivation(PartPane.java:265)
+	at org.eclipse.ui.internal.PartPane.setFocus(PartPane.java:311)
+	at org.eclipse.ui.internal.PartStack.presentationSelectionChanged(PartStack.java:846)
+	at org.eclipse.ui.internal.PartStack.access$1(PartStack.java:829)
+	at org.eclipse.ui.internal.PartStack$1.selectPart(PartStack.java:139)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation$1.handleEvent(TabbedStackPresentation.java:131)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:267)
+	at org.eclipse.ui.internal.presentations.util.AbstractTabFolder.fireEvent(AbstractTabFolder.java:276)
+	at org.eclipse.ui.internal.presentations.r33.DefaultTabFolder.access$1(DefaultTabFolder.java:1)
+	at org.eclipse.ui.internal.presentations.r33.DefaultTabFolder$2.handleEvent(DefaultTabFolder.java:84)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1101)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1125)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1110)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:951)
+	at org.eclipse.swt.custom.CTabFolder.setSelection(CTabFolder.java:3227)
+	at org.eclipse.swt.custom.CTabFolder.onMouse(CTabFolder.java:2005)
+	at org.eclipse.swt.custom.CTabFolder$1.handleEvent(CTabFolder.java:316)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1101)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3319)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2971)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:2389)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2353)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:597)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 09:38:42.595
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 09:38:42.990
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 19:18:05.489
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: read error
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read0(Native Method)
+	at org.eclipse.cdt.utils.spawner.SpawnerInputStream.read(SpawnerInputStream.java:60)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 21:30:53.843
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 21:30:54.208
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 21:32:28.979
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+
+!ENTRY org.eclipse.debug.core 4 120 2008-07-07 21:32:29.276
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.io.IOException: Pipe broken
+	at java.io.PipedInputStream.read(PipedInputStream.java:305)
+	at java.io.PipedInputStream.read(PipedInputStream.java:361)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:256)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:317)
+	at java.io.FilterInputStream.read(FilterInputStream.java:90)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.read(OutputStreamMonitor.java:144)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor.access$1(OutputStreamMonitor.java:134)
+	at org.eclipse.debug.internal.core.OutputStreamMonitor$1.run(OutputStreamMonitor.java:207)
+	at java.lang.Thread.run(Thread.java:619)
+!SESSION 2008-07-08 08:36:25.088 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-07-08 08:37:02.623
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 08:37:10.978
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 08:37:10.979
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 08:38:46.170
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 08:38:48.862
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 08:38:48.863
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+!SESSION 2008-07-08 19:06:29.977 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:21:41.284
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:21:41.306
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:21:41.328
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:21:41.329
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:21:41.330
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+!SESSION 2008-07-08 19:33:46.773 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-07-08 19:34:11.570
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:34:17.609
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:34:17.617
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:34:20.227
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:34:20.228
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 19:34:20.229
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+!SESSION 2008-07-08 20:01:21.691 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86, WS=gtk, NL=ca_ES
+Command-line arguments:  -os linux -ws gtk -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2008-07-08 20:01:35.349
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 20:02:36.102
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8ReinesApplet'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 20:02:36.103
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project '8reines'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 20:02:36.132
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'PlansVolCompanyiaAeria'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 20:02:36.133
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'Sudoku'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.
+
+!ENTRY org.eclipse.core.resources 2 1 2008-07-08 20:02:36.134
+!MESSAGE Skipping builder 'org.eclipse.jdt.core.javabuilder' for project 'XifresILletres'. Either the builder is missing from the install, or it belongs to a project nature that is missing or disabled.

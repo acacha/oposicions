@@ -1,0 +1,48 @@
+#include <stdio.h>
+
+int addNumbers(int fiveNumbers[]); /* declare function */
+
+struct matriu {
+ int value[10][20];
+}
+
+int main() {
+  int array[5];
+  int i;
+
+  printf("Enter 5 integers separated by spaces: ");
+
+  for(i=0 ; i<5 ; i++) {
+    scanf("%d", &array[i]);
+  }
+
+  printf("\nTheir sum is: %d\n", addNumbers(array));
+  return 0;
+}
+
+
+int function (struct matriu parameter) {
+ for(int i=0; i<10; i++) {
+  for (int j=0; i<20; j++) {
+   parameter[i][j] = i*j;
+  }
+ }
+}
+
+void function(int& aaa[][], int 1d, int 2d) {
+ for(int i=0; i<1d; i++) {
+  for(int j=0; j<2d; j++) {
+   aaa[i][j] = i*j;
+  }
+ }
+}
+
+int addNumbers(int fiveNumbers[]) { /* define function */
+  int sum = 0;
+  int i;
+
+  for(i=0 ; i<5 ; i++) {
+    sum+=fiveNumbers[i];            /* work out the total */
+  }
+  return sum;                       /* return the total   */
+}

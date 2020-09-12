@@ -1,0 +1,94 @@
+import java.util.Enumeration;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.Vector;
+
+
+public class AlgorismeReines {
+
+	private LinkedList<Reina> solucio;
+	
+	private static int COLUMNES = 8;
+	
+	private static int FILES = 8;
+	
+	
+	public LinkedList<Reina> getSolucio() {
+		return solucio;
+	}
+
+	public void setSolucio(LinkedList<Reina> solucio) {
+		this.solucio = solucio;
+	}
+	
+	public AlgorismeReines() {
+		//Iniciar el Vector Solucio
+		
+		LinkedList<Reina> buit=  new LinkedList<Reina>();
+		buit.clear();
+		this.setSolucio(buit);
+	}
+	
+	public boolean solucioValida(int fila, int columna) {
+		for(Iterator<Reina> e=solucio.iterator();e.hasNext();) {
+			Reina reina = e.next(); 
+			int fil= reina.getFila();
+			int col= reina.getColumna();
+			
+			int nDiagonal1= col-fil;
+			int nDiagonal2= col+fil;
+			
+			if (fil==fila || col==columna || nDiagonal1==(columna - fila) 
+				|| nDiagonal2==(fila + columna)) {
+				return false;
+			}
+		}
+		return true;
+	}
+	
+	
+
+	public void buscarSolucioReines(int k) {
+		k++;
+		for (int i=1;i<=COLUMNES;i++) {
+			if (this.solucioValida(k,i)) {
+				if (k==FILES){
+					this.getSolucio().add(new Reina(k,i));
+					System.out.println(this.getSolucio());
+				}
+				this.getSolucio().add(new Reina(k,i));
+				this.buscarSolucioReines(k);
+			}
+		}
+		//Que passa si arribem al 8 i no és solució? Hem de treure al última solució
+		this.getSolucio().removeLast();
+		//this.getSolucio().removeLast();
+		//Res, acabem l'execució i tornem a la
+		//funció que ens ha cridat (funció de la cima de la pila)
+		return;
+	}
+	
+	public static void main(String[] args) {
+		int k=0;
+		
+		AlgorismeReines algorisme = new AlgorismeReines();
+		
+		algorisme.buscarSolucioReines(k);
+	}
+	
+	public void writeMatrix(int[][] solution) {
+		for (int i = 0; i < 8; ++i) {
+		    for (int j = 0; j < 8; ++j) {
+			if (j % 3 == 0) System.out.print("| ");
+			System.out.print(solution[i][j] == 0
+					 ? " "
+					 : Integer.toString(solution[i][j]));
+			
+			System.out.print(' ');
+		    }
+		    System.out.println("|");
+		}
+		System.out.println(" -----------------------");
+	    }
+	
+}

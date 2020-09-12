@@ -1,0 +1,12 @@
+
+public class Operacio {
+	
+	public static int SUMA=1;
+	
+	private int operand1;
+	
+	private int operand2;
+	
+	private
+
+}

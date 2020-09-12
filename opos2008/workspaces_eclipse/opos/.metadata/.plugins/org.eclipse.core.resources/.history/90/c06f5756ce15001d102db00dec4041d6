@@ -1,0 +1,11 @@
+
+public class XifresResolver {
+
+	public XifresResolver() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public static void main(String[] args) {
+		
+	}
+}

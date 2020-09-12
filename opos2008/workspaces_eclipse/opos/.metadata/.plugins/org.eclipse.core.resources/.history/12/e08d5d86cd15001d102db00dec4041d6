@@ -1,0 +1,6 @@
+
+public class Operacio {
+	
+	private int operand1;
+
+}

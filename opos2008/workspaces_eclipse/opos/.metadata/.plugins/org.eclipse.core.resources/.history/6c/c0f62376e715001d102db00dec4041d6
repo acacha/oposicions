@@ -1,0 +1,65 @@
+
+public class Operand implements Comparable {
+	
+	private int operand;
+	
+	private String operacions;
+
+	public int getOperand() {
+		return operand;
+	}
+
+	public void setOperand(int operand) {
+		this.operand = operand;
+	}
+
+	public String getOperacions() {
+		return operacions;
+	}
+
+	public void setOperacions(String operacions) {
+		this.operacions = operacions;
+	}
+	
+	public int intValue() {
+		return this.getOperand();
+	}
+	
+	public Operand() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Operand(int operand) {
+		// TODO Auto-generated constructor stub
+		this.setOperand(operand);
+		this.setOperacions("");
+	}
+	
+	public Operand(int operand,String operacions) {
+		// TODO Auto-generated constructor stub
+		this.setOperand(operand);
+		this.setOperacions(operacions);
+	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return (new Integer(this.getOperand())).toString();
+	}
+	
+	@Override
+	public int compareTo(Object o) {
+		// TODO Auto-generated method stub
+		if (this.getOperand() == ((Operand) o).getOperand()) {
+			
+		}
+		if (this.getOperand()< ((Operand) o).getOperand()) {
+			return -1;
+		} else {
+			return 1;
+		}
+	
+		return 0;
+	}
+
+}

@@ -1,0 +1,15 @@
+
+
+//Estructures de dades
+
+struct distancia {
+	int dist;
+	int nodeAnterior;
+};
+
+int main(int argc, char **argv) {
+
+	//Iniciar el graf
+}
+
+

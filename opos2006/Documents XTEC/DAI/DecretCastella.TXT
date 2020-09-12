@@ -1,0 +1,2466 @@
+DECRETO
+nn/199 de nn de nn de 199 por el que se establece el currículum del ciclo formativo de grado superior de Desarrollo de aplicaciones informáticas.
+
+El Real decreto 1661/1994, de 22 de julio, ha establecido el título de técnico superior en Desarrollo de aplicaciones informáticas y las correspondientes enseñanzas mínimas, en consonancia con el Real decreto 676/1993, de 7 de mayo, por el que se establecen las directrices generales sobre los títulos de formación profesional y las correspondientes enseñanzas mínimas.
+
+En cumplimiento de lo que se dispone en el artículo 4 de la Ley orgánica 1/1990, de 3 de octubre, de ordenación general del sistema educativo, corresponde a las Administraciones educativas competentes establecer el currículum del ciclo formativo correspondiente.
+
+De acuerdo con el Decreto 332/1994, de 4 de noviembre, por el que se establece la ordenación general de las enseñanzas de formación profesional específica en Cataluña, corresponde al Gobierno de la Generalidad de Cataluña establecer el currículum de las enseñanzas de formación profesional.
+
+El currículum de los ciclos formativos de formación profesional específica se establece teniendo en cuenta las necesidades generales de cualificación de cada ámbito profesional detectadas en Cataluña y las diversas medidas que permiten adecuaciones del currículum a las necesidades específicas del entorno socioeconómico de los centros docentes.
+
+La autonomía pedagógica y organizativa de los centros y el trabajo en equipo del profesorado permiten desarrollar actuaciones flexibles y posibilitan concreciones particulares del currículum en cada centro docente. El currículum establecido en este Decreto debe ser desarrollado en las programaciones elaboradas por el equipo docente, las cuales han de potenciar las capacidades clave del alumnado y deben responder al requisito de integración de los contenidos del ciclo formativo.
+
+La elaboración de las programaciones debe partir del currículum -compuesto por objetivos generales, objetivos terminales y contenidos- fijado en este Decreto y debe tomar como referencia la cualificación profesional inherente al título.
+
+Los objetivos generales fijan las capacidades que el alumnado debe haber conseguido al finalizar el ciclo formativo y detallan los contenidos, conjunto de conocimientos y aptitudes, del ciclo que configuran una cualificación profesional.
+
+Los objetivos terminales precisan el grado y el tipo de aprendizaje que el alumnado debe haber adquirido al finalizar el ciclo y han de derivar de las capacidades estipuladas por los objetivos generales.
+
+Los contenidos son los conceptos, procedimientos y actitudes seleccionados que tienen la misión de proporcionar el soporte de información necesario para desarrollar comportamientos profesionales, tanto en la vertiente práctica como en la de fundamentación o valoración. Los contenidos se agrupan en bloques, coherentes y con significado en el mundo laboral, denominados módulos profesionales, los cuales son la unidad organizativa de los ciclos formativos.
+
+Los módulos profesionales responden tanto a la formación en la capacidad técnica como a diversas capacidades complementarias de la anterior.
+
+Los módulos profesionales se estructuran en uno o más créditos si de esta forma se facilita la organización y el desarrollo didáctico del ciclo formativo en aquellos casos en que por la larga duración del módulo y por su carácter divisible en unidades coherentes, sea adecuado hacer una propuesta de subdivisión encréditos que, en definitiva, facilite la distribución temporal, la impartición y la evaluación de los contenidos del ciclo.
+
+A los créditos anteriores se les añade otros créditos para elaborar las síntesis o proyectos apropiados o bien para posibilitar las adaptaciones curriculares al entorno del centro.
+
+El crédito es la unidad de organización del currículum; la agrupación de objetivos terminales y de contenidos en un crédito tiene la finalidad de establecer una propuesta de enseñanza/aprendizaje y, por lo tanto, debe tener en cuenta criterios didácticos y pedagógicos. La relación de los objetivos terminales y de los contenidos correspondientes adquiere un carácter didáctico al organizarse en forma de propuesta coherente con sentido para el alumnado.
+
+El crédito de formación práctica en centros de trabajo y el crédito de síntesis presentan unas características diferenciadas de los otros créditos por sus finalidades específicas.
+
+El crédito de formación práctica en centros de trabajo tiene que posibilitar al alumnado complementar la competencia profesional alcanzable en un centro educativo, con la realización de un conjunto de actividades de formación identificadas entre las actividades productivas y/o de servicios del centro de trabajo.
+
+El crédito de síntesis debe permitir culminar la integración de los contenidos impartidos a lo largo del ciclo.
+
+Los centros docentes disponen de un determinado número de horas lectivas para completar el currículum las cuales, junto con los créditos de formación práctica en centros de trabajo y de síntesis, deben permitir, especialmente, la adaptación del currículum del ciclo a cada centro docente.
+
+Por ello, a propuesta del consejero deEnseñanza, con informe del Consejo Escolar de Cataluña, de acuerdo con el dictamen de la Comisión Jurídica Asesora y con la deliberación previa del Gobierno,
+
+Decreto:
+
+Artículo 1
+
+Este Decreto establece el currículum para las enseñanzas de formación profesional vinculadas al título de técnico superior en Desarrollo de aplicaciones informáticas regulado por el Real decreto 1661/1994, de 22 de julio, por el que se aprueban las enseñanzas mínimas.
+
+Artículo 2
+
+2.1 La denominación, nivel y duración del ciclo formativo son los que se establecen en el apartado 1 del anexo de este Decreto.
+
+2.2 El perfil profesional es el que se indica en el apartado 2 del anexo.
+
+2.3 Los objetivos generales del ciclo formativo son los que se establecen en el apartado 3.1 del anexo.
+
+2.4 Los contenidos del currículum se estructuran en los créditos que se establecen en el apartado 3.2 del anexo.
+
+2.5 Los objetivos terminales son los criterios que sirven de referencia para la evaluación.
+
+2.6 Las horas a disposición del centro se establecen en el apartado 3.3 del anexo.
+
+Artículo 3
+
+La relación de los créditos en que se estructuran los módulos profesionales de las enseñanzas correspondientes al título de técnico superior en Desarrollo de aplicaciones informáticas se establece en el apartado 3.4 del anexo.
+
+Artículo 4
+
+Las materias del bachillerato que se han debido cursar para acceder al ciclo formativo se detallan en el apartado 3.5 del anexo.
+
+Artículo 5
+
+Las especialidades exigidas al profesorado que imparte los créditos correspondientes a este ciclo formativo son las que se expresan en el apartado 4 del anexo.
+
+Artículo 6
+
+6.1 Los módulos susceptibles de convalidación por estudios de formación profesional ocupacional o correspondencia con la práctica laboral son los que se especifican, respectivamente, en los apartados 5.1 y 5.2 del anexo.
+
+6.2 Los estudios universitarios a los que da acceso este título son los indicados en el apartado 5.3 del anexo.
+
+Disposiciones adicionales
+
+Primera.- El Departamento de Enseñanza podrá desarrollar el currículum al que hace referencia este Decreto tanto en la modalidad de educación presencial como en la de educación a distancia, lo podrá adecuar a las características de los alumnos con necesidades educativas especiales y lo podrá adaptar a las características singulares de colectivos de alumnado.
+
+Segunda.- El Departamento de Enseñanza podrá autorizar la realización de experimentaciones sobre este currículum de acuerdo con lo que dispone el capítulo 6 del Decreto 332/1994, de 4 de noviembre, por el que se establece la ordenación general de las enseñanzas de formación profesional específica en Cataluña.
+
+Disposición final
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el DOGC.
+
+Barcelona,    de           de 199
+
+Jordi Pujol
+Presidente de la Generalidad de Cataluña
+
+Joan M. Pujals i Vallvé
+Consejero de Enseñanza
+Anexo
+
+Índice
+
+1. Identificación del título.
+
+1.1 Denominación.
+1.2 Nivel.
+1.3 Duración del ciclo formativo.
+
+2. Perfil profesional.
+
+2.1 Competencia general.
+2.2 Competencias profesionales.
+2.3 Capacidades clave.
+2.4 Campo profesional.
+
+3. Currículum.
+
+3.1 Objetivos generales del ciclo formativo.
+3.2 Créditos.
+3.3 Horas a disposición del centro.
+3.4 Relación de los créditos en que se estructuran los módulos profesionales.
+3.5 Materias del bachillerato que se han debido cursar para acceder al ciclo formativo.
+
+4. Especialidades del profesorado con atribución docente en los créditos correspondientes a este ciclo formativo.
+
+5. Convalidaciones, correspondencias y acceso a estudios universitarios.
+
+5.1 Módulos profesionales que pueden ser convalidados con la formación profesional ocupacional.
+5.2 Módulos profesionales que pueden corresponderse con la práctica laboral.
+5.3 Acceso a estudios universitarios.
+1. Identificación del título.
+
+1.1 Denominación: Desarrollo de aplicaciones informáticas.
+1.2 Nivel: formación profesional de grado superior.
+1.3 Duración del ciclo formativo: 2000 horas.
+1.3.1. Formación en el centro educativo: 1650 horas (créditos del 1 al 11 y 13).
+1.3.2 Formación en centros de trabajo: 350 horas (crédito 12).
+
+2. Perfil profesional.
+
+2.1 Competencia general.
+
+Es competencia general de este técnico superior desarrollar aplicaciones informáticas, participar en el diseño y realizar la programación, pruebas y documentación, de acuerdo con los requisitos funcionales, especificaciones aprobadas y normativa vigente.
+
+2.2 Competencias profesionales.
+
+Las competencias y realizaciones más relevantes que debe manifestar el profesional son:
+
+a) Utilizar sistemas informáticos aislados o interconectados en red:
+
+1. Adaptar la configuración lógica del sistema al entorno de trabajo requerido para realizar y probar programas.
+
+2. Organizar y mantener programas y datos de prueba en sistemas de archivos, utilizando los mandos del sistema operativo.
+
+3. Recuperar, presentar y distribuir información almacenada por los dispositivos disponibles en el sistema.
+
+4. Establecer procedimientos que aseguren la integridad, disponibilidad y seguridad del sistema y de la información durante la realización y verificación de programas.
+ b) Realizar el análisis y el diseño detallado de aplicaciones informáticas de gestión:
+
+1. Participar en la estructuración de los requisitos y en el análisis funcional de las aplicaciones informáticas siguiendo las directrices marcadas por el analista.
+
+2. Participar en la elaboración de diseños alternativos de aplicaciones informáticas que verifiquen las especificaciones y requerimientos funcionales dados.
+
+3. Realizar el diseño de la aplicación según las instrucciones marcadas por el analista.
+
+4. Elaborar un plan de pruebas a fin de comprobar que se obtienen las prestaciones pedidas.
+
+5. Elaborar la documentación del diseño y del plan de pruebas de la aplicación informática según los procedimientos establecidos.
+
+c) Elaborar, adaptar y probar programas en lenguajes de programación estructurados y de cuarta generación:
+
+1. Elaborar programas que verifiquen las especificaciones del diseño con un coste de mantenimiento bajo.
+
+2. Integrar y enlazar programas y rutinas siguiendo las especificaciones del diseño.
+
+3. Realizar pruebas funcionales de programas teniendo en cuenta las especificaciones del diseño.
+
+4. Elaborar y mantener la documentación descriptiva de programas y pruebas que permitan la consulta y actualización por terceras personas.
+
+5. Efectuar cambios en programas conforme a los nuevos requerimientos.
+
+d) Diseñar y realizar servicios de presentación que faciliten la explotación de aplicaciones:
+ 1. Diseñar servicios de presentación que faciliten la interacción entre la persona y la máquina.
+
+2. Realizar servicios de presentación que verifiquen las directrices del diseño.
+
+3. Realizar pruebas de usuario de la interfaz desarrollada que verifiquen la presentación, secuencias de diálogo y de enlace con aplicaciones.
+
+4. Elaborar y mantener documentación sobre diseño, desarrollo, ensayo y utilización de los servicios de presentación que faciliten el uso y el mantenimiento.
+
+2.3 Capacidades clave.
+
+Son las capacidades, mayormente de tipo individual, más asociadas a conductas observables en el individuo y son, en consecuencia, transversales -en el sentido que afectan a muchos puestos de trabajo- y transferibles a nuevas situaciones.
+
+a) Capacidad de resolución de problemas:
+
+Es la disposición y habilidad para enfrentarse y dar respuesta a una situación determinada mediante la organización y/o aplicación de una estrategia o secuencia operativa (identificar, diagnosticar, formular soluciones y evaluar), definida o no, para encontrar la solución.
+
+Esta capacidad se manifiesta en:
+
+La previsión de las contingencias que se pueden presentar cuando se utiliza el sistema informático y se hace uso indebido de los mandos o de las funciones.
+
+La integración y enlazado de los programas y rutinas.
+
+La solución de los errores de programación que se pueden detectar en la prueba de los programas.
+
+La introducción de cambios en aplicaciones diseñadas con la metodología que actualmente ya no utiliza la organización.
+
+b) Capacidad de organización del trabajo:
+
+Es la disposición y habilidad para crear condiciones adecuadas de utilización de los recursos humanos y/o materiales existentes para llevar a cabo las tareas con la máxima eficacia y eficiencia.
+
+Esta capacidad se manifiesta en:
+
+La utilización de los recursos del sistema que permitan mantener los programas y datos de prueba en sistemas de archivos de manera que se puedan recuperar, presentar y distribuir eficientemente.
+
+El diseño de una aplicación informática, constitución del plan de pruebas y elaboración del dossier correspondiente.
+
+La elaboración, adaptación y realización de pruebas de programas en lenguajes de programación estructurados y de cuarta generación.
+
+La elaboración y mantenimiento de la documentación sobre el diseño, desarrollo, prueba y utilización de los servicios de presentación.
+
+c) Capacidad de responsabilidad en el trabajo:
+
+Es la disposición para implicarse en el trabajo, considerándola la expresión de la competencia personal y profesional, y velando por el buen funcionamiento de los recursos humanos y/o materiales relacionados con el mismo.
+
+Esta capacidad se manifiesta en:
+
+El mantenimiento operativo del sistema informático a la hora de realizar la verificación de las aplicaciones desarrolladas.
+
+El seguimiento de las directrices del analista ala hora de diseñar una aplicación informática.
+
+La aplicación de la metodología adoptada por la organización para elaborar, adaptar y probar programas.
+
+El momento de diseñar e implementar los servicios correspondientes de presentación, de manera que le sean útiles al usuario final.
+
+d) Capacidad de trabajo en equipo:
+
+Es la disposición y habilidad para colaborar de manera coordinada en la tarea realizada conjuntamente por un equipo de personas para conseguir un objetivo propuesto.
+
+Esta capacidad se manifiesta en:
+
+La estructuración de requisitos y análisis funcional de las aplicaciones informáticas con el analista y los programadores.
+
+La elaboración de diferentes alternativas de las aplicaciones con las personas que participan.
+
+La programación de las diferentes partes de una misma aplicación informática con otros programadores.
+
+e) Capacidad de autonomía:
+
+Es la capacidad para realizar una tarea de forma independiente, es decir, ejecutándola de principio a fin sin necesidad de recibir ninguna ayuda o apoyo.
+
+Esta capacidad de trabajar de forma autónoma no quiere decir que el profesional, en algunas tareas concretas, no haya de ser asesorado.
+
+Esta capacidad se manifiesta en:
+
+La realización de las operaciones rutinarias del sistema informático a la hora de desarrollar las aplicaciones informáticas.
+
+El diseño, realización de pruebas ydocumentación de las aplicaciones informáticas, a partir de las instrucciones del analista.
+
+La programación, adaptación y prueba de programas en lenguajes estructurales y de cuarta generación.
+
+El diseño e implementación de las interfaces de las aplicaciones.
+
+Debe ser asesorado:
+
+Por los administradores de sistema y datos para realizar operaciones complejas que no se efectúan normalmente.
+
+Por el analista en cuanto a la comprensión del análisis de la aplicación.
+
+En las adaptaciones a programas que no sigan la metodología adoptada actualmente por la empresa.
+
+Por los usuarios finales en el diseño de las interfaces de las aplicaciones.
+
+f) Capacidad de relación interpersonal:
+
+Es la disposición y habilidad para comunicarse con los demás con un trato adecuado, con atención y empatía.
+
+Esta capacidad se manifiesta en:
+
+En la realización de consultas y en el hecho de ser asistido por los servicios técnicos sobre las herramientas de desarrollo de aplicaciones.
+
+La explicación de sus puntos de vista al analista y otros programadores a la hora de elaborar el análisis funcional.
+
+La explicación de sus diseños de alternativas de las aplicaciones.
+
+La comunicación al responsable de una aplicación de todos los problemas y/o errores detectados en las pruebas del programa.
+ La persuasión a los compañeros, cuando sea necesario, del cumplimiento de la metodología adoptada en la empresa.
+
+La explicación y convencimiento al usuario final del funcionamiento de las interfaces de la aplicación.
+
+g) Capacidad de iniciativa:
+
+Es la disposición y habilidad para tomar decisiones sobre propuestas o acciones. En caso de que vayan en la línea de mejorar el proceso, producto o servicio, por cambio o modificación, se está definiendo la capacidad de innovación.
+
+Esta capacidad se manifiesta en:
+
+El establecimiento de procedimientos que aseguren la integridad, disponibilidad y seguridad de los programas que desarrolla y de los datos de prueba desde la operatoria del sistema.
+
+El establecimiento de procedimientos que aseguren la integridad, disponibilidad y seguridad del sistema y de la información almacenada.
+
+La estructuración de los requisitos y del análisis funcional de una aplicación.
+
+La elaboración de diseños alternativos de aplicaciones informáticas.
+
+La búsqueda de unos servicios de presentación y uso de las nuevas aplicaciones y de interfaces que faciliten y mejoren la tarea del usuario.
+
+2.4 Campo profesional.
+
+2.4.1 Entorno profesional y de trabajo:
+
+Este técnico ejercerá su actividad en:
+
+Empresas de servicios informáticos, en el departamento de análisis y programación.
+Empresas grandes y medianas, de cualquiersector económico, en el departamento de proceso de datos.
+Administración pública.
+
+Este profesional ejercerá su actividad en un entorno de trabajo formado por un equipo de personas, donde se le pedirá que sepa interpretar perfectamente las especificaciones definidas por el grupo de analistas del proyecto informático, realizar programas y probar su funcionamiento y consultar a los usuarios a fin de saber si estos programas cumplen los requerimientos establecidos.
+
+2.4.2 Entorno funcional y tecnológico:
+
+Se centra fundamentalmente en las funciones/subfunciones de I+D (análisis, diseño, producción y verificación de productos "software").
+
+Principales ocupaciones y puestos de trabajo:
+
+A título de ejemplo y especialmente con fines de orientación profesional, se enumeran a continuación un conjunto de ocupaciones o puestos de trabajo que podrían ser desempeñados adquiriendo la competencia profesional definida en el perfil del título:
+
+Analista-programador.
+Programador.
+Gestor de proyectos.
+
+3. Currículum.
+
+3.1 Objetivos generales del ciclo formativo.
+
+Diseñar las especificaciones de las aplicaciones informáticas, identificando los recursos del sistema, la información a obtener, y los procesos por realizar, sintetizando los objetivos de la aplicación y los recursos necesarios, a fin de definir el análisis previo de una aplicación informática.
+
+Diseñar los procesos que componen una aplicación informática, analizando las especificaciones provinentes del análisisprevio, especificando la modelización de los datos y la modulación de la aplicación con el flujo de información para cada módulo, a fin de definir el análisis funcional de una aplicación informática.
+
+Diseñar el tratamiento de los datos para cada módulo de una aplicación informática, analizando diagramas de bloques, organigramas y documentación provinente del análisis funcional, especificando las condiciones de entrada, de salida y de error y su tratamiento y las interfaces de toma de datos y formatos de salida de la información, documentando el diccionario de datos, a fin de definir el análisis orgánico de una aplicación informática.
+
+Definir las secuencias y condiciones de realización de las pruebas de una aplicación informática, identificando la información provinente del análisis previo, funcional y orgánico, estableciendo los resultados esperados, determinando las situaciones que permitan comprobar el comportamiento de los datos, la presentación de la información, el tratamiento de errores y la integración de los diferentes módulos, a fin de elaborar el plan de pruebas de una aplicación informática.
+
+Programar la configuración lógica del sistema y los procedimientos que aseguren la integridad, disponibilidad y seguridad del sistema y de la información, identificando los requisitos del entorno de programación y/o prueba, especificando los valores de las variables del sistema y del usuario, aplicando las normas de acceso al sistema, recursos e información, a fin de preparar el entorno de realización y verificación de programas.
+
+Programar una aplicación con lenguajes de programación estructurada y de cuarta generación, identificando las características del sistema donde se desarrollará, interpretando las especificaciones del diseño o de los nuevos requerimientos, determinando las estructuras de control y las estructuras de datos internos y externos, codificando losmódulos según la sintaxis del lenguaje, integrando y enlazando programas y rutinas, a fin de realizar el desarrollo y las adaptaciones de aplicaciones informáticas.
+
+Operar los dispositivos del sistema y los sistemas de archivo, interpretando las necesidades de información de los usuarios y de las aplicaciones, identificando el formato y tamaño de los volúmenes lógicos y físicos y las secuencias de conexión entre dispositivos, utilizando diferentes tipos de sistemas, interfaces de comunicación y acceso a bases de datos con precisión y seguridad, a fin de realizar el almacenamiento, la recuperación y distribución de los programas y datos de prueba.
+
+Elaborar la documentación descriptiva del diseño de aplicaciones informáticas, de programas, de planes de pruebas o de servicios de presentación, identificando el objeto del documento y las personas a quienes va dirigido, especificando de forma completa la guía de utilización ajustada a los procedimientos, a fin de documentar el ciclo de vida de una aplicación informática a lo largo de su utilización.
+
+Valorar la eficacia y eficiencia de una aplicación informática definida o adaptada, identificando las especificaciones de calidad establecidas en el diseño, las prestaciones o adaptaciones requeridas por el usuario, comprobando el acceso, tratamiento de datos, formatos y funcionalidad, relacionando las posibles desviaciones con sus causas, determinando las medidas correctoras, a fin de verificar el funcionamiento de las aplicaciones informáticas.
+
+Integrar las fases de análisis, diseño, programación, explotación, mantenimiento y documentación de aplicaciones informáticas, analizando la intervención de cada una en el desarrollo de proyectos informáticos, determinando las especificaciones para el tratamiento de datos y las secuencias de trabajo, desarrollando las diferentes fases deuna aplicación informática con autonomía de trabajo, a fin de dar respuesta a un proyecto de desarrollo de una aplicación informática de gestión.
+
+Planificar el proceso de inserción, identificando el marco legal, las magnitudes y unidades organizativas del entorno económico, las capacidades y actitudes requeridas, interpretando las normas contractuales y de salud laboral fijadas en las relaciones laborales, determinando las vías de inserción posibles y los medios requeridos en cada caso, a fin de integrarse satisfactoriamente en el mundo laboral.
+
+Sensibilizarse sobre los efectos que las condiciones de trabajo pueden producir sobre la salud personal, colectiva y ambiental, con la finalidad de mejorar las condiciones de realización del trabajo utilizando medidas correctoras y protecciones adecuadas.
+
+Incorporarse al mundo productivo, adaptándose a la estructura propia de la organización de manera responsable y participativa, afrontando las tareas encomendadas con una autonomía progresiva e iniciativa, valorando las aptitudes en el conjunto de las tareas administrativas realizadas, a fin de integrarse en un centro de trabajo.
+
+3.2 Créditos.
+
+Crédito 1: Sistemas operativos.
+
+a) Duración: 150 horas.
+
+b) Objetivos terminales.
+
+Identificar las partes y dispositivos físicos y lógicos de un sistema informático a partir de los manuales y de las propias instrucciones del sistema.
+
+Interpretar la normativa legal vigente en materia de seguridad y copyrights y la aplicación que tiene en los procesos y en losresultados del trabajo.
+
+Identificar los requisitos del entorno de programación y/o prueba y el ajuste a los valores de variables del sistema.
+
+Relacionar los valores de variables del sistema que afectan a la memoria, al procesador y a los periféricos con los requerimientos para los procesos de programación o de verificación de programas.
+
+Determinar las acciones y parámetros requeridos para la instalación y la operativa de un sistema operativo monousuario, ampliado con un entorno gráfico, según las instrucciones del manual.
+
+Comprobar y verificar el plan de instalación, los diagramas de conexión, según las características de funcionamiento de los equipos, las necesidades del usuario y el plan de requerimientos establecido.
+
+Identificar el formato y tamaño de los volúmenes lógicos y físicos y las secuencias de conexión entre dispositivos, según los requerimientos establecidos.
+
+Operar sobre un sistema operativo multiusuario las funciones de usuario referentes a conexión/desconexión, gestión del espacio de almacenamiento, gestión de procesos, utilización de periféricos y comunicación con otros usuarios, con precisión y destreza.
+
+Establecer los requerimientos referentes a espacio, a variables de entorno y de usuario, a dispositivos y a permisos de acceso a los datos, así como las utilidades que permitan la realización y verificación de programas.
+
+Diseñar procedimientos de usuario para automatizar las funciones básicas en el sistema informático y minimizar los tiempos de realización.
+
+Establecer procedimientos dealmacenamiento y recuperación de entornos de trabajo y datos de usuario que mantengan la integridad, disponibilidad y seguridad de la información.
+
+Identificar las incidencias y disfunciones surgidas en la operatividad de los equipos y del sistema.
+
+Determinar las causas y las formas de resolución de las incidencias que aparezcan en la operativa del sistema informático a partir de la información de los manuales y de los administradores del sistema.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. La información y los sistemas informáticos:
+
+Información y tipos de datos.
+Tratamiento de la información: fases y tipos.
+Clasificación de los ordenadores, evolución y tendencias.
+Componentes físicos de los sistemas informáticos: unidad central de proceso, memoria, dispositivos de entrada y/o salida, soportes y periféricos.
+Componentes lógicos de los sistemas informáticos: sistemas de numeración, codificación de la información, programa.
+Normativa legal vigente.
+
+2. El sistema operativo:
+
+Funciones y características.
+Situación actual y tendencias.
+Sistemas de explotación: monousuario, multiusuario, monotarea, multitarea, multiprogramación, tiempo compartido, tiempo diferido, tiempo real, multiproceso.
+Seguridad en el sistema operativo: acceso y gestión de usuarios.
+
+3. Programas de control del sistema operativo:
+
+Gestión de la maquinaria del sistema: núcleo, gestión de memoria, gestión de entrada-salida.
+Gestión de datos y archivos: funciones básicas,métodos de asignación de memoria, sistemas de directorios, seguridad en la información almacenada.
+Gestión de trabajos: asignación de recursos, ejecución del proceso, fases.
+
+4. Programas de proceso del sistema operativo:
+
+Programas de utilidad: formateo, copias, recuperación.
+Programas de servicio: traductores, montadores, depuradores.
+
+5. Sistema operativo monousuario:
+
+Mandos: tipos, sintaxis, comodines.
+Directorios: estructura en árbol, caminos absoluto y relativo, operaciones de funcionamiento.
+Archivos: sintaxis, atributos, operaciones de funcionamiento.
+Editor de pantalla: creación y manipulación de archivos de texto.
+Soportes magnéticos: formateo, tipos, sectores, pistas.
+Redireccionamiento.
+Filtros.
+Dispositivos: consola, puertos serie, puertos paralelo, NULL.
+Ficheros por lotes: características, órdenes específicas, paso de parámetros, símbolos, variables de entorno, creación de menús y procedimientos automáticos básicos.
+Gestión de la memoria: tipos, características y funciones.
+Arranque del sistema: fases, ficheros de arranque.
+Shell.
+Entorno gráfico: gestión de iconos, menú de control, gestión de administradores.
+
+6. Sistema operativo multiusuario:
+
+Mandos: tipos, sintaxis, comodines.
+Seguridad: acceso y gestión de usuario.
+Directorios: estructura en árbol, caminos absoluto y relativo, operaciones de funcionamiento.
+Archivos: sintaxis, permisos, operaciones de usuario.
+Editores: creación y manipulación de archivos de texto.
+Exploración del sistema: órdenes básicas de usuario.
+Comunicación entre usuarios: órdenes básicas.
+Redireccionamiento.
+Filtros.
+Shell: tipos.
+Guiones en los diferentes shells: características, órdenes específicas, paso de parámetros, símbolos, variables de entorno, creación de menús y procedimientos automáticos básicos de usuario.
+Impresoras del sistema: órdenes básicas de usuario, procesos de trabajo.
+
+d) Contenidos de procedimientos.
+
+1. Puesta en funcionamiento del ordenador en diferentes entornos:
+
+Identificación de las características técnicas y de proceso según el entorno.
+Verificación de las conexiones centrales y periféricas.
+Determinación del sistema de arranque según las características de la maquinaria.
+Selección e introducción de las órdenes operativas.
+
+2. Creación y manipulación de archivos de texto con los editores del sistema:
+
+Determinación del editor.
+Selección del soporte.
+Recuperación del archivo a manipular del soporte correspondiente.
+Modificación del documento.
+Salida del entorno del editor.
+
+3. Proceso de salvaguardia y recuperación:
+
+Análisis de la organización del espacio de almacenamiento de datos y del esquema de seguridad.
+Determinación de la información o softwareque se quiera salvaguardar o recuperar y de los soportes.
+Introducción de la orden de copia o recuperación con los parámetros correspondientes.
+Operativa según las demandas del sistema.
+Comprobación del proceso.
+
+4. Instalación del sistema operativo monousuario:
+
+Identificación de las características del ordenador donde se instala.
+Detección de la configuración del sistema existente, en su caso.
+Determinación de las copias de seguridad a realizar sobre la información existente, en su caso.
+Obtención de información sobre el proceso de instalación.
+Operativa según las demandas del sistema y las necesidades de la instalación.
+
+5. Desinstalación del sistema operativo monousuario:
+
+Identificación de la partición del sistema operativo.
+Obtención de información del proceso de desinstalación.
+Determinación de la partición donde esté el sistema a desinstalar.
+Selección de las copias de seguridad de la información que interesa.
+Operativa según las demandas del sistema y las necesidades de la desinstalación.
+Comprobación de la partición final del sistema operativo.
+
+6. Sesiones de trabajo en un servidor multiusuario:
+
+Identificación del tipo de operación y/o tareas a desarrollar.
+Análisis de los elementos de la maquinaria involucrados en la operación.
+Consulta e interpretación del manual del usuario.
+Comprobación de que el sistema operativo delservidor está en funcionamiento.
+Selección de las órdenes del sistema.
+Determinación de las órdenes de salida y/o abandono del programa emulador.
+
+7. Gestión de mensajes en entorno multiusuario a nivel de usuario:
+
+Determinación del (de los) usuario (s) para enviar mensajes.
+Introducción de la orden que permite escribir los mensajes.
+Elaboración del mensaje y de la orden de acabar el mensaje.
+Introducción de la orden que permite visualizar los mensajes.
+Determinación del (de los) mensaje (s) que se quiere visualizar.
+Interpretación del (de los) mensaje (s).
+Toma de decisiones sobre la eliminación.
+Introducción de la orden de salida de la gestión.
+
+8. Organización de los recursos del sistema monousuario:
+
+Interpretación de los requerimientos de funcionamiento.
+Definición y asignación de valores a variables de usuario y del sistema.
+Creación de ficheros de mandos para mecanizar o automatizar la ejecución de tareas rutinarias.
+Determinación de los dispositivos requeridos para los trabajos a realizar.
+Control de los procesos en ejecución.
+
+e) Contenidos de actitudes.
+
+1. Sistematización del proceso de resolución de problemas:
+
+Toma de decisiones ante las contingencias por uso indebido del sistema y en las incidencias aparecidas en la operación de los sistemas informáticos.
+
+2. Sistematización de la comprobación de las adaptaciones del sistema operativo:
+ Constancia en comprobar el funcionamiento de los equipos y las adaptaciones realizadas.
+
+3. Optimización del trabajo:
+
+Eficacia en la utilización de los recursos del sistema que permitan mantener los programas y los datos de prueba en sistemas de archivos de manera que se puedan recuperar y/o presentar.
+
+4. Orden y método de trabajo:
+
+Secuenciación  y ordenación de las acciones para realizar procesos de trabajo en el sistema informático.
+
+5. Ejecución independiente del trabajo:
+
+Autosuficiencia en la utilización del sistema informático para desarrollar aplicaciones.
+Rigor en los procesos de instalación y desinstalación, salvaguarda y protección de la información.
+
+6. Confianza en si mismo:
+
+Seguridad en las decisiones a tomar en los procesos de adaptación
+y configuración del sistema monousuario.
+
+7. Mentalidad emprendedora en las tareas y acciones:
+
+Mejora de los procesos de trabajo rutinario, tanto en la automatización de las operaciones como en el uso del tiempo de ejecución.
+
+8. Adaptación a nuevas situaciones:
+
+Integración de situaciones nuevas o innovaciones que se produzcan en el sistema informático.
+
+9. Respeto por la salud, el medio ambiente y la seguridad laboral:
+
+Cumplimiento de las normas de seguridad establecidas en el sistema informático.
+ 10. Progreso y promoción en la profesión:
+
+Constancia y esfuerzo por aprender y actualizarse en la utilización del sistema.
+
+11. Valoración de resultados:
+
+Argumentación de los resultados obtenidos en la operatoria del sistema.
+
+Crédito 2: Redes de área local.
+
+a) Duración: 180 horas.
+
+b) Objetivos terminales.
+
+Interpretar las características técnico-funcionales de cada elemento de la red, a partir de su funcionamiento y de la documentación técnica correspondiente.
+
+Identificar los recursos compatibles a compartir en una red, técnicas que utiliza el sistema operativo para su gestión e influencia de los procedimientos de operación sobre el sistema.
+
+Diferenciar las características fundamentales de los sistemas operativos de red más utilizados actualmente, así como las tendencias, según las informaciones técnicas al alcance.
+
+Interpretar los procedimientos que garanticen la seguridad, integridad y confidencialidad de la información de usuario en un sistema de red.
+
+Determinar las condiciones de acceso, filtrado y recorrido de la información al dispositivo de salida requerido, compartido o no, según los requerimientos propios del sistema.
+
+Controlar los procesos en ejecución simultánea con el uso de ventanas y terminales virtuales.
+
+Intercambiar información, datos y mensajes, con otras estaciones de trabajo en entornos dered local y/o con servidores centrales en entornos de red más amplia.
+
+Operar sobre un sistema en red las funciones de usuario referentes a conexión, desconexión y gestión de los recursos a compartir, con el uso de manuales y ayudas propias del sistema, con precisión y destreza.
+
+Establecer procedimientos de almacenamiento y recuperación de entornos de trabajo y datos de usuario de forma eficiente.
+
+Establecer recursos que permitan la realización y verificación de los programas.
+
+Detectar las incidencias y disfunciones surgidas en la operatividad del sistema de red local.
+
+Determinar las causas y las formas de resolución de las incidencias aparecidas en la operación del sistema en red, según la información de los manuales y del administrador de la red.
+
+Diseñar procedimientos de usuario para automatizar las funciones básicas en la red, a partir de los requerimientos establecidos y según las prestaciones del sistema.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Telemática:
+
+La telemática: origen, evolución y aplicaciones actuales.
+Medios físicos de transmisión: vía cable, inalámbrica y microondas.
+Tipos de transmisión: analógico-digital; símplex, semidúplex, fulldúplex; serie-paralelo; síncrona-asíncrona.
+Tratamiento de errores: paridad, ACK/NAK, XON/XOFF.
+Modems: elementos, velocidad de transmisión, velocidad de modulación, técnicas de modulación, fases de conexión.
+Normativa V: compatibilidad Hayes, protocolos, transmisión de datos.
+Multiplexores: tipos.
+Concentradores: tipos.
+
+2. Arquitectura de redes de área local:
+
+Elementos físicos: cables, tarjetas, conectores, funciones.
+Topologías: características y tipos.
+Protocolos: características y tipos.
+
+3. Sistema operativo de red de área local:
+
+Redes de área local: recursos, funciones, características y tendencias actuales.
+Cuenta de usuario: grupos de usuarios, directorios de usuario, atributos.
+Permisos: jerarquía, responsable de grupo, responsable de usuario.
+Servidor de ficheros: características.
+Servidor de impresión: características.
+Servidor de comunicaciones: características.
+Normativa legal vigente.
+
+4. Sistemas operativos de red específicos:
+
+Componentes básicos: tendencias actuales.
+Ambito de usuario: personalización.
+Directorios: estructura en árbol, caminos absoluto y relativo, permisos, operaciones mediante el sistema operativo de base y/o utilidades específicas.
+Archivos: permisos, operaciones mediante el sistema operativo de base y/o utilidades específicas.
+Impresión: operaciones mediante el sistema operativo de base y/o utilidades específicas.
+Comunicación entre usuarios mediante el sistema operativo de base y/o utilidades específicas.
+Guiones: características, órdenes específicas, paso de parámetros, símbolos, variables de entorno, creación de menús y procedimientos automáticos básicos.
+
+d) Contenidos de procedimientos.
+
+1. Sesiones de trabajo en un sistema en red:
+ Análisis de las tareas a desarrollar.
+Consulta e interpretación del manual de usuario.
+Identificación de los convenios de compartición de los archivos.
+Comprobación de que el servidor de la red está en funcionamiento.
+Ejecución del programa que accede al entorno de red.
+Introducción del LOGIN y posible PASSWORD.
+Selección e introducción de las órdenes operativas según la tarea a ejecutar.
+Ejecución de la orden de salida de la cuenta de usuario.
+
+2. Gestión de utilidades de usuario en un sistema de red:
+
+Interpretación de los requerimientos de funcionamiento.
+Determinación de los parámetros de la orden según el manual.
+Introducción de la orden adecuada.
+Funcionamiento según las demandas del sistema.
+
+3. Instalación de la maquinaria y del programario de comunicaciones en un sistema monousuario:
+
+Identificación de las características del ordenador donde se instala.
+Interpretación de las necesidades de utilización.
+Consulta e interpretación de las normas de usuario del manual.
+Relación de la capacidad del sistema con la del modem y/o software a instalar.
+Configuración de los parámetros del modem según los datos del hardware.
+Determinación de los parámetros de instalación según necesidades del usuario.
+Configuración del software según parámetros definidos.
+Comprobación de la instalación y de la configuración.
+
+4. Gestión de comunicaciones vía modemdesde un sistema monousuario:
+
+Consulta e interpretación del manual de las órdenes de ejecución.
+Identificación de los parámetros e indicaciones a usar.
+Introducción de la orden de llamada al programa de comunicaciones.
+Operativa según las necesidades de usuario.
+Abandono del programa de comunicaciones.
+
+e) Contenidos de actitudes.
+
+1. Sistemática en el proceso de resolución de problemas:
+
+Toma de decisiones sobre las incidencias que se producen en los procesos de trabajo, en un sistema de red.
+
+2. Optimización del trabajo:
+
+Eficiencia a la hora de utilizar los recursos de la red que permitan mantener los programas y los datos de prueba en sistemas de archivos, de manera que se puedan recuperar y/o presentar.
+
+3. Compromiso con las obligaciones asociadas al trabajo:
+
+Cumplimiento de las normas establecidas para acceder al sistema, usar los recursos y disponer de la información almacenada.
+
+4. Independencia en la ejecución del trabajo:
+
+Autosuficiencia a la hora de utilizar la red para desarrollar aplicaciones.
+Toma de decisiones propias en la distribución la información y de la organización del sistema.
+
+5. Comunicación y relación:
+
+Interés por el mensaje y por el interlocutor en las consultas de usuario que sobre la red efectúa al administrador.
+
+6. Mentalidad emprendedora en las tareas yacciones:
+
+Motivación para establecer procedimientos que aseguren la integridad, disponibilidad y seguridad de la información propia desde la operatoria de la red.
+
+7. Apertura al entorno profesional y a su evolución:
+
+Integración a situaciones nuevas de la maquinaria o del programario de la red.
+
+8. Respeto por la salud, el medio ambiente y la seguridad laboral:
+
+Observación de las normas de seguridad establecidas en la utilización de la red.
+
+9. Progreso y promoción en la profesión:
+
+Constancia y esfuerzo por aprender y actualizarse en la utilización de la red.
+
+10. Valoración de los resultados:
+
+Argumentación de los resultados obtenidos en la operatoria de la red.
+
+Crédito 3: Análisis y diseño de bases de datos.
+
+a) Duración: 60 horas.
+
+b) Objetivos terminales.
+
+Interpretar los objetivos y características técnicas y funcionales de los modelos existentes de Sistemas Gestores de Bases de Datos (SGBD), a partir de documentación específica.
+
+Identificar la arquitectura y estructura interna de los SGBD.
+
+Identificar la sintaxis de un lenguaje gráfico de representación del diseño conceptual de datos y de relaciones.
+
+Diferenciar entre el esquema externo, elesquema conceptual y el esquema físico de una base de datos.
+
+Interpretar la estructura de un diccionario de datos, aspectos que gestiona y forma de actualización, según las prestaciones del sistema y/o lenguaje.
+
+Deducir las ventajas operativas de un sistema gestor de bases de datos sobre un sistema gestor de ficheros.
+
+Interpretar la documentación provinente del análisis de datos y del diseño lógico de una base de datos.
+
+Sintetizar diseños conceptuales de datos con el uso del diagrama entidad-relación.
+
+Elaborar la documentación relativa al modelo conceptual.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Sistema gestor de base de datos (SGBD):
+
+Sistema gestor de bases de datos: objetivos y evolución.
+Arquitectura ANSI/X3/SPARC: esquema interno, conceptual y externo, flujo de datos y control.
+Independencia física y lógica de los datos.
+Modelos: jerárquico, red y relacional, estructuras de datos, operaciones de manipulación, reglas de integridad del modelo.
+Usuarios: informáticos y no informáticos.
+Lenguajes: de definición y manipulación, autosuficientes y sumergidos.
+Administrador: funciones y responsabilidades.
+Diccionario de datos: contenidos, tipos y utilización.
+
+2. Modelo entidad-relación (CHEN):
+
+Entidad: atributos, clave y representación gráfica.
+Relación: atributos, grado, representacióngráfica,
+obligatoriedad de las entidades y diagrama de ocurrencias.
+Entidades fuertes y débiles.
+Modelo ampliado con particiones y subconjuntos.
+
+d) Contenidos de procedimientos.
+
+1. Diseño del modelo entidad-relación de una base de datos:
+
+Identificación de las fuentes de información.
+Selección y vaciado de las fuentes de información.
+Ordenación de la información.
+Interpretación de la información a tratar y de las conexiones a aplicar.
+Análisis de las posibles relaciones y conexiones.
+Toma de decisiones del diseño.
+Definición de las entidades: nombre, atributos, clave.
+Definición de las relaciones: nombre, atributos, grado.
+Representación gráfica.
+
+e) Contenidos de actitudes.
+
+1. Optimización del trabajo:
+
+Eficiencia a la hora de obtener la información a gestionar con la base de datos.
+
+2. Orden y método de trabajo:
+
+Secuenciación y ordenación de las acciones en la fase de diseño de una base de datos.
+
+3. Participación y cooperación en el trabajo en equipo:
+
+Coordinación con el personal implicado en el diseño de la base de datos.
+
+4. Ejecución independiente del trabajo:
+
+Autosuficiencia para decidir las entidades y relaciones implicadas en el diseño de la base dedatos.
+
+5. Creatividad:
+
+Curiosidad para adivinar las entidades y relaciones necesarias para el diseño de la base de datos.
+
+6. Valoración de resultados:
+
+Argumentación y/o justificación de la decisión en el diseño de la base de datos.
+Autovalorarse de los procesos realizados en el diseño de una base de datos.
+
+Crédito 4: Análisis y diseño de aplicaciones informáticas.
+
+a) Duración: 190 horas.
+
+b) Objetivos terminales.
+
+Interpretar las fases del ciclo de vida de una aplicación informática, la función de cada una de ellas, las etapas de los proyectos de desarrollo, los recursos necesarios y los plazos de cada etapa para su resolución.
+
+Identificar los recursos del sistema y la información que debe obtenerse, con sus fuentes, destinos y procesos a realizar.
+
+Diferenciar el trabajo interactivo del trabajo en lotes.
+
+Reconocer la información útil y necesaria para el análisis funcional, a partir de la documentación y de los datos de la organización o situación.
+
+Analizar las especificaciones provinentes del análisis previo y los diagramas de bloques,organigramas y documentación provinente del análisis funcional.
+
+Especificar las aplicaciones informáticas necesarias en el sistema.
+
+Descomponer una aplicación informática enunidades modulares según la metodología establecida y a partir de las especificaciones recibidas.
+
+Elaborar las alternativas de implementación de cada uno de los módulos de una aplicación.
+
+Determinar los costes y recursos, para la implementación de cada una de las alternativas diseñadas.
+
+Crear prototipos funcionales o demostraciones de las alternativas diseñadas.
+
+Diseñar esquemas de diálogo, entradas y salidas, por medio de diagramas de estado-suceso.
+
+Determinar y describir las interfaces de toma de datos, formatos de salida de información y esquemas de diálogo lógico utilizados para cada alternativa, según la metodología de diseño propuesta.
+
+Identificar las fuentes y destinos de los flujos de información, condiciones de entrada, de salida, de error y su tratamiento, y los procesos a realizar sobre los datos.
+
+Definir los niveles y políticas de seguridad en el uso de las aplicaciones informáticas.
+
+Definir la secuencia y las condiciones de realización de un plan de pruebas de una aplicación informática, así como los resultados esperados de las pruebas de módulos y de las pruebas de integración.
+
+Verificar en el plan de pruebas que el acceso, utilización y elaboración de los datos, la presentación de la información y las condiciones de error y su tratamiento, se ajustan al diseño o a las prescripciones definidas por el usuario.
+
+Elaborar la documentación de forma completa y detallada de las diferentes fases que intervienen en el diseño y en el plan de pruebas de una aplicación informática, según elprocedimiento establecido.
+
+Diferenciar las características básicas y de funcionamiento de las herramientas CASE y de las tecnologías tradicionales para el desarrollo de aplicaciones.
+
+Definir una metodología de trabajo y elaborar un análisis de datos y procesos con herramientas CASE.
+
+Actualizar el diccionario de datos de acuerdo con los procedimientos establecidos en la herramienta CASE.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Sistemas de información:
+
+Concepto. Componentes. Tipos.
+Sistemas de información básicos en la administración y gestión de la empresa: almacén, facturación, nómina, personal, contable, comercial y producción; características, flujo de información.
+
+2. Metodologías de desarrollo:
+
+Ciclo de vida de una aplicación: etapas y características básicas.
+Análisis previo de una aplicación informática: objetivos y fases.
+Análisis funcional de una aplicación informática: objetivos, fases y requerimientos de entrada y de salida, modelización de datos, análisis entidad-relación, modelización de funciones y de procesos, diagramas de flujos de datos.
+Análisis orgánico de una aplicación informática: algoritmos orientados a estructuras de datos y/o objetos para cada módulo.
+Proyectos informáticos: etapas, herramientas y técnicas de gestión de proyectos.
+
+3. Análisis y diseño asistido por ordenador:
+
+Herramientas Case: características.
+Repositorio: estructura y actualización.
+
+d) Contenidos de procedimientos.
+
+1. Análisis previo para la creación o el mantenimiento de una aplicación informática:
+
+Identificación de las especificaciones y recursos necesarios.
+Determinación del entorno de trabajo adecuado.
+Determinación de las posibles soluciones.
+Formulación de una solución óptima.
+Elaboración de la documentación del análisis previo.
+
+2. Análisis funcional para la creación o el mantenimiento de una aplicación informática:
+
+Concreción de los objetivos del análisis.
+Identificación de las fuentes de información.
+Obtención de información.
+Interpretación de los hechos, situaciones y variables.
+Determinación de los procesos a realizar según los datos.
+Selección de la metodología de trabajo.
+Modelización de funciones y procesos.
+Modelización de los datos.
+Diseño modular.
+Diseño de un plan de pruebas de la aplicación.
+Elaboración de la documentación del análisis funcional.
+
+3. Análisis orgánico para la creación o mantenimiento de una aplicación informática:
+
+Identificación de variables y de procesos de tratamiento de datos.
+Formulación de estrategias adecuadas.
+Adaptación de estructuras algorítmicas estándares al planteamiento de resolución del problema.
+Formulación de pruebas de validación de cada módulo.
+Elaboración de la documentación del análisis orgánico.
+
+e) Contenidos de actitudes.
+ 1. Sistematización del proceso de resolución de problemas:
+
+Toma de decisiones en las fases de análisis de una aplicación informática.
+Argumentación y justificación de las decisiones tomadas en cada una de las etapas de elaboración de un proyecto de diseño de una aplicación informática.
+
+2. Sistematización en la comprobación de resultados:
+
+Autocorrección de los errores y de los fallos de proceso y de metodología observados durante el proceso de análisis y de diseño.
+
+3. Sistematización de la comprobación de resultados:
+
+Autocorrección de las diferentes fases del ciclo de vida de una aplicación informática.
+
+4. Optimización del trabajo:
+
+Eficacia en el seguimiento de las diferentes fases del ciclo de vida de una aplicación informática.
+
+5. Orden y método de trabajo:
+
+Secuencia y ordenación de las acciones a la hora de desarrollar aplicaciones informáticas.
+Prioridad de las acciones a realizar en cualquier etapa de diseño o de análisis.
+Valoración de la importancia del uso de las metodologías en los procesos de análisis y de diseño.
+
+6. Trabajo en equipo:
+
+Coordinación de los diferentes grupos de trabajo implicados en el desarrollo de un proyecto informático.
+Colaboración con los demás miembros del grupo de trabajo en el que esté incluido.
+
+7. Espíritu democrático:
+
+Aceptación de los demás, de las opiniones y juicios entre los miembros del grupo de trabajo en el que esté incluido.
+
+8. Ejecución independiente del trabajo:
+
+Rigor en el seguimiento de la planificación del proyecto informático.
+Autonomía en la definición y descripción de la arquitectura modular.
+Argumentación y/o justificación de las decisiones tomadas en las diferentes fases de desarrollo de aplicaciones informáticas.
+
+9. Confianza en si mismo:
+
+Seguridad a la hora de desarrollar las tareas asignadas dentro de su grupo de trabajo.
+
+10. Relación interpersonal:
+
+Interés por el mensaje y por el interlocutor a la hora de recibir el problema a resolver con tratamiento informático.
+Interés por las opiniones del personal implicado en el desarrollo de las aplicaciones informáticas.
+
+11. Creatividad:
+
+Curiosidad para adivinar los problemas a resolver con la aplicación informática.
+
+12. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos en herramientas para poder desarrollar aplicaciones informáticas.
+
+13. Adaptación a nuevas situaciones:
+
+Respuesta a nuevas situaciones en el uso de la metodología de desarrollo de aplicaciones informáticas adecuada.
+Constancia y esfuerzo por aprender la utilización de nuevas herramientas y metodologías de desarrollo de aplicaciones informáticas.
+ Crédito 5: Programación estructurada y modular.
+
+a) Duración: 180 horas.
+
+b) Objetivos terminales.
+
+Identificar los recursos del sistema informático necesarios para la realización de programas.
+
+Definir las estructuras de datos necesarias para la resolución de problemas en un lenguaje estructurado.
+
+Diseñar algoritmos para las operaciones básicas de altas, bajas, consultas y modificaciones en archivos.
+
+Utilizar la programación estructurada y modular para el diseño de algoritmos y la elaboración de programas.
+
+Especificar, en la elaboración de programas, las condiciones de entrada, de salida y de error con el correspondiente tratamiento.
+
+Desarrollar los códigos fuente en lenguajes de programación estructurada y modular, a partir de los algoritmos diseñados y de acuerdo con la sintaxis.
+
+Obtener los códigos objeto a partir de los códigos fuente.
+
+Obtener los códigos ejecutables a partir de los códigos objeto, con la utilización de librerías, utilidades y otros recursos.
+
+Comprobar que los recursos de sistema, procesador, memoria y periféricos permiten la integración y el enlace de programas.
+
+Depurar los módulos de programación desarrollados en un lenguaje de programación estructurada y modular, según los criterios de eficacia y eficiencia.
+
+Controlar la calidad del programadesarrollado en un lenguaje de programación estructurada y modular, a partir de las especificaciones establecidas en el diseño y de las prestaciones esperadas por el usuario.
+
+Verificar el funcionamiento de cada módulo de una aplicación, las integraciones y los enlaces.
+
+Comprobar que el acceso y el tratamiento de los datos están de acuerdo con las directrices del administrador de datos del sistema y de las especificaciones establecidas en el diseño.
+
+Comprobar que los formatos de entrada y de salida del programa y la funcionalidad de los datos se ajustan a los parámetros definidos.
+
+Elaborar la guía de usuario y la documentación completa de las fases de diseño, codificación, traducción, enlace, depuración y verificación de programas elaborados con programación estructurada y modular, de manera ordenada y clara.
+
+Determinar las causas y las formas de resolución de las incidencias aparecidas en las fases de codificación, traducción, enlace y depuración de programas en lenguaje de programación estructurada, a partir del manual de referencia.
+
+Adaptar programas en lenguaje estructurado según los nuevos requerimientos establecidos en el diseño.
+
+Determinar las implicaciones que producen las nuevas modificaciones sobre los datos y los módulos, con el uso de matrices de referencias cruzadas entre módulos y datos.
+
+Comprobar la eficiencia y eficacia de las prestaciones y de los rendimientos del programa elaborado en lenguaje de programación estructurada, en los procesos de adaptación y de diseño de programas.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Programa:
+
+Instrucción y secuencia de instrucciones.
+Tipos de programas: de gestión, científicos, de diseño, de enseñanza, simuladores.
+Características de los programas: legibilidad, portabilidad, eficacia, modularidad, estructuración.
+Fases básicas de desarrollo de un programa: análisis, algoritmos, codificación en un lenguaje de alto nivel, traductores, montadores, verificación y documentación.
+Control de calidad de una aplicación informática: factores, índices, métricas de calidad.
+
+2. Estructuras de datos:
+
+Datos simples: numéricos, alfanuméricos, lógicos, puntero.
+Operadores: prioridades.
+Datos compuestos internos estáticos: cadenas, tablas, registros.
+Datos compuestos externos de los ficheros: campos, registros, tipos de ficheros, operaciones. Tipos de organización: secuencial, relativa, secuencial-indizada. Tipos de acceso: secuencial y directo por valor y posición. Indice de actividad y volatilidad.Sistema gestor de ficheros. Independencia física de los datos.
+Definidos por el programador.
+
+3. Programación estructurada:
+
+Definición y objetivos.
+Constantes y variables.
+Operaciones simples: asignación, de entrada, de salida.
+Operaciones compuestas: secuencia, alternativa, repetitiva.
+Algoritmos de tratamiento de cadenas: extracción, concatenación.
+Algoritmos de tratamiento de tablas: recorridos total y parcial, inserción, búsqueda secuencial, ordenación, búsqueda dicotómica.
+Algoritmos de tratamiento de ficheros: creación, inserción, eliminación, consulta, modificación, copia, fusión, ordenación,reorganización y partición.
+
+4. Programación modular:
+
+Definición y objetivos.
+Análisis descendiente: módulos.
+Procedimientos y funciones.
+Paso de argumentos: por valor y por referencia.
+
+5. Lenguaje C:
+
+Características y versiones.
+Tipos de datos: organización interna, operadores.
+Instrucciones de entrada y de salida: dispositivos estándar, impresora y ficheros.
+Instrucciones de control.
+Funciones: paso de argumentos.
+Librerías: tipos, aplicación, acceso, creación y modificación.
+Traductores, montadores, depuradores.
+
+6. Lenguaje C ampliado con un gestor de ficheros:
+
+Utilización: acceso secuencial y directo por posición y valor.
+Utilidades externas.
+
+d) Contenidos de procedimientos
+
+1. Análisis del problema a resolver:
+
+Recepción del problema.
+Valoración de las ventajas e inconvenientes de su proceso manual.
+Determinación de las posibilidades de tratamiento informático.
+Selección del tratamiento informático más adecuado.
+Documentación de las fases anteriores.
+
+2. Descomposición modular:
+
+Interpretación del tratamiento informático seleccionado en la fase de análisis del problema a resolver.
+Exploración de los bloques diferenciados y/orepetitivos en el tratamiento informático.
+Elaboración de los organigramas correspondientes.
+Documentación de la fase.
+
+3. Diseño de algoritmos:
+
+Identificación de los datos de entrada y de salida y de sus canales.
+Establecimiento de una estrategia para determinar la secuencia de acciones.
+Determinación de la secuencia de acciones.
+Representación de la secuencia de acciones correspondientes.
+
+4. Codificación de algoritmos:
+
+Elección del lenguaje adecuado.
+Selección del editor existente en el sistema informático.
+Traducción de la secuencia de acciones del algoritmo.
+Verificación de la sintaxis del lenguaje seleccionado.
+
+5. Corrección de errores de codificación:
+
+Selección del editor existente en el sistema informático.
+Edición del fichero fuente a corregir.
+Reescritura de las instrucciones con errores.
+
+6. Traducción de un módulo de programación:
+
+Elección del fichero fuente a traducir.
+Selección del programa traductor.
+Generación del fichero objeto.
+Ejecución del procedimiento de corrección de errores de codificación para los casos de no generación.
+Documentación del fichero fuente traducido y de los parámetros utilizados.
+
+7. Montaje de un programa:
+
+Identificación de los ficheros  objetos a montar.
+Selección del programa montador.
+Determinación de los parámetros de ejecución.
+Generación del fichero ejecutable sobre los ficheros objetos.
+Ejecución del procedimiento de corrección de errores de codificación para los casos de no generación.
+Documentación de los ficheros objetos montados y de los parámetros utilizados.
+
+8. Verificación de un programa:
+
+Determinación de los resultados esperados y de los criterios de valoración.
+Selección de la batería de pruebas.
+Ejecución del programa con los parámetros correspondientes.
+Observación del funcionamiento del programa en todas las opciones y situaciones posibles.
+Comparación de los resultados obtenidos con los esperados.
+Detección de las fases de desarrollo de programas donde hay errores.
+Elaboración de la documentación de la batería de pruebas, ejecución  y resultados obtenidos.
+
+9. Desarrollo de programas:
+
+Análisis del problema a resolver.
+Descomposición modular.
+Diseño del algoritmo para cada módulo.
+Codificación de los algoritmos.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+10. Producción de la guía de usuario y de documentos adjuntos al programa:
+
+Identificación de los elementos y procesos a incluir en el documento y/o guía.
+Selección de la estructura de la guía de usuario.
+Determinación del formato, orden y esquema de presentación.
+Obtención de la información, datos de los procesos, resultados de las pruebas y de las representaciones gráficas.
+Estructuración de los datos.
+Redacción del texto descriptivo del programa,de los cambios y de las pruebas.
+Redacción de la guía de usuario.
+Revisión y edición.
+
+11. Adaptación de programas:
+
+Interpretación de los nuevos requerimientos.
+Identificación de los datos y módulos de programación afectados por los nuevos requerimientos.
+Reconocimiento de las implicaciones sobre datos y módulos.
+Determinación de los cambios a introducir.
+Reajuste de los nuevos datos y módulos.
+Comprobación de que los nuevos datos y módulos no afecten ni a la eficacia y eficiencia de las prestaciones, ni al rendimiento del programa.
+
+e) Contenidos de actitudes.
+
+1. Sistematización del proceso de resolución de problemas:
+
+Toma de decisiones a la hora de integrar y montar programas y rutinas, y de introducir cambios en los programas diseñados con metodología que actualmente ya no utiliza la empresa.
+
+2. Sistematización en la comprobación de resultados:
+
+Constancia a la hora de revisar y corregir los errores detectados en la prueba de programas en la fase de programación.
+
+3. Optimización del trabajo:
+
+Eficacia para elaborar, adaptar y probar programas en lenguajes de programación estructurados.
+
+4. Orden y método de trabajo:
+
+Secuenciación y ordenación de las acciones a la hora de diseñar los algoritmos y efectuar cambios en los programas.
+Pulcritud y rigor a la hora de editar, traducir,montar, ejecutar y verificar programas en lenguajes estructurados.
+
+5. Responsabilidad en el trabajo:
+
+Cuidado en elaborar programas que sean claros y legibles.
+
+6. Participación y cooperación en el trabajo en equipo:
+
+Colaboración con los demás programadores, si es el caso, a la hora de diseñar y efectuar cambios en los programas.
+Interés por las opiniones de los demás sobre el programa desarrollado.
+
+7. Ejecución independiente del trabajo:
+
+Autosuficiencia para mantenerse informado de las innovaciones, tendencias y tecnologías en lenguajes de programación de tercera generación.
+Rigor en la programación, adaptación y prueba de programas en lenguajes estructurados.
+
+8. Confianza en si mismo:
+
+Seguridad a la hora de programar, adaptar y probar programas en lenguajes de tercera generación.
+
+9. Comunicación empática:
+
+Interés por el mensaje y por el interlocutor a la hora de recibir el problema a resolver con tratamiento informático, y en la elaboración de la documentación.
+
+10. Creatividad:
+
+Curiosidad por adivinar los problemas a resolver mediante la programación estructurada.
+
+11. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos enlenguajes estructurados.
+
+12. Adaptación a nuevas situaciones:
+
+Respuesta a nuevas situaciones en la utilización de nuevos lenguajes estructurados.
+
+13. Progreso y promoción en la profesión:
+
+Constancia y esfuerzo por aprender la utilización de nuevos lenguajes estructurados.
+
+14. Valoración de los resultados:
+
+Argumentación del resultado obtenido con el programa elaborado en lenguajes estructurados.
+Justificación de la decisión de los algoritmos empleados en la resolución del problema.
+
+Crédito 6: Programación avanzada.
+
+a) Duración: 150 horas.
+
+b) Objetivos terminales.
+
+Desarrollar códigos fuente de programas con estructuras de datos dinámicas y con recursividad.
+
+Desarrollar códigos fuente de programas con objetos, en lenguaje de programación orientados o no orientados a objeto, según la sintaxis y a partir de los algoritmos diseñados.
+
+Obtener los códigos objeto y ejecutable a partir de los códigos fuente y objeto, respectivamente.
+
+Desarrollar algoritmos recursivos para la resolución de problemas.
+
+Definir las estructuras de datos dinámicos necesarias para la resolución de problemas con programación estructurada y modular.
+
+Definir los objetos necesarios para la resolución de problemas con un lenguaje de programación orientado a objeto.
+
+Depurar los módulos de programación desarrollados, según los criterios de eficacia y eficiencia.
+
+Controlar la calidad del programa desarrollado, a partir de las especificaciones establecidas en el diseño, y de las prestaciones esperadas por el usuario.
+
+Verificar el funcionamiento de los módulos de la aplicación, las integraciones y los enlaces.
+
+Elaborar la guía de usuario y la documentación completa de las fases de diseño, codificación, traducción, enlace, depuración y verificación de programas, de forma estructurada y clara.
+
+Determinar las causas y formas de resolución de las incidencias aparecidas en las fases de codificación, traducción, enlace y depuración de programas, según el manual de referencia.
+
+Comprobar la eficacia y eficiencia de las prestaciones y rendimientos del programa elaborado.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales
+
+1. Programación con estructuras de datos dinámicos:
+
+Datos compuestos internos dinámicos: pilas, colas, listas, árboles.
+Algoritmos de tratamiento de pilas: inserción y eliminación.
+Algoritmos de tratamiento de colas: inserción y eliminación.
+Algoritmos de tratamiento de listas: recorrido, inserción, búsqueda y eliminación.
+Algoritmos de tratamiento de árboles: recorridos preorden, inorden y postorden, búsqueda, inserción, eliminación, aplicación en los ficheros indizados.
+
+2. Introducción a la programación recursiva:
+
+Recursividad: directa e indirecta.
+ 3. Introducción a la programación orientada a objetos:
+
+Conceptos generales: análisis orientado a objetos (AOO), diseño orientado a objetos (DOO), programación orientada a objetos (POO).
+Ventajas de la utilización de la POO: uniformidad, comprensión, flexibilidad, estabilidad y reutilización.
+
+4. Objetos:
+
+Definición y características.
+Identidad y objeto.
+Clase: atributos, operaciones, representación gráfica.
+Encapsulamiento y ocultación: librerías.
+Relaciones entre objetos.
+Herencia: simple y múltiple.
+Miembros virtuales. Polimorfismo.
+Comunicación entre objetos: objetivos, mensajes, estado, clientela y herencia.
+
+5. Implementación de las propiedades en POO:
+
+Lenguajes orientados a objetos: características, situación actual y evaluación.
+Implementación en lenguaje que soporte la POO.
+Implementación en lenguaje que no soporta la POO.
+
+6. Sistemas gestores de bases de datos orientadas a objetos (SGBDOO):
+
+Raíces. Limitaciones de las bases de datos relacionales.
+Arquitectura. Problemas. Lenguajes declarativos.
+Restricciones/disparadores. Cliente/servidor. Versiones.
+Modificación del esquema. Concurrencia.
+Situación actual. Coexistencia entre POO y SBGD relacionales.
+El lenguaje SQL y los SGBDOO.
+
+d) Contenidos de procedimientos.
+
+1. Implementación de estructuras de datos dinámicos:
+
+Identificación de las estructuras de datos.
+Determinación del algoritmo de tratamiento según la estructura de datos.
+Diseño del algoritmo.
+
+2. Definición de una clase:
+
+Asignación de nombre.
+Definición de los atributos.
+Definición de las operaciones.
+Representación gráfica.
+
+3. Definición del sistema de clases:
+
+Definición de la clase base.
+Definición de las subclases.
+Asignación de las relaciones entre clases.
+Representación gráfica del sistema.
+Depuración del sistema.
+
+4. Implementación del sistema de clases en un lenguaje que no soporta POO:
+
+Traslado de los objetos (atributos y operaciones) a estructuras de datos.
+Traspaso de los argumentos en las operaciones.
+Almacenaje de objetos en la memoria.
+Programación de la herencia.
+Programación del polimorfismo.
+
+5. Desarrollo de programas con estructuras de datos dinámicas y/o con recursividad:
+
+Análisis del problema a resolver.
+Descomposición modular.
+Diseño del algoritmo para cada módulo.
+Codificación de los algoritmos.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+6. Desarrollo de programas con utilización de objetos en lenguajes que soportan POO:
+
+Análisis del problema a resolver.
+Definición del sistema de clases.
+Descomposición modular.
+Diseño del algoritmo para cada módulo.
+Implementación del sistema de clases con las instrucciones específicas.
+Codificación de los algoritmos.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+7. Desarrollo de programas con utilización de objetos en lenguajes que no soporta POO:
+
+Análisis del problema a resolver.
+Definición del sistema de clases.
+Descomposición modular.
+Diseño del algoritmo para cada módulo.
+Implementación del sistema de clases en lenguaje que no soporta POO.
+Codificación de los algoritmos.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+e) Contenidos de actitudes.
+
+1. Sistematización del proceso de resolución de problemas:
+
+Toma de decisiones a la hora de implementar estructuras de datos dinámicos, algoritmos recursivos y programación orientada a objetos en lenguajes que no la soporten.
+
+2. Sistematización de la comprobación de resultados:
+
+Corrección sistemática de los errores detectados en la definición de las estructuras de datos dinámicos, de los algoritmos recursivos y de las clases y relaciones entre ellas.
+
+3. Optimización del trabajo:
+
+Eficacia en elaborar, adaptar y probarprogramas.
+
+4. Orden y método de trabajo:
+
+Ordenación y secuenciación de las acciones a la hora de editar, traducir, montar, ejecutar y verificar programas.
+
+5. Participación y cooperación en el trabajo en equipo:
+
+Colaboración con los demás programadores, si procede, a la hora de diseñar y efectuar cambios en la programación.
+
+6. Ejecución independiente del trabajo:
+
+Autosuficiencia para mantenerse informado de las innovaciones, tendencias y tecnologías en lenguajes de programación orientada a objetos.
+Rigurosidad en la programación, adaptación y prueba de programas.
+
+7. Confianza en si mismo:
+
+Seguridad a la hora de programar, adaptar y probar programas.
+
+8. Creatividad:
+
+Motivación por el diseño de programas con el uso de estructuras de datos dinámicos, algoritmos recursivos y/o la programación orientada a objetos.
+
+9. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos en la programación orientada a objetos.
+
+10. Adaptación a nuevas situaciones:
+
+Respuesta a nuevas situaciones ante la utilización de las técnicas de programación orientada a objetos.
+
+11. Progreso y promoción en la profesión:
+ Constancia y esfuerzo por aprender las técnicas de programación orientada a objetos.
+
+12. Valoración de resultados:
+
+Argumentación del resultado obtenido en el programa elaborado.
+
+Crédito 7: Sistemas gestores de bases de datos relacionales.
+
+a) Duración: 120 horas.
+
+b) Objetivos terminales.
+
+Identificar las características de los Sistemas Gestores de Bases de Datos Relacionales (SGBDR), las prestaciones de los productos existentes en la actualidad y las tendencias.
+
+Aplicar los procesos de traducción del modelo entidad-relación al modelo relacional.
+
+Aplicar los procesos de normalización en el modelo relacional.
+
+Diferenciar las características, objetivo y forma de representación de un diseño conceptual de datos y de relaciones.
+
+Definir un diseño lógico en un modelo relacional de tablas, claves y condiciones de integridad, a partir del diseño conceptual.
+
+Relacionar las operaciones básicas de la álgebra y del cálculo relacionales con los conceptos asociados a la representación de la información.
+
+Emplear los lenguajes de definición y manipulación de datos sobre un SGBDR de manera interactiva y según las reglas sintácticas.
+
+Identificar las funciones, sintaxis y órdenes básicas del lenguaje SQL para la definición, consulta, actualización y exportación/importación de datos.
+
+Definir programas en lenguajes estructurados que contengan, de manera sumergida, un lenguaje de manipulación de datos sobre un SGBDR.
+
+Determinar las causas y las formas de resolución de las incidencias aparecidas en la operación del SGBDR según la información de los manuales y del administrador del SGBDR.
+
+Elaborar la guía de usuario y la documentación completa relativa a las tablas y los atributos de la base de datos relacional, de manera estructurada y clara.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Modelo relacional:
+
+Relación: dominio, atributo, tuple, grado, cardinalidad, valores nulos, comparación con ficheros, claves.
+Reglas de integridad: de entidad  y referencial.
+Traducción del modelo entidad-relación al modelo relacional.
+Algebra relacional: operaciones de conjunto(unión, diferencia y producto cartesiano), operaciones 1-arias (proyección y
+selección), operaciones adicionales (reunión, interseccíón y división).
+Cálculo relacional orientado a tuples.
+Lenguajes relacionales: situación actual.
+
+2. Lenguaje de definición de datos SQL:
+
+Nivel conceptual: creación y eliminación de la base de datos; creación, expansión y eliminación de las tablas; definición de campos.
+Nivel externo: creación y eliminación de vistas.
+Nivel interno: creación y eliminación de índices.
+
+3. Lenguaje de manipulación de datos SQL:
+
+Tipos autosuficiente y sumergido. Cursor.
+Apertura y cierre de la base de datos.
+Operaciones sobre tuples: consultar, insertar, eliminar, modificar, exportar e importar.
+Transacciones.
+Control de accesos concurrentes.
+
+4. Normalización:
+
+Dependencia funcional. Dependencia funcional plena.
+Primera forma normal.
+Segunda forma normal. Dependencia transitiva.
+Tercera forma normal.
+Forma normal de Boyce Codd.
+Dependencias de valores múltiples.
+Cuarta forma normal.
+
+d) Contenidos de procedimientos.
+
+1. Conversión del modelo entidad-relación al modelo relacional:
+
+Identificación de las entidades del modelo con los atributos i la clave.
+Definición de la tabla correspondiente a cada entidad.
+Identificación de las relaciones del modelo con los atributos y el grado.
+Definición de las nuevas tablas correspondientes a cada relación, en su caso.
+Modificación de las tablas afectadas por las relaciones, en su caso.
+
+2. Creación y/o mantenimiento de una base de datos con el lenguaje SQL en entorno monousuario:
+
+Identificación de la base de datos a crear en el modelo relacional.
+Introducción de la orden de puesta en funcionamiento del SGBDR.
+Introducción de la orden de creación y/o apertura de la base de datos.
+Introducción de la orden de creación, modificación y/o eliminación de las tablas y los índices correspondientes.
+Determinación de la orden de cierre.
+
+3. Sesiones de trabajo con un SQL interactivosobre una base de datos en un SGBDR:
+
+Identificación de las operaciones que se deben realizar.
+Introducción de la orden de puesta en funcionamiento.
+Selección de la base de datos que se debe trabajar.
+Determinación de las órdenes que se deben introducir.
+Ejecución de las operaciones y tareas propuestas.
+Determinación de las órdenes de cierre.
+
+4. Elaboración de programas con SQL sumergido en entornos de cliente-servidor y de teleproceso:
+
+Análisis del problema a resolver.
+Descomposición modular.
+Diseño del algoritmo para cada módulo.
+Codificación de los algoritmos.
+Traducción SQL para los módulos que contienen sentencias SQL.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+e) Contenidos de actitudes.
+
+1. Sistematización del proceso de resolución de problemas:
+
+Toma de decisiones ante la creación y/o modificación de la estructura de la base de datos en un SGBD relacional en entorno monousuario.
+
+2. Sistematización en la comprobación de los resultados:
+
+Corrección sistemática de los errores en la utilización del lenguaje SQL interactivo y sumergido.
+
+3. Optimización del trabajo:
+
+Eficiencia a la hora de operar bases de datos enun SGBD relacional y en la administración del SGBD relacional en entorno monousuario.
+
+4. Orden y método de trabajo:
+
+Secuenciación y ordenación de las acciones que constituyen la creación y mantenimiento de las bases de datos en un SGBD relacional en entorno monousuario.
+Orden en el trabajo interactivo en una SGBD relacional.
+
+5. Participación y cooperación en el trabajo en equipo:
+
+Colaboración con el administrador del SGBD relacional en entorno multiusuario y/o red a la hora de la creación y/o modificación de la estructura de la base de datos.
+Interés por las opiniones de los demás ante la creación y/o modificación de la estructura de una base de datos.
+
+6. Ejecución independiente del trabajo:
+
+Autosuficiencia a la hora de utilizar de manera correcta las sentencias del lenguaje SQL.
+
+7. Confianza en si mismo:
+
+Constancia y esfuerzo por aprender nuevos SGBD relacionales.
+
+8. Intercambio de ideas, opiniones y experiencias:
+
+Consensuar diferentes puntos de vista a la hora de efectuar consultas y ser asistido por el administrador del SGBD relacional en entorno multiusuario.
+
+9. Comunicación empática:
+
+Interés por el mensaje y por el interlocutor en las consultas que deba efectuar al administrador del SGBD relacional en entorno multiusuario.
+
+10. Creatividad:
+ Motivación al efectuar operaciones complejas en un SGBD relacional.
+
+11. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos en el campo de los SGBD relacionales.
+
+12. Valoración de los resultados:
+
+Argumentación del resultado obtenido con el programa elaborado con SQL sumergido.
+
+Crédito 8: Ambitos de cuarta generación y herramientas CASE.
+
+a) Duración: 120 horas.
+
+b) Objetivos terminales.
+
+Elaborar un módulo de programación a partir de generadores de aplicaciones, pantallas, menús o informaciones de cuarta generación y herramientas CASE.
+
+Utilizar entornos de desarrollo de cuarta generación y herramientas CASE para la elaboración de aplicaciones informáticas, y para la actualización y mantenimiento de bases de datos.
+
+Montar aplicaciones en entornos de cuarta generación y con herramientas CASE.
+
+Relacionar las características y prestaciones del lenguaje de cuarta generación con los lenguajes de tercera generación y los lenguajes interactivos y que funcionan sobre bases de datos relacionales.
+
+Comprobar la validez de las aplicaciones desarrolladas mediante la realización de pruebas y la elaboración de prototipos.
+
+Determinar las causas y las formas de resolución de las incidencias aparecidas en las fases de generación de las aplicaciones, según las instrucciones del manual de usuario.
+ Adaptar aplicaciones en entornos de cuarta generación y herramientas CASE, según los nuevos requerimientos establecidos en el diseño.
+
+Determinar las implicaciones que producen las nuevas modificaciones sobre los datos y los módulos.
+
+Comprobar la eficiencia y eficacia de las prestaciones y de los rendimientos de la aplicación en los procesos de adaptación y diseño de las aplicaciones.
+
+Elaborar la documentación de la aplicación a partir del repositorio de una herramienta CASE, de manera clara y precisa.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Herramientas de desarrollo de cuarta generación:
+
+Clasificación. Características. Evolución y tendencias.
+Lenguajes de cuarta generación: características y relaciones entre los lenguajes de tercera generación y los lenguajes interactivos y que funcionan sobre bases de datos relacionales.
+Generadores de bases de datos relacionales.
+Generadores de pantallas para entrada y salida de datos: características, estructura, sintaxis e instrucciones,
+expresiones, variables y funciones del sistema.
+Generadores de informes: características, estructura, sintaxis, instrucciones, expresiones y atributos de impresora, variables y funciones del sistema.
+Generadores de menús: características, estructura, instrucciones.
+Generadores de aplicaciones: características, integración.
+Generadores de documentación de la base de datos: manual de usuario y manual de analista.
+
+2. Herramientas CASE:
+
+Definición y objetivos. Campos de aplicación. Evolución y clasificación.
+Criterios de evaluación y selección. Metodologías.
+Repositorio: estructura y actualización.
+Generación de código y documentación a partir del repositorio.
+Herramientas de integración y prueba.
+Herramientas de mantenimiento. Ingeniería inversa.
+
+d) Contenidos de procedimientos
+
+1. Creación y/o mantenimiento de una base de datos relacional con herramientas de 4ª generación y/o CASE:
+
+Preparación de las relaciones de la base de datos.
+Comprobación de la herramienta que está en funcionamiento.
+Operativa de la herramienta según las necesidades del usuario y las demandas de la herramienta.
+
+2. Gestión de pantallas, informes, menús y documentación con herramientas  de 4ª generación y/o CASE:
+
+Identificación de las necesidades de usuario.
+Comprobación del funcionamiento de la herramienta.
+Selección de la base de datos implicada.
+Definición de los diseños de pantallas, informes y menús.
+Operativa de la herramienta referente a la creación,
+modificación, eliminación, ejecución y documentación de pantallas, informes y menús.
+
+3. Creación o mantenimiento de una aplicación con herramientas de 4ª generación y/o CASE:
+
+Análisis del problema a resolver.
+Generación del análisis funcional.
+Generación del análisis orgánico.
+Generación de las pantallas, informes y/o menús.
+Integración de los módulos.
+Verificación de la aplicación.
+Elaboración de la documentación de la aplicación.
+
+e) Contenidos de actitudes.
+
+1. Sistemática en el proceso de resolución de problemas:
+
+Toma de decisiones a la hora de crear, mantener, eliminar y ejecutar los menús, pantallas, informes, documentación y ayudas, y a la hora de integrarlos en aplicaciones desarrolladas con lenguajes de cuarta generación y/o herramientas CASE.
+
+2. Sistemática en la comprobación de los resultados:
+
+Corrección sistemática de los errores detectados en la prueba de programas desarrollados en lenguajes de cuarta generación y/o herramientas CASE.
+
+3. Optimización del trabajo:
+
+Eficacia para elaborar, adaptar y probar aplicaciones en lenguajes de cuarta generación y/o con herramientas CASE.
+
+4. Orden y método de trabajo:
+
+Secuenciación y ordenación de las acciones a la hora de efectuar cambios en las aplicaciones desarrolladas en lenguajes de cuarta generación y/o herramientas CASE.
+Orden a la hora de generar aplicaciones con lenguajes de cuarta generación y/o herramientas CASE.
+
+5. Compromiso con las obligaciones asociadas al trabajo:
+
+Cumplimiento de las normas asociadas a los lenguajes de cuarta generación y/o herramientas CASE.
+
+6. Ejecución independiente del trabajo:
+
+Autosuficiencia para utilizar los lenguajes de cuarta generación y las herramientas CASE.
+
+7. Confianza en si mismo:
+
+Seguridad a la hora de diseñar y generar aplicaciones con lenguajes de cuarta generación y/o herramientas CASE.
+
+8. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos en lenguajes de cuarta generación y herramientas CASE.
+Asimilación de nuevos métodos de trabajo a la hora de efectuar el cambio de lenguajes de tercera generación hacia lenguajes de cuarta generación y herramientas CASE.
+
+9. Progreso y promoción en la profesión:
+
+Constancia y esfuerzo por aprender la utilización de lenguajes de cuarta generación y herramientas CASE.
+
+10. Valoración de los resultados:
+
+Argumentación del resultado obtenido con el programa elaborado en lenguajes de cuarta generación y/o herramientas CASE.
+Interrogación sobre el proceso seguido en el desarrollo de la aplicación.
+
+Crédito 9: Diseño y realización de servicios de presentación en entornos gráficos.
+
+a) Duración: 120 horas.
+
+b) Objetivos terminales.
+
+Diseñar formatos de presentación de forma coherente, que integren la información provinente de diferentes aplicaciones y permitan una asimilación rápida, con las acciones que se deben realizar y rentabilizar el espacio disponible.
+
+Determinar los aspectos que faciliten eldiálogo usuario-máquina, y el tipo de ayudas integradas que se pueden ofrecer.
+
+Operar con eficiencia las interfaces gráficas de usuario disponibles en la organización, y según las normas de protocolo que ofrece el sistema.
+
+Determinar la operatividad entre interfaces gráficas de usuario y sistemas gestores de bases de datos.
+
+Diseñar plantillas de presentación de interfaces de usuario que validen la entrada de datos, verifiquen las órdenes de usuario y controlen las interacciones con dispositivos de entrada y de salida.
+
+Definir esquemas de diálogos, sistemas de mensajes de error claros y concisos, sistemas de pantallas de ayudas y listas de valores a partir de especificaciones y requerimientos funcionales de la aplicación.
+
+Seleccionar una representación uniforme para todas las interfaces de usuario existentes en la organización.
+
+Elaborar interfaces de usuario a partir de las especificaciones y requerimientos funcionales de la aplicación.
+
+Implementar sobre unas interfaces gráficas de usuario el diseño de los servicios de una aplicación, con el uso de lenguajes de tercera generación, herramientas de cuarta generación y plantillas definidas en el repositorio de una herramienta CASE.
+
+Verificar el funcionamiento de las interfaces desarrolladas, en los aspectos tiempos de respuesta, funcionamiento de las ayudas, de las aplicaciones, según las prescripciones establecidas.
+
+Determinar las causas y las formas de resolución de las incidencias aparecidas en la elaboración de las interfaces de usuario, según las indicaciones del manual de usuario.
+ Elaborar la guía de utilización y la documentación completa sobre los servicios de presentación desarrollados, con precisión y pulcritud.
+
+Valorar las ventajas e inconvenientes de las prestaciones de las interfaces de usuario existentes en el mercado.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Diseño de interfaces:
+
+Interacción hombre-máquina. La percepción humana. Tipos de interacción.
+Criterios del diseño. Entrada y salida de datos. Esquemas de diálogo.
+
+2. Interfaces gráficas de usuario (los GUI):
+
+Evolución y tendencias.
+Componentes gráficos: ventanas gráficas y textuales, cajas de selección simple y múltiple, cajas de diálogo, iconos, gráficos, color, tipos de letra, otros.
+Influencia del GUI en el desarrollo de aplicaciones informáticas.
+Programación por sucesos.
+Programación orientada a objetos.
+
+3. Ambitos multimedia:
+
+Evolución y tendencias.
+Características.
+Configuración física.
+Programario general y específico.
+Integración de información visual, auditiva y sensorial.
+
+d) Contenidos de procedimientos
+
+1. Diseño de algoritmos en entornos gráficos:
+
+Identificación de los datos de entrada, de salida y de sus canales.
+Determinación de la secuencia de acciones correspondientes.
+Selección de formatos de entrada y de salida dedatos y de los esquemas de diálogo según el entorno gráfico empleado.
+Representación gráfica.
+
+2. Codificación de algoritmos en entornos gráficos:
+
+Identificación de los elementos y de las relaciones.
+Elección del lenguaje adecuado.
+Traducción al código con la herramienta o reglas sintácticas adecuadas.
+
+3. Desarrollo de programas en entornos gráficos:
+
+Análisis del problema a resolver.
+Descomposición modular.
+Diseño del algoritmo en entorno gráfico para cada módulo.
+Codificación de los algoritmos en entornos gráficos.
+Traducción de los módulos.
+Montaje del programa.
+Verificación del programa.
+Documentación del programa.
+
+4. Producción de la guía de usuario y de la documentación sobre los servicios de presentación:
+
+Identificación de los elementos y procesos que se deben incluir en el documento y/o guía.
+Selección de la estructura de la guía de usuario.
+Determinación del formato, de la orden y del esquema de presentación.
+Obtención de la información de los aspectos y campos de pantalla utilizados en el servicio de presentación.
+Estructuración de los datos.
+Redacción del texto que describe la metodología y el protocolo de implementación.
+Redacción de la guía de usuario de interfaces.
+Revisión y edición.
+
+e) Contenidos de actitudes.
+
+1. Sistematización del proceso de resolución deproblemas:
+
+Toma de decisiones a la hora de integrar y montar programas y rutinas en entornos gráficos.
+
+2. Sistematización en la comprobación de resultados:
+
+Constancia en la comprobación de la implementación de los servicios de presentación y de su funcionalidad y eficacia.
+
+3. Optimización del trabajo:
+
+En la eficacia para elaborar, adaptar y probar programas en lenguajes sobre entornos gráficos.
+
+4. Compromiso con las obligaciones asociadas al trabajo:
+
+Gusto en la presentación y diseño de la pantalla de servicio.
+Precisión y concisión en la elaboración de la guía de usuario.
+
+5. Orden y método de trabajo:
+
+Ordenación de las operaciones a la hora de editar, traducir, montar, ejecutar y verificar programas en entornos gráficos.
+
+6. Participación y cooperación en el trabajo en equipo:
+
+Colaboración con los demás programadores o compañeros, si procede, a la hora de diseñar y efectuar cambios en los programas.
+
+7. Ejecución independiente del trabajo:
+
+Autonomía en la definición y descripción de procedimientos y de interfaz de usuario.
+Rigor en la programación, adaptación y prueba de programas en entornos gráficos.
+
+8. Confianza en si mismo:
+
+Seguridad a la hora de programar, adaptar y probar programas en entornos gráficos.
+
+9. Creatividad:
+
+Interés por mejorar la presentación y el diseño de los servicios de presentación, lo cual es útil al usuario y a las exigencias de la organización.
+
+10. Apertura al entorno profesional y a su evolución:
+
+Interés por los avances tecnológicos en entornos multimedia.
+Asimilación de nuevos métodos de trabajo en la programación sobre entornos gráficos.
+
+11. Adaptación a nuevas situaciones:
+
+Flexibilidad en la utilización de entornos gráficos en diferentes situaciones.
+
+12. Progreso y promoción en la profesión:
+
+Constancia y esfuerzo por aprender la tecnología multimedia.
+
+13. Valoración de los resultados:
+
+Argumentación y/o justificación de la decisión sobre los algoritmos empleados en la resolución del problema en entornos gráficos.
+
+Crédito 10: Relaciones en el entorno de trabajo.
+
+a) Duración: 60 horas.
+
+b) Objetivos terminales.
+
+Organizar la información y los canales de acceso y de uso en las relaciones en el entorno de trabajo.
+
+Afrontar los conflictos que se producen en el entorno de trabajo con la participación de las personas implicadas.
+
+Tomar decisiones, a partir de los objetivos de la empresa o del grupo, teniendo en cuenta los condicionantes técnicos y humanos que concurren y las opiniones personales.
+
+Liderar un equipo de trabajo de acuerdo con el estilo de dirección más adecuado a las características situacionales.
+
+Valorar el comportamiento individual de las personas a partir de los sistemas de supervisión y control.
+
+Aplicar el proceso de integración de nuevos trabajadores en el equipo de trabajo, en función de la información que se le da de la empresa, el conocimiento de los compañeros, el puesto de trabajo, las tareas a realizar, los métodos de trabajo y el funcionamiento de la empresa.
+
+Conducir un proceso de negociación en función de los objetivos esenciales que se deben alcanzar y de la aplicación de las técnicas de negociación.
+
+Conducir las reuniones de trabajo en función de los objetivos que se deben conseguir y de la aplicación de las técnicas de dinamización y funcionamiento de grupos.
+
+Distinguir las características de funcionamiento de un grupo de trabajo y los factores organizativos y de comunicación.
+
+Potenciar los factores que favorecen la motivación en el trabajo a partir de las políticas generales de la empresa sobre recursos humanos.
+
+Ejecutar todas las fases que componen un programa o una actuación de formación, de acuerdo con las necesidades detectadas, los recursos y el presupuesto.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Comunicación:
+ Tipos de comunicación.
+Elementos de la comunicación.
+Canales de comunicación.
+Barreras, interferencias y distorsiones en la comunicación.
+Comunicación en la empresa.
+Control de la información.
+
+2. Conflictos:
+
+Tipos.
+Causas.
+Fases de desarrollo de los conflictos.
+Vías de solución.
+Participación del grupo.
+
+3. Negociación:
+
+Concepto.
+Objetivos de una negociación.
+Fases que configuran el proceso de negociación.
+Estilos de negociación.
+Fases: preparación, discusión, intercambio, cierre y acuerdo.
+
+4. Toma de decisiones:
+
+Tipos.
+Factores que influyen en la decisión.
+Consultas previas.
+
+5. Liderazgo:
+
+Concepto.
+Teorías del liderazgo.
+Estilos de dirección.
+Supervisión del trabajo.
+Delegación eficaz.
+El cuadro de empresa.
+Integración de nuevos trabajadores.
+
+6. Políticas de la empresa:
+
+Salarial.
+De valoración de puestos de trabajo.
+De información a los trabajadores.
+De promoción en el trabajo.
+De formación de los trabajadores.
+ 7. Dirección de grupos:
+
+Características de los grupos formales e informales.
+Funcionamiento de los grupos.
+Roles de los componentes.
+Dinamización y dirección de grupos.
+
+8. Dirección de reuniones:
+
+Tipos de reuniones.
+Papel del moderador.
+Participación.
+Preparación y recursos de apoyo.
+Técnicas de trabajo.
+Evaluación de la reunión.
+
+9. Motivación:
+
+Concepto.
+Factores que favorecen la motivación.
+Teorías sobre la motivación.
+
+10. Formación:
+
+Objetivos.
+Contenidos.
+Medios.
+Presupuesto.
+Metodología.
+Evaluación.
+
+d) Contenidos de procedimientos.
+
+1. Producción de textos:
+
+Concreción de la finalidad del escrito.
+Recogida de información.
+Organización de la información.
+Preparación del guión, esquema y disposición.
+Redacción.
+Revisión y corrección.
+
+2. Proceso de comunicación:
+
+Percepción del interlocutor.
+Interpretación del mensaje.
+Selección de la estrategia de relación y del estilo de comunicación.
+Emisión de la comunicación, mensaje o información.
+
+3. Resolución de conflictos:
+
+Verificación de la existencia de conflictos.
+Interpretación de la causa que origina el conflicto.
+Análisis de las alternativas de resolución de conflictos.
+Toma de la decisión.
+
+4. Negociación:
+
+Diagnóstico de la situación.
+Fijación de objetivos.
+Presentación de las propuestas.
+Cierre de la negociación.
+
+5. Toma de decisiones:
+
+Análisis de las circunstancias concurrentes.
+Búsqueda de soluciones posibles.
+Selección de una alternativa.
+
+6. Conducción de grupos de trabajo:
+
+Interpretación de las dinámicas internas y externas del grupo.
+Determinación de los objetivos de los grupos.
+Selección del estilo de liderazgo.
+Identificación de las pautas de conducta que tienen que adoptar los participantes.
+Dinamización y control de grupos.
+
+7. Dirección de reuniones:
+
+Fijación de objetivos.
+Organización del material técnico y de apoyo.
+Estimulación de la participación.
+Mantenimiento de la discusión sin salirse del tema.
+Síntesis de las ideas, temas o acuerdos.
+
+8. Motivación:
+
+Análisis de la actitud humana ante el trabajo.
+Identificación de las expectativas laborales.
+Selección de los incentivos según las actitudesconstatadas, las expectativas detectadas y las posibilidades de organización.
+Aplicación de los incentivos.
+Revisión de los efectos de las medidas motivacionales.
+
+9. Formación:
+
+Identificación de las necesidades de formación.
+Formulación de los objetivos.
+Descripción de los contenidos.
+Selección de los medios y de la metodología.
+Cálculo del coste de la formación.
+Impartición de la formación.
+Evaluación de la actividad formativa.
+
+e) Contenidos de actitudes.
+
+1. Apertura al entorno profesional:
+
+Reconocimiento de la existencia de los valores culturales de la empresa y de su influencia en el comportamiento humano.
+
+2. Compromiso con las obligaciones asociadas al trabajo:
+
+Responsabilidad en la acción de integrar nuevos trabajadores en el centro de trabajo.
+Rigurosidad en la aplicación del plan de comunicación interna establecido.
+
+3. Dirección de recursos humanos:
+
+Aplicación de los mecanismos necesarios para realizar una delegación eficaz.
+
+4. Interés por las relaciones humanas:
+
+Cordialidad a la hora de establecer relaciones con los demás.
+Respeto por la personas y su libertad individual dentro de un grupo social.
+Interés por los demás.
+
+5. Comunicación empática:
+
+Buena elaboración y transmisión de mensajespara facilitar la comprensión.
+Interés por la retroalimentación del proceso de comunicación.
+Reconocimiento de la diversidad de los demás a fin de aceptar la existencia de barreras comunicativas.
+Capacidad de escuchar.
+
+6. Tratamiento de conflictos:
+
+Objetividad para determinar la responsabilidad de todas las partes que intervienen en un conflicto.
+Imparcialidad a la hora de escuchar los motivos de cada una de las partes.
+Habilidad para escoger la alternativa de resolución más adecuada.
+
+7. Reflexión y decisión para escoger un estilo de dirección:
+
+Reflexión individual para escoger el estilo de decisión y/o de dirección más adecuado a la situación.
+Argumentación y cuidado en la forma de comunicar la decisión a los subordinados.
+Mantenimiento del principio ético en la aplicación de las decisiones tomadas.
+
+8. Participación y cooperación en el trabajo en equipo:
+
+Colaboración con los demás miembros de la organización siempre que sea necesario.
+Reconocimiento de la necesidad de participación y cooperación para la consecución de los objetivos de la empresa.
+Desarrollo del espíritu crítico.
+Aceptación de las opiniones y juicios de otras personas para mejorar la calidad de cualquier aspecto laboral.
+Creación, entre los colaboradores, de la necesidad y conveniencia del trabajo en equipo.
+Fomento del uso de reuniones participativas.
+
+Crédito 11: Formación y orientación laboral.
+
+a) Duración: 60 horas.
+ b) Objetivos terminales.
+
+Identificar las situaciones de riesgo derivadas del trabajo en función de las causas que las generan, de la clasificación de los diversos grupos de riesgo y de los daños que provocan en la persona y en la colectividad.
+
+Identificar los medios de prevención y protección a utilizar en las situaciones de riesgo, en función de la naturaleza de la situación y del alcance, personal y/o ambiental, de actuación del riesgo.
+
+Aplicar las medidas de intervención en caso de accidente, según la prioridad de actuación que sea necesaria y de acuerdo con la urgencia que el caso requiera con relación a las lesiones producidas.
+
+Reconocer los derechos, los deberes y los procedimientos que se derivan de las relaciones laborales.
+
+Identificar las condiciones de trabajo del sector correspondiente que figuran en el convenio colectivo.
+
+Diferenciar las modalidades de contratación más utilizadas en el sector actualmente, según el tipo y la finalidad del trabajo.
+
+Especificar las prestaciones del régimen general de la Seguridad social, en función de las condiciones exigidas para tener derecho, el tiempo de duración y las cantidades económicas, en su caso.
+
+Relacionar los requerimientos del puesto de trabajo con las actitudes y capacidades personales.
+
+Diferenciar los requisitos y las características de la inserción laboral en función de la modalidad de trabajador autónomo, empresa social, asalariado o funcionario.
+
+Diferenciar los tipos de mercado, las relaciones entre oferta y demanda, y el procesode determinación de precios.
+
+Relacionar los efectos de las relaciones económicas internacionales en la actividad de la empresa.
+
+Identificar las áreas funcionales de una empresa-tipo del sector y las relaciones que se establecen entre ellas a partir de diferentes modelos organizativos.
+
+Indicar la situación económica y financiera de una empresa a partir de los datos básicos y las posibilidades de financiación.
+
+c) Contenidos de hechos, conceptos y sistemas conceptuales.
+
+1. Salud laboral:
+
+Seguridad, higiene y salud en el trabajo.
+Salud y medio ambiente.
+Factores de riesgo en el trabajo: físicos, químicos, esfuerzos, organizativos y comunes.
+Técnicas de prevención y protección.
+Actuación en caso de accidente.
+
+2. Legislación y relaciones laborales:
+
+Administración y Jurisdicción laboral.
+Derechos y deberes laborales.
+Modalidades del contrato de trabajo.
+Modificación, extinción e infracciones.
+Representación.
+Convenios colectivos.
+Conflictos colectivos.
+Prestaciones de la Seguridad social.
+
+3. Orientación e inserción sociolaboral:
+
+Intereses y capacidades.
+Ofertas de trabajo.
+Trabajo de asalariado en una empresa o en la administración.
+Autoocupación: autónomo o empresa social.
+Itinerarios formativos y de profesionalización.
+
+4. Principios de economía.
+ Economía y agentes económicos básicos.
+El mercado: tipos.
+Oferta, demanda y precio.
+Comercio internacional y balanza de pagos.
+
+5. Economía y organización de la empresa:
+
+Estructuras empresariales.  Sistemas y modelos organizativos.
+Patrimonio empresarial.
+Cuentas anuales: balance, cuenta de resultados y memoria.
+Datos financieros de disponibilidad, de solvencia y de financiación.
+Financiación interna y financiación externa.
+
+d) Contenidos de procedimientos.
+
+1. Análisis del riesgo en el ámbito de trabajo:
+
+Identificación de las situaciones de riesgo.
+Determinación del ámbito de actuación del riesgo.
+Búsqueda de información y datos.
+Delimitación de los elementos implicados.
+Observación y medida del riesgo.
+Identificación de la normativa aplicable.
+Proposición de actuaciones preventivas y de protección.
+
+2. Aplicación de primeros auxilios:
+
+Prioridad de actuaciones.
+Preparación del accidentado.
+Aplicación de la técnica específica.
+
+3. Consulta de la normativa laboral:
+
+Identificación del elemento de la consulta.
+Localización de la fuente correspondiente.
+Interpretación con relación al supuesto.
+Aplicación de la normativa.
+
+4. Inserción laboral:
+
+Análisis de las capacidades laborales y de los intereses personales.
+Localización de ofertas de trabajo.
+Interpretación de las ofertas de trabajo.
+Análisis de la adecuación personal al puesto de trabajo.
+Participación en el proceso de selección.
+
+5. Análisis de los datos macroeconómicos y financieros:
+
+Determinación de los datos o hechos a analizar.
+Cálculo de los datos.
+Interpretación y valoración de resultados.
+
+e) Contenidos de actitudes.
+
+1. Apertura al entorno profesional y su evolución:
+
+Interés por los aspectos económicos, laborales, sociales y del medio ambiente en la aplicación de normas laborales adecuadas, en las propuestas de condiciones de trabajo y en la identificación y la comparación de hechos económicos.
+
+2. Adaptación a nuevas situaciones:
+
+Respuesta activa en la utilización de la normativa laboral y en la aplicación de las técnicas y los elementos preventivos más recientes derivados de los cambios tecnológicos y organizativos.
+
+3. Intercambio de ideas, opiniones y experiencias:
+
+Espíritu crítico en la valoración e interpretación de los datos y los hechos socioeconómicos, en la determinación de condiciones laborales, en la detección y análisis de riesgo, y en los debates sobre normas jurídicas y situaciones laborales.
+
+4. Interés por las relaciones humanas:
+
+Respeto hacia los demás en el proceso de selección y en la obtención de datos socioeconómicos.
+
+5. Valoración de resultados:
+ Argumentación e interrogación de los resultados obtenidos y del procedimiento empleado en la detección del riesgo y las consecuencias correspondientes, en el análisis de las situaciones laborales, en la búsqueda de ofertas de trabajo y en la actuación en caso de accidente.
+
+6. Respeto por la salud, el medio ambiente y la seguridad laboral:
+
+Aplicación correcta de las normas de seguridad y medidas de prevención y protección del medio ambiente y la salud.
+
+7. Igualdad ante las diferencias socioculturales:
+
+Trato de igualdad y no discriminatorio en la determinación de las condiciones laborales, en la identificación y aplicación de los contratos de trabajo, en la verificación del cumplimiento de la normativa, en la identificación de capacidades e intereses personales y en la adecuación personal al puesto de trabajo.
+
+8. Progreso y promoción en la profesión:
+
+Disciplina y corrección en la realización del trabajo.
+
+9. Calidad de trabajo:
+
+Buena presentación y estructuración de los escritos (contratos, cartas, currícula, pruebas de selección e informes socioeconómicos).
+
+10. Mentalidad emprendedora y creativa:
+
+Aportación de soluciones originales e innovadoras en las discusiones de las situaciones laborales conflictivas, en las propuestas de actuación preventivas, en la aplicación de los convenios, en el análisis de las posibilidades de ocupación y en la prioridad de actuación en caso de accidente.
+
+11. Compromiso con las obligaciones asociadas al trabajo:
+ Valoración y cumplimiento de las normas laborales.
+Participación en actividades colectivas.
+Puntualidad en la realización de actividades y en la entrega del trabajo.
+
+Crédito 12: Formación en centros de trabajo.
+
+a) Duración: 350 horas.
+
+b) Objetivos terminales.
+
+Adaptarse a las funciones propias de los servicios informáticos de cualquier tipo de organización tanto del sector público como del privado, de manera responsable y participativa.
+
+Afrontar las tareas de técnico en desarrollo de aplicaciones informáticas en empresas de servicios informáticos, en empresas de cualquier sector de la actividad económica y en organizaciones o instituciones, con progresiva autonomía, organización e iniciativa en el trabajo.
+
+Valorar las tareas que desarrolle en los servicios informáticos, a partir de sus intereses y aptitudes y de la experiencia acumulada en la formación en el centro de trabajo.
+
+c) Tipos de actividades formativas de referencia propuestas (posibles tareas que se pueden desarrollar en la empresa):
+
+1. Actividades formativas de referencia relacionadas con el análisis de aplicaciones informáticas de gestión.
+
+1.1 Análisis previo.
+
+Integración en el equipo de trabajo correspondiente.
+Participación en las entrevistas con los futuros usuarios de la aplicación a fin de conocer las necesidades de la aplicación y los recursos disponibles en la organización.
+Cooperación en la evaluación de lainformación obtenida y en la búsqueda de soluciones y su redacción con el uso de la terminología informática adoptada en la organización.
+Colaboración en la presentación a la organización de las soluciones obtenidas a la espera de la decisión que aquella adopte.
+
+1.2 Análisis funcional.
+
+Se integra en el equipo de trabajo correspondiente.
+Asiste a las entrevistas con los futuros usuarios.
+Participa en el estudio de la solución adoptada por la organización al final del análisis previo.
+Coopera en la elaboración de la modelización de los datos con un diagrama entidad-relación.
+Colabora en la modulación de la aplicación en diferentes partes utilizando la terminología adoptada, y en el diseño del plan de pruebas de la aplicación.
+Colabora en el estudio de las previsiones de maquinaria, programario base, entorno de programación y formación de usuarios.
+Recoge toda la información de esta fase para elaborar la documentación del análisis funcional.
+
+1.3 Análisis orgánico.
+
+Se integra en el equipo de trabajo correspondiente.
+Asiste a las entrevistas con los futuros usuarios.
+Estudia la documentación del análisis funcional.
+Participa en el diseño de los algoritmos de los módulos con las técnicas de programación estructurada, modular, orientada a objetos, etc. y realiza la documentación adecuada.
+Coopera en el diseño de las interfaces entre los diferentes módulos de aplicación.
+Realiza el diseño del plan de pruebas para un módulo de la aplicación.
+Recoge toda la información de esta fase para elaborar la documentación del análisis orgánico.
+
+2. Actividades formativas de referencia relacionadas con la programación de aplicaciones informáticas de gestión.
+
+2.1 Programación de un módulo de la aplicación.
+
+Estudia la documentación provinente del análisis orgánico.
+Prepara el entorno de trabajo.
+Codifica los algoritmos según la sintaxis del lenguaje que se debe utilizar y la programación estructurada y modular a fin de obtener los programas fuentes.
+Obtiene los programas objetos con la utilización de los programas traductores adecuados, actuando en consecuencia en función de los resultados.
+
+2.2 Obtención del programa ejecutable.
+
+Obtiene el programa ejecutable a partir de los programas objetos con la utilización del programa montador y las librerías correspondientes.
+
+2.3 Ejecución de los planes de pruebas para los módulos.
+
+Estudia el plan de pruebas diseñado por módulo, en el análisis orgánico.
+Prepara los datos de prueba para el módulo a verificar.
+Ejecuta el programa correspondiente al módulo.
+Evalúa los resultados obtenidos.
+
+2.4 Ejecución del plan de pruebas diseñado para la aplicación en el análisis funcional.
+
+Coopera en la preparación de los datos de prueba para la aplicación informática.
+Ejecuta la aplicación informática.
+Coopera en la evaluación de los resultados obtenidos, actuando en consecuencia.
+
+2.5 Elaboración de la documentación.
+
+Recoge toda la información de esta fase paraelaborar la documentación de la programación de la aplicación informática.
+
+2.6 Demostración de la aplicación.
+
+Coopera en la preparación del entorno de trabajo (maquinaria, programario, datos de prueba, etc.) para la demostración.
+Colabora con el usuario en la ejecución de las diferentes opciones de la aplicación.
+Coopera en la evaluación de los resultados obtenidos, actuando en consecuencia.
+
+2.7 Elaboración de la guía de usuario.
+
+Estudia la información generada en las diferentes fases de desarrollo de la aplicación informática.
+Estudia el funcionamiento de la aplicación.
+Redacta las características y las instrucciones de funcionamiento de la aplicación.
+
+3. Actividades formativas de referencia relacionadas con la adaptación de aplicaciones informáticas de gestión.
+
+3.1 Análisis de la adaptación.
+
+Participa en las diferentes fases de análisis (previa, funcional y orgánica) para la adaptación.
+
+3.2 Programación de la adaptación.
+
+Busca los programas fuentes, objeto de modificación.
+Identifica las partes del programa fuente a actualizar, para codificarlas de nuevo.
+Obtiene los nuevos programas objeto y ejecutable.
+Ejecuta los planes de pruebas para los módulos adaptados y para la aplicación informática.
+Actualiza la documentación correspondiente.
+
+4. Actividades formativas de referencia relacionadas con la utilización de sistemas informáticos.
+
+Busca información en los manuales y en losadministradores del sistema sobre la maquinaria, el programario base y la interconexión entre los diferentes sistemas.
+Opera las funciones básicas de usuario en los diferentes sistemas.
+Prepara el entorno de trabajo para la programación de aplicaciones informáticas en los diferentes sistemas.
+Instala sistemas operativos monousuario y los programas desarrollados y/o adaptados en entornos monousuario.
+
+d) Cada centro docente determina los contenidos y aplica los criterios generales de evaluación siguientes:
+
+Analiza el entorno de trabajo e identifica las relaciones laborales y el marco organizativo y de funcionamiento de la organización.
+
+Se adapta a las características organizativas y a las diferentes situaciones propias del centro de trabajo.
+
+Actúa con responsabilidad respecto a las tareas y funciones asignadas según las normas fijadas por la organización.
+
+Trabaja, cuando se le requiere, en equipo, corresponsabilizándose, cooperando, respetando y valorando el trabajo de los demás.
+
+Adopta una actitud participativa, se interesa por aprender y tiene iniciativa en relación con las tareas encomendadas.
+
+Tiene una visión, de conjunto y coordinada, del objetivo de la organización y de las áreas funcionales y de los sistemas de relación y coordinación entre áreas.
+
+Obtiene la información y los medios necesarios para realizar su actividad, utilizando los canales existentes.
+
+Mantiene una comunicación apropiada a su entorno profesional; usuarios, servicios técnicos del sistema y dirección deldepartamento.
+
+Busca el momento, el lugar y los canales más adecuados para plantear una comunicación.
+
+Mantiene una actitud receptiva a las consideraciones y sugerencias que le formulen.
+
+Utiliza la terminología informática y de gestión de la organización en los documentos, los informes y la formulación de propuestas.
+
+Ejecuta las tareas ajustándose progresivamente a los niveles particulares de la organización.
+
+Comprueba los procesos de trabajo, adaptaciones, diseño, instrucciones, y resuelve los errores de acceso y/o de funcionamiento detectados.
+
+Identifica las características particulares de la maquinaria y del programario que encuentra en su entorno de trabajo, y se ajusta a las normas técnicas y de procedimiento establecidas para la organización.
+
+Identifica aquellas condiciones de la organización más relacionadas con la profesión que puedan ser objeto de mejora.
+
+Identifica aquellas tareas y entornos de actividad que se adecuen mejor a sus aptitudes e intereses profesionales.
+
+Identifica los aspectos positivos y negativos del entorno de trabajo: condiciones de seguridad personal y medioambiental, riesgos y relaciones personales, entre otros.
+
+Crédito 13: Síntesis.
+
+a) Duración: 90 horas.
+
+b) Finalidad.
+
+El crédito de síntesis debe permitir culminar la integración de los contenidos impartidos a lolargo del ciclo, globalizando e interrelacionando, y si es necesario completando, aquellos contenidos susceptibles de mostrar, al final del ciclo formativo, el grado de consecución de los objetivos generales del ciclo.
+
+c) Objetivos terminales.
+
+Analizar la intervención de las fases de análisis, diseño, programación, explotación, mantenimiento y documentación de una aplicación informática al desarrollo de un proyecto informático.
+
+Determinar las especificaciones de las aplicaciones informáticas, los procesos que componen la aplicación, la modelización de datos y secuencias y las condiciones de realización de las pruebas.
+
+Desarrollar con la máxima autonomía los procesos y funciones de las diferentes fases de una aplicación informática, con el uso de un lenguaje de programación y de las herramientas necesarias para soportar la programación.
+
+d) El centro docente determina los contenidos.
+
+3.3 Horas a disposición del centro.
+
+Dentro de la duración establecida para este ciclo formativo, los centros docentes dispondrán de 170 horas lectivas para completar el currículum establecido y adecuarlo a su entorno socioeconómico. Los centros docentes distribuirán libremente las horas en uno o más de los créditos previstos para este ciclo, o bien programando más créditos.
+En ningún caso estas horas incrementarán la duración del crédito de formación en centros de trabajo.
+
+3.4 Relación de los créditos en que se estructuran los módulos profesionales.
+
+Módulo 1: Sistemas informáticosmultiusuarios y en red.
+Crédito 1: Sistemas operativos.
+Crédito 2: Redes de áreas locales.
+
+Módulo 2: Análisis y diseño detallado de aplicaciones informáticas de gestión.
+Crédito 3: Análisis y diseño de bases de datos.
+Crédito 4: Análisis y diseño de aplicaciones informáticas.
+
+Módulo 3: Programación en lenguajes estructurados.
+Crédito 5: Programación estructurada y modular.
+Crédito 6: Programación avanzada.
+
+Módulo 4: Desarrollo de aplicaciones en entornos de cuarta generación y herramientas CASE.
+Crédito 7: Sistemas gestores de bases de datos relacionales.
+Crédito 8: Entornos de cuarta generación y con herramientas CASE.
+
+Módulo 5: Diseño y realización de servicios de presentación en entornos gráficos.
+Crédito 9: diseño y realización de servicios de presentación en entornos gráficos.
+
+Módulo 6: Relaciones en el entorno de trabajo.
+Crédito 10: Relaciones en el entorno de trabajo.
+
+Módulo 7: Formación y orientación laboral.
+Crédito 11: Formación y orientación laboral.
+
+Módulo 8: Formación en centros de trabajo.
+Crédito 12: Formación en centros de trabajo.
+
+3.5 Materias del bachillerato que se han debido cursar para acceder al ciclo formativo.
+
+Matemáticas II
+
+4. Especialidades del profesorado con atribución docente en los créditos del ciclo formativo de grado superior de Desarrollo de aplicaciones informáticas:
+
+a) El profesorado de la especialidad de sistemas y aplicaciones informáticas del cuerpo de profesores técnicos de formación profesional tiene atribución docente para los créditos:
+
+Crédito 1: Sistemas operativos.
+Crédito 2: Redes de áreas locales.
+Crédito 9: Diseño y realización de servicios de presentación en entornos gráficos.
+
+b) El profesorado de la especialidad de informática del cuerpo de profesores de enseñanza secundaria tiene atribución docente para los créditos:
+
+Crédito 3: Análisis y diseño de bases de datos.
+Crédito 4: Análisis y diseño de aplicaciones informáticas.
+Crédito 5: Programación estructurada y modular.
+Crédito 6: Programación avanzada.
+Crédito 7: Sistemas gestores de bases de datos relacionales.
+Crédito 8: Entornos de cuarta generación y con herramientas CASE.
+
+c) El profesorado de la especialidad de formación y orientación laboral del cuerpo de profesores de enseñanza secundaria tiene atribución docente para los créditos:
+
+Crédito 10: Relaciones en el entorno de trabajo.
+Crédito 11: Formación y orientación laboral.
+
+d) El profesorado de las especialidades citadas en los apartados a), b) y c) tiene atribución docente para el crédito:
+
+Crédito 13: Síntesis.
+
+5. Convalidaciones, correspondencias y acceso a estudios universitarios.
+
+5.1 Módulos profesionales que pueden ser convalidados con la formación profesional ocupacional:
+
+Sistemas informáticos multiusuario y en red.
+Programación en lenguajes estructurados.
+Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE.
+
+5.2 Módulos profesionales que pueden corresponderse con la práctica laboral:
+
+Sistemas informáticos multiusuario y en red.
+Programación en lenguajes estructurados.
+Desarrollo de aplicaciones en entornos de cuarta generación y con herramientas CASE.
+Formación y orientación laboral.
+Formación en centro de trabajo.
+
+5.3 Acceso a estudios universitarios:
+
+Diplomado en Biblioteconomía y Documentación.
+Diplomado en Ciencias Empresariales.
+Diplomado en Gestión y Administración Pública.
+Diplomado en Estadística.
+Diplomado en Informática.
+Ingeniero Técnico en Informática de Gestión.
+Ingeniero Técnico en Informática de Sistemas.

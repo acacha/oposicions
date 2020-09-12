@@ -1,0 +1,91 @@
+PRÀCTICA
+
+60% de la primera part de la OPO
+S'ha de treure un mínim de 25% per fer mitja (1,5)
+
+NOTA: El tribunal havia penjat les característiques de la prova tres dies abans a les seves vitrines. HI havien tres tribunals a Catalunya (Barcelona, Vilafranca i ?) i sembla ser que tots teniem el mateix exàmen i que les notes eran baremades (les plaçes no eran a nivell de tribunal sino que son a nivell de tota catalunya). Com a mínim vam omplir tres aules d'unes 30-35 persones per aula.Aprox unes 100 persones.
+
+TEST
+
+25% de la nota pràctica ()
+
+Preguntes curtes (25). Es proposen dos exàmens a escollir. 5 respostes posibles per pregunta. Es penalitzen amb un quart de punt les respostes incorrectes.
+
+
+Temes que surten.
+
+Adreçes de xarxa. Moltes preguntes:
+    - Coneixer IP, BROADCAST, CLASSES DE XARXA (A,B,C,D), Adreça de xarxa i mascara. Saber calcular rangs e IPs correctes dins d'una xarxa a partir de l'adreça de xarxa i la mascara. Saber calcular el nombre de subxarxes.
+
+Xarxes
+
+    - Al dedillo les CAPES OSI i en catala. Coneixer les caracterísitques de cada una (orientada a  conexio, confiable,etc)
+    - Routers i Switchs. A quina capa correspon cada un
+    - Cable d'un router serie. Com és?
+    - Especificacions cables. Ex 100Base-T. Que és 100 que és base i que és T. Altres possibilitats. Cables trenats i cables
+ coaxials.
+
+Representació i comunicació de la informació
+	- Operacions binaries (suma, resta, desplaçament, etc). Tema 1
+   	- Sistemes hexadecimal i octal
+    	- Cambis de sistema DE NUMERACIÓ. D'hexadecimal a DECIMAL, etc.
+	- Complemento a 2. Complemento a base.Tema 10 Representacion interna de lso datos
+	- Utilització de signos 
+
+BASES DE DADES
+	- SQL. Exemples. Varies opcions escollir una de bona. SELECTS amb creuaments, HAVINGS, GROUP BYS etc.
+	- Normes formals al dedillo. Definicions e implicacions. Regles de formalitzacio al tema 38.
+
+Llenguatge de programació C
+	- Sintaxi
+	- Interpretar petis fragments de codi. Punters i lios d'aquest tipus son carn de caño
+	- Qüestions concretes. Dir si un fragment és vàlid. Pseudocodi. Ex. Comanda per alliberar memòria de mallocs, free? Comanda per dir que volem executar una funció al acabar un programa?
+
+C++ i C#. Programació Orientada a objectes. Clases derivades i clases base. Conceptes de POO i sintaxi concreta com com es fa una lcase final no heradable en C, public, protected i private, etc.
+
+Conceptes de POO. Tema 27
+	- Polimorfisme, Encapsulacio i Herència
+	- Instànciació
+
+Una pregunta sobre ensamblador
+
+1 Pregunta sobre sistemes distribuits
+
+UNIX
+
+Comandes UNIX. Chmod, chown. Coneixer el tema de permisos. Comandes com Quina obté les variables d'entorn. Altres
+Hardlinks 2 preguntes. Que pasa al tenir un hardlink entre dos fitxers i esborrar un d'ells. Es poden tenir hardlinks entre 2 fitxers de diferents sistemes de fitxers? Tema 20. Conocer la shell i conceptes bàsics de programació en shell. P.ex: Quina variable conté els parametres que es pasen a la shell $a, $0? fg, bg, comandes de procesos.
+
+
+Active Directory que és?
+
+
+PROBLEMES
+
+És el 60% de 60%. Es proposen 2 opcions
+
+OPció B
+
+Joc de XifresiLletres. El joc de les xifres. Donat un conjunt m de nombres positius (no deien res de que fossin natural i no fraccions), i les operacions comunes (+,-,*,/) i un valor P (sense cap mena de requeriment) s'havia d'obtenir a base de càlculs el valor exacte o el menor m¡al valor exacte més proper.
+
+Requisits:
+
+- Cada nombre és pot utilitzar 0 o 1 vegades.
+- Els valors obtinguts per un subconjunt d'operacions es poden utilitzar com a base d'una altre operació
+- No es pot tenir valors intermitjos negatius
+
+Sembla ser que s'havia d'utilitzar un algorisme recursiu i sense cap herística és a dir que el càlcul s'havia d'obtenir per força bruta. Et demanaven el pseudocodi, explicar l'algorisme escollit implementació d'una funció significativa en C, C++ o Java i les estructures de dades.
+
+Jo vaig escollir treballar per parells de forma recursiva seguint la màxima de que tota operació amb un conjunt d'operands es pot reduir a dos operands fent les operacions intermitges. Vaig decidir crear dos vectors Operands i Operators on guardar els operands i els operadors necessaries d'una posible solució per despres poder-la imprimir. Era problemàtic conservar els índex. Al principi vaig utilitzar un for però era més correcte crec una estructura while de la que no es sortis fins trobar la solució i pintar la solució usants els dos vectors explicats anteriorment. En cas de no trobar solució, s'ha d'acabar el bucle i utilitzar un enter on cada vegada que s'obté un càlcul parcial es guarda aquest càlcul parcial si:
+
+       ultim càlcl parcial més proper < el calcul parcial actual < el valor exacte.
+
+
+OPCIÓ A
+
+Eren dos laberints. A cada laberint podien haver-hi de 0 a 10 guardians que tenen una ruta definida que la repeteixen. Per cada laberint tenim un robot que ha de sortir del laberint sense topar en guardies. Qüestions concretes:
+Ojo amb els guardies quan es creuen
+La resta ni me la vaig llegir
+Sembla ser que amb arbres potser es podria resoldre. Això deia la gent
+
+Opció A

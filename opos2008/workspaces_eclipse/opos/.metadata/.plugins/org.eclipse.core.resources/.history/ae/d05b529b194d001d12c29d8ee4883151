@@ -1,0 +1,72 @@
+#include <stdlib.h>;
+
+
+//Estructures de dades
+
+typedef struct distancia DISTANCIA;
+
+struct distancia {
+	int dist;
+	int nodeAnterior;
+};
+
+
+int main(int argc, char **argv) {
+
+	//Iniciar el graf
+	//Paràmetres:
+	//argv[1]= nº de nodes
+	//Per cada node la seva llista d'adjacències (pesos als veins) parella: vei distancia
+	//argv[2]=nº de node inicial
+	//nnodes vegades:
+	// argv[4] pes node vei 1
+	// argv[5] pes node vei 2
+	// argv[6] pes node vei 3
+	// ...
+	
+	int nodeinicial,nnodes,i,j;
+	DISTANCIA *distancies; //On guardarem el resultat de l'agorismes de Dijkstra
+	ARESTA *veins;
+	
+	int *pesos;
+	
+	if (argc<6) {
+		printf("El nombre de paràmetres mínim és 5(2 nodes). Utilitza: %d nnodes nodeinicial pes1 pes2 pes3 ",argv[0]);
+	}
+		
+	
+	nnodes=atoi(argv[1]);
+	nodeinicial=atoi(argv[2]);
+	
+	distancies=(DISTANCIA*) malloc(sizeof(DISTANCIA)*nnodes);
+	pesos=(int*) malloc(sizeof(int)*nnodes*nnodes);
+	
+	for (i = 0; i < nnodes; ++i) {
+		for (j = 0; j < nnodes; ++j) {
+			pesos[i*nnodes+j]=argv[3+nnodes*i+j];
+	}
+	
+	
+	
+	
+	free=(DISTANCIA*);
+	
+}
+
+void mostrarGraf(int *pesos,int nnodes) {
+	int i,j;
+	
+	for (i = 0; i < nnodes; ++i) {
+		for (j = 0; j < nnodes; ++j) {
+			printf("%d ",pesos[*nnodes+j]);
+		}
+		printf("\n");
+	}
+	printf("\n");
+	printf("\n");
+	
+
+	
+}
+
+

@@ -1,0 +1,50 @@
+
+public class Operand {
+	
+	private int operand;
+	
+	private String operacions;
+
+	public int getOperand() {
+		return operand;
+	}
+
+	public void setOperand(int operand) {
+		this.operand = operand;
+	}
+
+	public String getOperacions() {
+		return operacions;
+	}
+
+	public void setOperacions(String operacions) {
+		this.operacions = operacions;
+	}
+	
+	public int intValue() {
+		return this.getOperand();
+	}
+	
+	public Operand() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public Operand(int operand) {
+		// TODO Auto-generated constructor stub
+		this.setOperand(operand);
+		this.setOperacions("");
+	}
+	
+	public Operand(int operand,String operacions) {
+		// TODO Auto-generated constructor stub
+		this.setOperand(operand);
+		this.setOperacions(operacions);
+	}
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return (new Integer(this.getOperand())).toString();
+	}
+
+}
